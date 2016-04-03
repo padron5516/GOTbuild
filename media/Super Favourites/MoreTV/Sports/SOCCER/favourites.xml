@@ -1,0 +1,3 @@
+<favourites>
+	<favourite name="[COLOR=FF00FF00][B] SOCCER  [/B][/COLOR]" thumb="special://home/addons/plugin.video.phstreams/resources/media/phhuddle/soccer.png">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=Huddle_Sites&amp;fanart=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.phstreams%2fresources%2fmedia%2fphhuddle%2fHuddle-fanart.jpg&amp;image=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.phstreams%2fresources%2fmedia%2fphhuddle%2fsoccer.png&amp;url=Soccer&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.phstreams%2Fresources%2Fmedia%2Fphhuddle%2FHuddle-fanart.jpg%26_options_sf&quot;,return)</favourite>
+</favourites>

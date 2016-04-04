@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Ukturks</name>
+    <match>all</match>
+    <rule field="title" operator="contains">
+        <value>http://metalkettle.co/UKTurk18022016/Live%20TV.txt?841=5065</value>
+    </rule>
+</smartplaylist>

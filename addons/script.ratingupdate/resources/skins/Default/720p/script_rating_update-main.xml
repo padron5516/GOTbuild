@@ -1,0 +1,138 @@
+<window id="130">
+     <defaultcontrol>24</defaultcontrol>
+     <coordinates>
+	  <system>1</system>
+	  <posx>385</posx>
+	  <posy>190</posy>
+     </coordinates>
+     <controls>
+	  <control type="image">
+	       <description>Background</description>
+	       <posx>0</posx>
+	       <posy>0</posy>
+	       <width>510</width>
+	       <height>340</height>
+	       <texture>background.png</texture>
+	  </control>
+	  <control type="label" id="100">
+	       <description>Title Label</description>
+	       <wrapmultiline>false</wrapmultiline>
+	       <scroll>false</scroll>
+	       <label></label>
+	       <posx>0</posx>
+	       <posy>10</posy>
+	       <width>510</width>
+	       <height>30</height>
+	       <align>center</align>
+	       <aligny>center</aligny>
+	       <font>font12</font>
+	       <style>bold</style>
+	       <textcolor>blue</textcolor>
+	  </control>
+	  <control type="image" id="101">
+	       <description>OnFocus Image</description>
+	       <posx>265</posx>
+	       <posy>50</posy>
+	       <width>200</width>
+	       <height>200</height>
+	       <aspectratio></aspectratio>
+	       <texture>exit.png</texture>
+	  </control>
+	  <control type="label" id="102">
+	       <description>OnFocus Label</description>
+	       <wrapmultiline>false</wrapmultiline>
+	       <scroll>false</scroll>
+	       <label></label>
+	       <posx>0</posx>
+	       <posy>295</posy>
+	       <width>510</width>
+	       <height>30</height>
+	       <align>center</align>
+	       <aligny>center</aligny>
+	       <font>font12</font>
+	       <textcolor>white</textcolor>
+	  </control>
+	  <control type="label" id="103">
+	       <description>Latest Label</description>
+	       <wrapmultiline>false</wrapmultiline>
+	       <scroll>false</scroll>
+	       <label></label>
+	       <posx>245</posx>
+	       <posy>250</posy>
+	       <width>245</width>
+	       <height>30</height>
+	       <align>center</align>
+	       <aligny>center</aligny>
+	       <font>font12</font>
+	       <textcolor>white</textcolor>
+	  </control>
+	  <control type="button" id="21">
+	       <description>Top250</description>
+	       <label></label>
+	       <posx>20</posx>
+	       <posy>75</posy>
+	       <width>200</width>
+	       <height>40</height>
+	       <font>font12_title</font>
+	       <align>center</align>
+	       <aligny>center</aligny>
+	       <texturenofocus border="5">button-nofocus.png</texturenofocus>
+	       <texturefocus border="5">button-focus.png</texturefocus>
+	       <onup>24</onup>
+	       <onleft>24</onleft>
+	       <onright>22</onright>
+	       <ondown>22</ondown>
+	  </control>
+	  <control type="button" id="22">
+	       <description>Movies</description>
+	       <label></label>
+	       <posx>20</posx>
+	       <posy>125</posy>
+	       <width>200</width>
+	       <height>40</height>
+	       <font>font12_title</font>
+	       <align>center</align>
+	       <aligny>center</aligny>
+	       <texturenofocus border="5">button-nofocus.png</texturenofocus>
+	       <texturefocus border="5">button-focus.png</texturefocus>
+	       <onup>21</onup>
+	       <onleft>21</onleft>
+	       <onright>23</onright>
+	       <ondown>23</ondown>
+	  </control>
+	  <control type="button" id="23">
+	       <description>TVShows</description>
+	       <label></label>
+	       <posx>20</posx>
+	       <posy>175</posy>
+	       <width>200</width>
+	       <height>40</height>
+	       <font>font12_title</font>
+	       <align>center</align>
+	       <aligny>center</aligny>
+	       <texturenofocus border="5">button-nofocus.png</texturenofocus>
+	       <texturefocus border="5">button-focus.png</texturefocus>
+	       <onup>22</onup>
+	       <onleft>22</onleft>
+	       <onright>24</onright>
+	       <ondown>24</ondown>
+	  </control>
+	  <control type="button" id="24">
+	       <description>Exit</description>
+	       <label></label>
+	       <posx>20</posx>
+	       <posy>225</posy>
+	       <width>200</width>
+	       <height>40</height>
+	       <font>font12_title</font>
+	       <align>center</align>
+	       <aligny>center</aligny>
+	       <texturenofocus border="5">button-nofocus.png</texturenofocus>
+	       <texturefocus border="5">button-focus.png</texturefocus>
+	       <onup>23</onup>
+	       <onleft>23</onleft>
+	       <onright>21</onright>
+	       <ondown>21</ondown>
+	  </control>
+     </controls>
+</window>

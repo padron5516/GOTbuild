@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.ratingupdate" name="Rating Update" version="1.3.9" provider-name="Max (m4x1m) Headroom">
+     <requires>
+	  <import addon="xbmc.python" version="2.1.0" />
+	  <import addon="script.module.simplejson" version="2.0.10" />
+	  <import addon="script.module.myconnpy" version="0.3.2" />
+     </requires>
+     <extension point="xbmc.python.script" library="default.py">
+	  <provides>executable</provides>
+     </extension>
+     <extension point="xbmc.service" library="service.py" start="start" />
+     <extension point="xbmc.addon.metadata">
+	  <platform>all</platform>
+	  <forum>http://forum.xbmc.org/showthread.php?tid=107331</forum>
+	  <summary lang="en">Keep up to date the ratings and the Top250 of your all Movies and TVShows.</summary>
+	  <summary lang="it">Tieni aggiornate le valutazioni e la Top250 di tutti i tuoi Film e Serie TV.</summary>
+	  <description lang="en">Would you like to update the ratings and the Top250 of all your Movies and TVShows without rescrape all data? This script allow you to update the ratings of all your Movies and TVShows in one shot and keep updated the IMDb Top250. To avoid mistakes will be used the IMDb ID and the database will be updated only if necessary. Will be processed the scores, the number of users who have voted, the MPAA and the Top250 of course.</description>
+	  <description lang="it">Desideri aggiornare le valutazioni e la Top250 di tutti i tuoi Film e Serie TV senza fare il rescrape tutti i dati? Questo script consente di aggiornare le valutazioni di tutti i tuoi Film e Serie TV in un solo colpo e mantiene aggiornata la Top250 di IMDb. Per evitare errori verrà utilizzato l'ID di IMDb e il database verrà aggiornato solo se necessario. Saranno aggiornati i punteggi, il numero di utenti che hanno votato, la valutazione MPAA e la Top250, naturalmente.</description>
+	  <disclaimer lang="en">Works only if you have the IMDb IDs in your database.</disclaimer>
+	  <disclaimer lang="it">Funziona solo se gli ID IMDb sono presenti nel database.</disclaimer>
+     </extension>
+</addon>

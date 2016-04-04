@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+     <category label="32801" id="General">
+	  <setting label="32802" type="lsep" />
+	  <setting label="32803" type="folder" id="BinaryPath" default="/usr/bin/" source="auto" />
+	  <setting label="32804" type="folder" id="MissingPath" default="" source="auto" />
+	  <setting label="32805" type="lsep" />
+	  <setting label="32806" type="bool" id="Top250" default="true" />
+	  <setting label="32807" type="bool" id="Movies" default="true" />
+	  <setting label="32808" type="bool" id="TVShows" default="true" />
+	  <setting label="32809" type="lsep" />
+	  <setting label="32810" type="action" option="close" action="RunScript($CWD/resources/lib/ruManage.py)" />
+     </category>
+     <category label="32811" id="MPAA">
+	  <setting label="32812" type="lsep" />
+	  <setting label="32813" type="bool" id="MpaaRating" default="false" />
+	  <setting label="32814" type="text" id="MpaaPrefixMovies" enable="eq(-1,true)" default="" />
+	  <setting label="32815" type="text" id="MpaaPrefixTVShows" enable="eq(-2,true)" default="" />
+	  <setting label="32816" type="labelenum" id="MpaaCountry" enable="eq(-3,true)" values="USA|Argentina|Australia|Belgium|Brazil|Canada|Chile|Finland|France|Germany|Hong Kong|Iceland|India|Ireland|Israel|Italy|Japan|Malaysia|Netherlands|New Zealand|Norway|Peru|Philippines|Portugal|Singapore|South Africa|South Korea|Spain|Sweden|Switzerland|UK" default="USA" />
+	  <setting label="32817" type="enum" id="MpaaReason" enable="eq(-1,0)+eq(-4,true)" lvalues="32110|32111" default="0" />
+     </category>
+     <category label="32818" id="Background">
+	  <setting label="32819" type="lsep" />
+	  <setting label="32820" type="enum" id="BackgroundRun" lvalues="32111|32821|32822" default="0" />
+	  <setting label="32823" type="enum" id="ResumeResponse" enable="gt(-1,0)" lvalues="32113|32112" default="0" />
+	  <setting label="32824" type="enum" id="WeekDay" enable="eq(-2,2)" lvalues="32827|32828|32829|32830|32831|32832|32833" default="0" />
+	  <setting label="32825" type="slider" id="DelayTime" enable="eq(-3,2)" range="5,5,60" option="int" default="5" />
+	  <setting label="32826" type="bool" id="HideProgress" enable="eq(-4,0)" default="false" />
+     </category>
+     <category label="32850" id="Modding">
+	  <setting label="32851" type="lsep" />
+	  <setting label="32852" type="bool" id="RawQueries" default="false" />
+	  <setting label="32853" type="enum" id="DBType" enable="eq(-1,true)" lvalues="32111|32110" default="0" />
+	  <setting label="32854" type="text" id="DBName" enable="eq(-2,true)" default="MyVideos75" />
+	  <setting label="32855" type="text" id="DBHost" enable="eq(-2,1)" default="localhost" />
+	  <setting label="32856" type="text" id="DBUser" enable="eq(-3,1)" default="XBMC" />
+	  <setting label="32857" type="text" id="DBPass" enable="eq(-4,1)" option="hidden" default="XBMC" />
+     </category>
+     <category label="32901" id="Credits">
+	  <setting label="32902" type="lsep" />
+	  <setting label="32903" type="lsep" />
+	  <setting label="32904" type="lsep" />
+	  <setting label="32905" type="lsep" />
+	  <setting type="sep" />
+	  <setting label="32906" type="lsep" />
+	  <setting label="32907" type="lsep" />
+	  <setting label="32908" type="lsep" />
+	  <setting type="sep" />
+	  <setting label="32909" type="lsep" />
+	  <setting label="32910" type="lsep" />
+     </category>
+</settings>

@@ -1,0 +1,513 @@
+# XBMC Media Center Language File
+# Addon Name: Rating Update
+# Addon ID: script.ratingupdate
+# Addon Provider: Max (m4x1m) Headroom
+msgid ""
+msgstr ""
+"Project-Id-Version: Rating Update\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2013-12-07 00:00+0000\n"
+"PO-Revision-Date: 2013-12-24 00:00+0000\n"
+"Last-Translator: Max (m4x1m) Headroom <m4x1m@inwind.it>\n"
+"Language-Team: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "Addon Summary"
+msgid "Keep up to date the ratings and the Top250 of your all Movies and TVShows."
+msgstr "Tieni aggiornate le valutazioni e la Top250 di tutti i tuoi Film e Serie TV."
+
+msgctxt "Addon Description"
+msgid "Would you like to update the ratings and the Top250 of all your Movies and TVShows without rescrape all data? This script allow you to update the ratings of all your Movies and TVShows in one shot and keep updated the IMDb Top250. To avoid mistakes will be used the IMDb ID and the database will be updated only if necessary. Will be processed the scores, the number of users who have voted, the MPAA and the Top250 of course."
+msgstr "Desideri aggiornare le valutazioni e la Top250 di tutti i tuoi Film e Serie TV senza fare il rescrape tutti i dati? Questo script consente di aggiornare le valutazioni di tutti i tuoi Film e Serie TV in un solo colpo e mantiene aggiornata la Top250 di IMDb. Per evitare errori verrà utilizzato l'ID di IMDb e il database verrà aggiornato solo se necessario. Saranno aggiornati i punteggi, il numero di utenti che hanno votato, la valutazione MPAA e la Top250, naturalmente."
+
+msgctxt "Addon Disclaimer"
+msgid "Works only if you have the IMDb IDs in your database."
+msgstr "Funziona solo se gli ID IMDb sono presenti nel database."
+
+msgctxt "#32101"
+msgid "Top250"
+msgstr "Top250"
+
+msgctxt "#32102"
+msgid "Movies"
+msgstr "Film"
+
+msgctxt "#32103"
+msgid "TV Shows"
+msgstr "Serie TV"
+
+msgctxt "#32104"
+msgid "Exit"
+msgstr "Esci"
+
+msgctxt "#32105"
+msgid "Missing"
+msgstr "Mancanti"
+
+msgctxt "#32106"
+msgid "Checks the Top250 list of all your movies"
+msgstr "Controlla la lista Top250 di tutti i tuoi film"
+
+msgctxt "#32107"
+msgid "Checks the ratings of all your movies"
+msgstr "Controlla le valutazioni di tutti i tuoi film"
+
+msgctxt "#32108"
+msgid "Checks the ratings of all your tv shows"
+msgstr "Controlla le valutazioni di tutte le tue Serie TV"
+
+msgctxt "#32109"
+msgid "Look xbmc.log file to see what has been done"
+msgstr "Guarda il file xbmc.log per vedere cosa è stato fatto"
+
+msgctxt "#32110"
+msgid "Yes"
+msgstr "Si"
+
+msgctxt "#32111"
+msgid "No"
+msgstr "No"
+
+msgctxt "#32112"
+msgid "Resume"
+msgstr "Riprendi"
+
+msgctxt "#32113"
+msgid "Not Resume"
+msgstr "Non Riprendere"
+
+msgctxt "#32200"
+msgid "The previous scraping was interrupted"
+msgstr "La scraping precedente era stato interrotto"
+
+msgctxt "#32201"
+msgid "Do you want to resume?"
+msgstr "Vuoi riprendere?"
+
+msgctxt "#32202"
+msgid "You can resume from where it was interrupted"
+msgstr "È possibile riprendere da dove ci si è fermati"
+
+msgctxt "#32250"
+msgid "Sending query to the IMDb site, please wait ..."
+msgstr "Invio della query al sito IMDb, attendere prego ..."
+
+msgctxt "#32251"
+msgid "Complete"
+msgstr "Completo"
+
+msgctxt "#32252"
+msgid "Incomplete"
+msgstr "Incompleto"
+
+msgctxt "#32253"
+msgid "Never Checked"
+msgstr "Mai Controllato"
+
+msgctxt "#32254"
+msgid "Started updating for the Top250"
+msgstr "Avviato aggiornamento per la Top250"
+
+msgctxt "#32255"
+msgid "Started updating for the Movies"
+msgstr "Avviato aggiornamento per i Film"
+
+msgctxt "#32256"
+msgid "Started updating for the TV Shows"
+msgstr "Avviato aggiornamento per le Serie TV"
+
+msgctxt "#32300"
+msgid "Imports the current Top250 list"
+msgstr "Importo l'attuale lista dei Top250"
+
+msgctxt "#32301"
+msgid "%s: was added at the position %s"
+msgstr "%s: inserito nella posizione %s"
+
+msgctxt "#32302"
+msgid "%s: the old position was %s the new position is %s"
+msgstr "%s: la vecchia posizione era %s la nuova posizione è %s"
+
+msgctxt "#32303"
+msgid "%s: there's no need any updates"
+msgstr "%s: non è necessario nessun aggiornamento"
+
+msgctxt "#32304"
+msgid "%s: was removed because no more in the Top250"
+msgstr "%s: è stato rimosso perché non più nella Top250"
+
+msgctxt "#32305"
+msgid "%s updated - %s added - %s removed|Now the movies in your Top250 are %s"
+msgstr "%s aggiornati - %s aggiunti - %s rimossi|Ora i film nella tua Top250 sono %s"
+
+msgctxt "#32306"
+msgid "List of the missing Top250"
+msgstr "Elenco dei Top250 mancanti"
+
+msgctxt "#32400"
+msgid "Movies Top250 summary"
+msgstr "Riepilogo Film per la Top250"
+
+msgctxt "#32401"
+msgid "Movies ratings summary"
+msgstr "Riepilogo valutazioni Film"
+
+msgctxt "#32402"
+msgid "TV Shows ratings summary"
+msgstr "Riepilogo valutazioni Serie TV"
+
+msgctxt "#32403"
+msgid "Searching for"
+msgstr "Ricerca di"
+
+msgctxt "#32450"
+msgid "Current TV Show: "
+msgstr "Serie TV corrente: "
+
+msgctxt "#32451"
+msgid "Which is correct? (ESC to skip)"
+msgstr "Qual è giusto? (ESC per saltare)"
+
+msgctxt "#32452"
+msgid "If not in list starts the virtual keyboard ..."
+msgstr "Se non è nella lista avvia la tastiera virtuale ..."
+
+msgctxt "#32453"
+msgid "was skipped by the user"
+msgstr "è stato saltato da parte dell'utente"
+
+msgctxt "#32454"
+msgid "was added in ruDatabase as %s"
+msgstr "è stato aggiunto nel ruDatabase come %s"
+
+msgctxt "#32455"
+msgid "was changed in ruDatabase as %s"
+msgstr "è stato cambiato nel ruDatabase come %s"
+
+msgctxt "#32456"
+msgid "was skipped by the system"
+msgstr "è stato saltato da parte del sistema"
+
+msgctxt "#32457"
+msgid "Set this TV Show to skipping always ..."
+msgstr "Imposta questa Serie TV su salta sempre ..."
+
+msgctxt "#32458"
+msgid "Skip Always"
+msgstr "Salta Sempre"
+
+msgctxt "#32459"
+msgid "Is set to skipping always"
+msgstr "È impostato su salta sempre"
+
+msgctxt "#32500"
+msgid "The new Rating is %s with %s voters"
+msgstr "La nuova valutazione è %s con %s votanti"
+
+msgctxt "#32501"
+msgid " and the new MPAA is %s"
+msgstr " e il nuovo MPAA è %s"
+
+msgctxt "#32502"
+msgid "No new Rating"
+msgstr "Nessuna nuova valutazione"
+
+msgctxt "#32503"
+msgid " and no new MPAA"
+msgstr " e nessun nuovo MPAA"
+
+msgctxt "#32504"
+msgid "%s of %s were updated"
+msgstr "%s di %s sono stati aggiornati"
+
+msgctxt "#32550"
+msgid "Manages TV Shows IMDb ID"
+msgstr "Gestisci gli ID IMDb delle Serie TV"
+
+msgctxt "#32600"
+msgid "Info"
+msgstr "Info"
+
+msgctxt "#32601"
+msgid "Error"
+msgstr "Errore"
+
+msgctxt "#32602"
+msgid "Abort"
+msgstr "Abortito"
+
+msgctxt "#32603"
+msgid "The scraping was canceled by the user"
+msgstr "Lo scraping è stato annullato dall'utente"
+
+msgctxt "#32604"
+msgid "The JSON query is failed, sorry"
+msgstr "La query JSON è fallita, mi dispiace"
+
+msgctxt "#32605"
+msgid "The query to IMDb site is failed, sorry"
+msgstr "La query al sito IMDb è fallita, mi dispiace"
+
+msgctxt "#32606"
+msgid "The IMDb ID was not found for this movie"
+msgstr "L'ID IMDb non è stato trovato per questo film"
+
+msgctxt "#32607"
+msgid "The query to the database is failed, sorry"
+msgstr "La query al database è fallita, mi dispiace"
+
+msgctxt "#32608"
+msgid "The php-cgi binary wasn't found in your system"
+msgstr "Il binario php-cgi non è stato trovato nel tuo sistema"
+
+msgctxt "#32609"
+msgid "Please see the README file and install it"
+msgstr "Si prega di consultare il file README e installarlo"
+
+msgctxt "#32610"
+msgid "Creates and populates the ruDatabase.db"
+msgstr "Creazione e popolamento del ruDatabase.db"
+
+msgctxt "#32611"
+msgid "Current ruDatabase is set to the v%s - There's need an update"
+msgstr "La versione corrente del ruDatabase è v%s - C'è bisogno di un aggiornamento"
+
+msgctxt "#32612"
+msgid "There's a problem with your database settings"
+msgstr "C'è un problema con le impostazioni del database"
+
+msgctxt "#32613"
+msgid "Please check if the database settings are correct"
+msgstr "Si prega di controllare se le impostazioni del database sono corrette"
+
+msgctxt "#32650"
+msgid "Clean"
+msgstr "Pulisci"
+
+msgctxt "#32651"
+msgid "Click the selected TV Show to do search again"
+msgstr "Clicca sulla Serie TV per fare una nuova ricerca"
+
+msgctxt "#32652"
+msgid "\"Clean\" to delete the nonexistent TV Shows"
+msgstr "\"Pulisci\" per eliminare le Serie TV inesistenti"
+
+msgctxt "#32653"
+msgid "The clean was completed"
+msgstr "La pulizia è stata completata"
+
+msgctxt "#32654"
+msgid "%s nonexistent TV Shows were removed"
+msgstr "%s Serie TV inesistenti sono state rimosse"
+
+msgctxt "#32655"
+msgid "Service started and scheduled for every %s at %s"
+msgstr "Servizio avviato e programmato per ogni %s alle ore %s"
+
+msgctxt "#32801"
+msgid "General"
+msgstr "Generale"
+
+msgctxt "#32802"
+msgid "General options"
+msgstr "Opzioni generali"
+
+msgctxt "#32803"
+msgid "Folder path for the php-cgi binary"
+msgstr "Percorso della cartella per il binario php-cgi"
+
+msgctxt "#32804"
+msgid "Folder path for the text file of the movies missing in the Top250"
+msgstr "Percorso della cartella per il file di testo dei film mancanti nella Top250"
+
+msgctxt "#32805"
+msgid "What do you want to update?"
+msgstr "Cosa vuoi aggiornare?"
+
+msgctxt "#32806"
+msgid "Activate script for the Top250"
+msgstr "Attiva lo script per la Top250"
+
+msgctxt "#32807"
+msgid "Activate script for the Movies (doesn't influence the Single Mode)"
+msgstr "Attiva lo script per i Film (non influenza la Modalità Singola)"
+
+msgctxt "#32808"
+msgid "Activate script for the TV Shows (doesn't influence the Single Mode)"
+msgstr "Attiva lo script per le Serie TV (non influenza la Modalità Singola)"
+
+msgctxt "#32809"
+msgid "Managing IMDb ID (TV Shows)"
+msgstr "Gestione degli ID IMDb (Serie TV)"
+
+msgctxt "#32810"
+msgid "Opens module to manage the IMDb of the TV Shows in the ruDatabase"
+msgstr "Apri il modulo per gestire gli ID di IMDb delle Serie TV nel ruDatabase"
+
+msgctxt "#32811"
+msgid "MPAA"
+msgstr "MPAA"
+
+msgctxt "#32812"
+msgid "MPAA Ratings options"
+msgstr "Opzioni valutazioni MPAA"
+
+msgctxt "#32813"
+msgid "Also update the MPAA Rating"
+msgstr "Aggiorna anche la MPAA"
+
+msgctxt "#32814"
+msgid "Type the text prefix for the MPAA ratings (Movies)"
+msgstr "Digita il prefisso di testo per le valutazioni MPAA (Films)"
+
+msgctxt "#32815"
+msgid "Type the text prefix for the MPAA ratings (TV Shows)"
+msgstr "Digita il prefisso di testo per le valutazioni MPAA (Serie TV)"
+
+msgctxt "#32816"
+msgid "Select the country to which you want to get the MPAA"
+msgstr "Selezionare il Paese del quale si vuole ottenere la MPAA"
+
+msgctxt "#32817"
+msgid "Do you want to update the MPAA with reason (only for the movies)?"
+msgstr "Vuoi aggiornare la MPAA con la ragione (solo per i film)?"
+
+msgctxt "#32818"
+msgid "Background"
+msgstr "Background"
+
+msgctxt "#32819"
+msgid "Background Mode options"
+msgstr "Opzioni modalità Background"
+
+msgctxt "#32820"
+msgid "Run in Background Mode (only notifications, no gui)"
+msgstr "Eseguire in Modalità Background (solo notifiche, senza gui)"
+
+msgctxt "#32821"
+msgid "User"
+msgstr "Utente"
+
+msgctxt "#32822"
+msgid "Service"
+msgstr "Servizio"
+
+msgctxt "#32823"
+msgid "How the script must answer in case of resume requests?"
+msgstr "Come deve rispondere lo script in caso di richieste di ripresa?"
+
+msgctxt "#32824"
+msgid "Choose the weekday on which to run the script"
+msgstr "Scegli il giorno della settimana in cui eseguire lo script"
+
+msgctxt "#32825"
+msgid "Choose the delay time (minutes) to run, after that XBMC is started"
+msgstr "Scegli il tempo di ritardo (minuti) per eseguire, dopo l'avvio di XBMC"
+
+msgctxt "#32826"
+msgid "Hides any progress bar, uses only the notifications"
+msgstr "Nascondi ogni barra di avanzamento, utilizza solo le notifiche"
+
+msgctxt "#32827"
+msgid "Monday"
+msgstr "Lunedì"
+
+msgctxt "#32828"
+msgid "Tuesday"
+msgstr "Martedì"
+
+msgctxt "#32829"
+msgid "Wednesday"
+msgstr "Mercoledì"
+
+msgctxt "#32830"
+msgid "Thursday"
+msgstr "Giovedì"
+
+msgctxt "#32831"
+msgid "Friday"
+msgstr "Venerdì"
+
+msgctxt "#32832"
+msgid "Saturday"
+msgstr "Sabato"
+
+msgctxt "#32833"
+msgid "Sunday"
+msgstr "Domenica"
+
+msgctxt "#32850"
+msgid "Modding"
+msgstr "Modding"
+
+msgctxt "#32851"
+msgid "Modding options"
+msgstr "Opzioni di modding"
+
+msgctxt "#32852"
+msgid "Do you want to use RAW queries to update the database (not in Single Mode)?"
+msgstr "Vuoi utilizzare le RAW queries per aggiornare il database (non in Modalità Singola)?"
+
+msgctxt "#32853"
+msgid "Are you using a MySql database?"
+msgstr "Stai usando un database MySql?"
+
+msgctxt "#32854"
+msgid "Type the Name of the database"
+msgstr "Digita il Nome del database"
+
+msgctxt "#32855"
+msgid "Type your MySql Host"
+msgstr "Digita l'Host del tuo MySql"
+
+msgctxt "#32856"
+msgid "Type your MySql Username"
+msgstr "Digita il Nome Utente del tuo MySql"
+
+msgctxt "#32857"
+msgid "Type your MySql Password"
+msgstr "Digita la Password del tuo MySql"
+
+msgctxt "#32901"
+msgid "Credits"
+msgstr "Crediti"
+
+msgctxt "#32902"
+msgid "Rating Update"
+msgstr "Rating Update"
+
+msgctxt "#32903"
+msgid "The best way to update ratings of your Movies  TV Shows"
+msgstr "Il modo migliore per aggiornare le valutazioni dei tuoi Film  Serie TV"
+
+msgctxt "#32904"
+msgid "www.imdb.com - www.php.net"
+msgstr "www.imdb.com - www.php.net"
+
+msgctxt "#32905"
+msgid "projects.izzysoft.de/trac/imdbphp"
+msgstr "projects.izzysoft.de/trac/imdbphp"
+
+msgctxt "#32906"
+msgid "Add-on author:"
+msgstr "Autore add-on:"
+
+msgctxt "#32907"
+msgid "Max (m4x1m) Headroom - Web Developer - Web Master"
+msgstr "Max (m4x1m) Headroom - Web Developer - Web Master"
+
+msgctxt "#32908"
+msgid "For bugs, requests or general questions visit the Rating Update thread on the XBMC forum"
+msgstr "Per bug, richieste o domande in generale visita il thread Rating Update sul forum di XBMC"
+
+msgctxt "#32909"
+msgid "Thanks to:"
+msgstr "Grazie a:"
+
+msgctxt "#32910"
+msgid "IzzySoft Projects for the greatest PHP Class IMDBPHP"
+msgstr "IzzySoft Projects per la magnifica classe PHP IMDBPHP"

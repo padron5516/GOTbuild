@@ -1,0 +1,9 @@
+--------------------------
+Renegades TV Guide - 1.0.0
+--------------------------
++ Initial Release
+
+--------------------------
+Renegades TV Guide - 1.0.5
+--------------------------
++ Fixed Bug in Skins, Updated conntext text and updated logos location

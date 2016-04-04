@@ -1,0 +1,87 @@
+v1.1.3 
+
+fixed issue of addon loading caus eof failure to import bs4 
+
+removed aluv search again will try and add back again on next update 
+############################################################################################################################
+
+v1.1.2
+removed badassmovies4u scraper
+
+removed uksoapshare scraper
+
+removed allcinemamovies scraper their server is down will add it back again on the next update if fixed
+
+fixed the hacksat scraper in the iptv section remember new links are added every day
+so make sure you add the channels you like to favs or you might not find them again
+
+fixed the search in pandamovie
+
+fixed the filmovizija scraper
+
+fixed the documentaryaddict scraper most links on here are from youtube 
+but some are from vimeo so will need that addon as well to play them
+
+fixed the newsoapcity scraper
+
+fixed and readded the alluc search if you are searching for a tv show do so like this
+say you want to watch arrow season 1 you would enter arrow s01  and it will give you a list of links for season 1
+if you want to watch a specific episode  you would enter arrow s01e01 which will give you a list of available links 
+for season 1 episode 1
+
+added a concert section their is only one scraper in their at the moment concert.ga will add more when i get time
+
+added geektv scraper 
+
+added 24t scraper this just has latest episodes for quite a varied selection of shows
+
+changed the domain from kodimediaportal.ml to mediaportal4kodi.ml in the iptv section 
+remember for this section to work you need to add your own links on the forum 
+my list that is there dosnt work at the moment it is just to show people how to add their own
+
+############################################################################################################################
+
+v1.1.1
+fixed badassmovies4u scraper
+changed pandamovie to new domain and fixed scraper
+changed filmovizija to new domain and fixed the newest movies scraper
+added iptvapps.blogspot.co.uk to the iptv section
+
+############################################################################################################################
+
+v1.0.8
+added pandamovie.me
+
+############################################################################################################################
+
+v1.0.7
+added two more sources ultra-vid.com and documentaryaddict.com which requires vimeo and youtube addons 
+to be installed to play the streams also started adding metadata 
+
+#############################################################################################################################
+
+v1.0.5
+added kodimediaportal
+
+############################################################################################################################
+
+v1.0.3
+added the allcinemamovies.com site
+
+#############################################################################################################################
+
+v1.0.2
+added extra sections to 
+filmovizija
+
+############################################################################################################################
+
+v1.0.1
+fixed fail to install
+
+############################################################################################################################
+
+v1.0.0
+Initial Release
+
+############################################################################################################################

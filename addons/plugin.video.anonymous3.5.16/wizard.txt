@@ -1,0 +1,8 @@
+
+name="Anonymous"
+url="http://dcbnetworking.com/Wizard/build.zip"
+img="http://dcbnetworking.com/Wizard/anonymous.png"
+fanart="http://dcbnetworking.com/Wizard/anonymous.jpg"
+description="Anonymous Wizard"
+
+

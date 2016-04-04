@@ -1,0 +1,7 @@
+<settings>
+    <setting id="custom_directory" value="true" />
+    <setting id="default_queue" value="true" />
+    <setting id="default_queue_album" value="true" />
+    <setting id="hide_fanart" value="false" />
+    <setting id="music_dir" value="C:\Users\Marcus Michelli\AppData\Roaming\Kodi\media\S\" />
+</settings>

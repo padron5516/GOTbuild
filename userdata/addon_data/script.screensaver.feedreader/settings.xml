@@ -1,0 +1,12 @@
+<settings>
+    <setting id="DebugMode" value="false" />
+    <setting id="Feed1" value="http://www.newsweek.com/emea-rss" />
+    <setting id="Feed2" value="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" />
+    <setting id="Feed3" value="http://feeds.feedburner.com/motherjones/main" />
+    <setting id="Feed4" value="http://www.huffingtonpost.com/feeds/index.xml" />
+    <setting id="Feed5" value="climate OR sea-level-rise" />
+    <setting id="Feed6" value="science" />
+    <setting id="Feed7" value="http://feeds2.feedburner.com/time/topstories" />
+    <setting id="Sorting" value="Interleave" />
+    <setting id="Time" value="46" />
+</settings>

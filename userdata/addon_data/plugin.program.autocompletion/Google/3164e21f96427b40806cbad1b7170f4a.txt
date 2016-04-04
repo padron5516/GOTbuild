@@ -1,0 +1,1 @@
+["[COLOR greenyellow][B]W[/", ["color greenyellow b w /b"], [], {"google:suggesttype": ["TAIL"]}]

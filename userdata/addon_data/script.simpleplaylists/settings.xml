@@ -1,0 +1,6 @@
+<settings>
+    <setting id="alternatePlDir" value="" />
+    <setting id="showConfirmation" value="true" />
+    <setting id="showKeyboard" value="true" />
+    <setting id="useAlternatePlDir" value="false" />
+</settings>

@@ -1,0 +1,1 @@
+["[COLOR", ["colors halsey", "colors of the wind", "colors tv", "color", "color song", "color me badd", "colors of the wind lyrics", "colorado", "color switch", "color crew"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

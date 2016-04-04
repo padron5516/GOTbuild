@@ -1,0 +1,20 @@
+<settings>
+    <setting id="epgCache" value="true" />
+    <setting id="epgPath" value="C:\Users\Marcus Michelli\AppData\Roaming\Kodi\userdata\addon_data\script.renegadestv\guide.xml" />
+    <setting id="epgPathType" value="0" />
+    <setting id="epgTSOverride" value="true" />
+    <setting id="epgTimeShift" value="-5.045801" />
+    <setting id="epgUrl" value="http://dcbnetworking.com/Trash/Empty/Done/junk.xml" />
+    <setting id="logoBaseUrl" value="" />
+    <setting id="logoFromEpg" value="0" />
+    <setting id="logoPath" value="C:\Users\Marcus Michelli\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.israelive\logos" />
+    <setting id="logoPathType" value="0" />
+    <setting id="m3uCache" value="false" />
+    <setting id="m3uPath" value="C:\Users\Marcus Michelli\Desktop\playlistworking.xml" />
+    <setting id="m3uPathType" value="1" />
+    <setting id="m3uUrl" value="http://dcbnetworking.com/Trash/Empty/Done/old.txt" />
+    <setting id="sep1" value="" />
+    <setting id="sep2" value="" />
+    <setting id="sep3" value="" />
+    <setting id="startNum" value="1" />
+</settings>

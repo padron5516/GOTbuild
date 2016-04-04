@@ -1,0 +1,12 @@
+<settings>
+    <setting id="encoding" value="Windows Cyrillic" />
+    <setting id="groups" value="true" />
+    <setting id="icon_path" value="C:\Users\Marcus Michelli\AppData\Roaming\Kodi\media\" />
+    <setting id="local" value="true" />
+    <setting id="path" value="C:\Users\Marcus Michelli\Desktop\playlistworking.xml" />
+    <setting id="proxyip" value="http://" />
+    <setting id="proxyport" value="80" />
+    <setting id="start_num" value="1" />
+    <setting id="url" value="http://" />
+    <setting id="useproxy" value="false" />
+</settings>

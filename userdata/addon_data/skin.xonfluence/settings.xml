@@ -1,0 +1,909 @@
+<settings>
+    <setting id="DisableDiscArt" type="bool">false</setting>
+    <setting id="HideEPGwithRDS" type="bool">true</setting>
+    <setting id="HideSystemTime" type="bool">false</setting>
+    <setting id="HideWatchedMediaStat" type="bool">false</setting>
+    <setting id="HideInfoStartOSD" type="bool">false</setting>
+    <setting id="View509HideInfo" type="bool">false</setting>
+    <setting id="SmallVolumeJump" type="bool">true</setting>
+    <setting id="HideListItemArtWork" type="bool">false</setting>
+    <setting id="EnableLargeWidgets" type="bool">false</setting>
+    <setting id="Show_SlideShow_Paused" type="bool">false</setting>
+    <setting id="SingleGlobalBackground" type="bool">false</setting>
+    <setting id="HideNextSongsInfo" type="bool">false</setting>
+    <setting id="KeyboardGraphicalTextures" type="bool">true</setting>
+    <setting id="StopAutoScroll" type="bool">false</setting>
+    <setting id="ShowUsrVideoOSDButton" type="bool">false</setting>
+    <setting id="MinimalPictureInfo" type="bool">false</setting>
+    <setting id="DisableTVNextAired" type="bool">true</setting>
+    <setting id="WindowedTrailer" type="bool">true</setting>
+    <setting id="Enable_CustomSuspend" type="bool">false</setting>
+    <setting id="AllScreenTopLeftWidget" type="bool">true</setting>
+    <setting id="Enable_CustomTimer" type="bool">false</setting>
+    <setting id="AlternativeBackgroundPath" type="bool">false</setting>
+    <setting id="HideSkinSettings" type="bool">false</setting>
+    <setting id="Show_Timer" type="bool">true</setting>
+    <setting id="NoAnimateFanart" type="bool">false</setting>
+    <setting id="HidePVRNowPlaying" type="bool">false</setting>
+    <setting id="HidePopUpSeekBar" type="bool">false</setting>
+    <setting id="EnableRainDropEffect" type="bool">false</setting>
+    <setting id="EnablePingWOL" type="bool">false</setting>
+    <setting id="NoAnimateVizFanart" type="bool">false</setting>
+    <setting id="SmartShortcuts.plex" type="bool">false</setting>
+    <setting id="DisableLogoArt" type="bool">false</setting>
+    <setting id="HideFilenameFlagging" type="bool">false</setting>
+    <setting id="EnableWeatherNotifications" type="bool">false</setting>
+    <setting id="EnableAdditionalArtWork" type="bool">false</setting>
+    <setting id="AutoFocusUnwatchedEpisode" type="bool">false</setting>
+    <setting id="HideBackGroundFanart" type="bool">false</setting>
+    <setting id="EpisodeBackground" type="bool">false</setting>
+    <setting id="AutoVisableSubMenu" type="bool">false</setting>
+    <setting id="Music_Librarymode" type="bool">false</setting>
+    <setting id="NoDiffuseVizFanart" type="bool">false</setting>
+    <setting id="HideSeekBarOSD" type="bool">false</setting>
+    <setting id="ShowFullScreenClock" type="bool">true</setting>
+    <setting id="Updates_V314" type="bool">true</setting>
+    <setting id="HideStartUpBackground" type="bool">false</setting>
+    <setting id="DisableAutoComplete" type="bool">false</setting>
+    <setting id="Show_Mastermode" type="bool">false</setting>
+    <setting id="HideTVRecordingInfo" type="bool">false</setting>
+    <setting id="EnableNextAiredNotifications" type="bool">false</setting>
+    <setting id="DisableFanartScript" type="bool">false</setting>
+    <setting id="VizOnlyOnHome" type="bool">true</setting>
+    <setting id="EnableCDArtWork" type="bool">true</setting>
+    <setting id="SkinHelper.EnableAnimatedPosters" type="bool">false</setting>
+    <setting id="SkinHelper.EnableDayNightThemes" type="bool">false</setting>
+    <setting id="HideTrailerBtn" type="bool">false</setting>
+    <setting id="DisableFloorBtns" type="bool">false</setting>
+    <setting id="HideArtWorkOSD" type="bool">false</setting>
+    <setting id="AutoScroll" type="bool">true</setting>
+    <setting id="DisableClearArt" type="bool">false</setting>
+    <setting id="AutoHidePowerBtn" type="bool">false</setting>
+    <setting id="DisableHomeReturnButtons" type="bool">false</setting>
+    <setting id="EnableDVDCases" type="bool">true</setting>
+    <setting id="WeatherScript_Enable" type="bool">false</setting>
+    <setting id="FloorGlobalSearch" type="bool">false</setting>
+    <setting id="Enable_CustomShutDown" type="bool">false</setting>
+    <setting id="DisableWatchItLater" type="bool">true</setting>
+    <setting id="EnableVolumeButtons" type="bool">true</setting>
+    <setting id="WrapAroundHomeMenu" type="bool">true</setting>
+    <setting id="LowerMainMenuBar" type="bool">true</setting>
+    <setting id="HideHomePowerBtn" type="bool">false</setting>
+    <setting id="Enable_CustomHibernate" type="bool">false</setting>
+    <setting id="EnableFanartScript" type="bool">false</setting>
+    <setting id="HideFavorites" type="bool">false</setting>
+    <setting id="UseStartUpPlaylistPath" type="bool">false</setting>
+    <setting id="DisableGlobalSearch" type="bool">true</setting>
+    <setting id="DisableSlideShowArt" type="bool">true</setting>
+    <setting id="DisableScriptPlayList" type="bool">false</setting>
+    <setting id="View515Hidelogo" type="bool">false</setting>
+    <setting id="HideEpisodeThumb" type="bool">false</setting>
+    <setting id="KioskMode" type="bool">false</setting>
+    <setting id="Show_Logoff" type="bool">true</setting>
+    <setting id="Videos_Librarymode" type="bool">false</setting>
+    <setting id="Show_Hibernate" type="bool">true</setting>
+    <setting id="HideBusyAnimation" type="bool">false</setting>
+    <setting id="FixedEndingMenu" type="bool">false</setting>
+    <setting id="HideNowPlayingInfo" type="bool">false</setting>
+    <setting id="HidePageCountInfo" type="bool">false</setting>
+    <setting id="EnablePauseInfo" type="bool">false</setting>
+    <setting id="HideAutoMusicViz" type="bool">false</setting>
+    <setting id="SmartShortcuts.emby" type="bool">false</setting>
+    <setting id="Show_Suspend" type="bool">true</setting>
+    <setting id="HideTopLeftWindows" type="bool">false</setting>
+    <setting id="Enable_CustomHSuspend" type="bool">false</setting>
+    <setting id="HideNewMediaStat" type="bool">false</setting>
+    <setting id="UPnP_Mode" type="bool">true</setting>
+    <setting id="DisableTVTunes" type="bool">true</setting>
+    <setting id="NotificationsTopLeft" type="bool">true</setting>
+    <setting id="HideWideViewLabels" type="bool">false</setting>
+    <setting id="AutoPartySaver" type="bool">false</setting>
+    <setting id="Updates_V312" type="bool">true</setting>
+    <setting id="ClockShowSeconds" type="bool">false</setting>
+    <setting id="Disable504FanArt" type="bool">false</setting>
+    <setting id="SmartShortcuts.playlists" type="bool">false</setting>
+    <setting id="SmartShortcuts.favorites" type="bool">false</setting>
+    <setting id="SmartShortcuts.netflix" type="bool">false</setting>
+    <setting id="SkinHelper.DisableScreenSaverOnFullScreenMusic" type="bool">false</setting>
+    <setting id="HideHomeNowPlaying" type="bool">false</setting>
+    <setting id="RestartNotReboot" type="bool">false</setting>
+    <setting id="HideHomeAddonName" type="bool">false</setting>
+    <setting id="EnableStatusBanner" type="bool">false</setting>
+    <setting id="WrapMediaViews" type="bool">true</setting>
+    <setting id="InitialSetUpRun" type="bool">true</setting>
+    <setting id="EnableHomeStats" type="bool">true</setting>
+    <setting id="EnableAutoUpdateArt" type="bool">false</setting>
+    <setting id="HideKodiIntro" type="bool">false</setting>
+    <setting id="HideMusicArtWorkOSD" type="bool">false</setting>
+    <setting id="MediaShortDescription" type="bool">false</setting>
+    <setting id="EnableFloorReturnButtons" type="bool">true</setting>
+    <setting id="Enable515WideBanners" type="bool">false</setting>
+    <setting id="Updates_V320" type="bool">true</setting>
+    <setting id="MinimizeOnExit" type="bool">false</setting>
+    <setting id="GlobalLiveWeatherImage" type="bool">false</setting>
+    <setting id="UseDiscTypeCase" type="bool">true</setting>
+    <setting id="HideSuggestedMedia" type="bool">false</setting>
+    <setting id="SkinHelper.EnablePVRThumbs" type="bool">false</setting>
+    <setting id="HolidayEffects" type="bool">false</setting>
+    <setting id="HideYearTitle" type="bool">false</setting>
+    <setting id="HideBackgroundCDWall" type="bool">false</setting>
+    <setting id="ShowWeatherFanart" type="bool">false</setting>
+    <setting id="EnablePlotInfo" type="bool">true</setting>
+    <setting id="EnableRandomPlaylist" type="bool">true</setting>
+    <setting id="SubConcerts.3.Label" type="string"></setting>
+    <setting id="AddonSetFive.1.Label" type="string">123Movies</setting>
+    <setting id="UserSubThree.7.Label" type="string">[COLOR greenyellow][B]B[/B][/COLOR][COLOR fuchsia]ob[/COLOR] Ross</setting>
+    <setting id="SubRadio.5.Path" type="string"></setting>
+    <setting id="SubMovies.4.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=movies&amp;url=theaters,return)</setting>
+    <setting id="AddonSetFour.5.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.md9movies\icon.png</setting>
+    <setting id="AddonSetTwelve.7.Path" type="string">RunAddon(script.advancedsettingsetter)</setting>
+    <setting id="SubVideos.7.Label" type="string"></setting>
+    <setting id="SubTVShows.3.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=tvGenres,return)</setting>
+    <setting id="AddonSetEleven.6.Path" type="string"></setting>
+    <setting id="OSDBtnUsrCmd" type="string">UserSelect</setting>
+    <setting id="UserSubTwo.9.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.israelsports,return)</setting>
+    <setting id="AddonSetTwo.3.Label" type="string">Comic Strips</setting>
+    <setting id="SubConcerts.5.Label" type="string"></setting>
+    <setting id="UPnP_Name" type="string"></setting>
+    <setting id="AddonSetOne.7.Path" type="string">RunAddon(plugin.video.ZemTV-shani)</setting>
+    <setting id="AddonSetFive.7.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.dragon.sports\icon.png</setting>
+    <setting id="AddonSetEight.4.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.ccloudtv\icon.png</setting>
+    <setting id="SubMusic.10.Label" type="string">[COLOR greenyellow][B]O[/B][/COLOR]ld[COLOR red]S[/COLOR]kOoL Beats</setting>
+    <setting id="SubTVShows.8.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=tvshows&amp;url=active,return)</setting>
+    <setting id="HomeItem.2.Display" type="string">Default</setting>
+    <setting id="SubConcerts.4.Path" type="string"></setting>
+    <setting id="UserSubFour.3.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.kmER/?url=http%3A%2F%2Fwww.freekidsmovies.net%2F%2Flist-disney-channel-movies&amp;section=ALL&amp;numOfPages=1&amp;startPage=1&amp;mode=GetTitles1,return)</setting>
+    <setting id="MultiImageTimer" type="string">10</setting>
+    <setting id="HomeItem.1.Widget" type="string">Weather</setting>
+    <setting id="AddonSetTen.4.Icon" type="string"></setting>
+    <setting id="SubMovies.7.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=movieCertificates,return)</setting>
+    <setting id="UserSubOne.2.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?action=directory&amp;url=http%3A%2F%2Fone242415.offshorepastebin.com%2FAgangsters%2FGangsters_Directory.xml,return)</setting>
+    <setting id="SubTVShows.9.Label" type="string">[COLOR greenyellow][B]P[/B][/COLOR]eople[COLOR red][B] W[/B][/COLOR]athing</setting>
+    <setting id="SubRadio.9.Path" type="string"></setting>
+    <setting id="AddonSetEight.5.Path" type="string">RunAddon(script.navi-x)</setting>
+    <setting id="SubMusic.6.Label" type="string">[COLOR greenyellow][B]M[/B][/COLOR]usic[COLOR red] C[/COLOR]oncerts</setting>
+    <setting id="SubSettings.10.Label" type="string"></setting>
+    <setting id="FanArtCycleRate" type="string">10</setting>
+    <setting id="AddonSetFive.2.Path" type="string">RunAddon(plugin.video.icefilms)</setting>
+    <setting id="SubProg.6.Label" type="string"></setting>
+    <setting id="UserSubThree.9.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=%5BCOLOR+blue%5DMy+Concerts%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FConcerts.xml&amp;audio=0&amp;image=http%3A%2F%2Fi67.tinypic.com%2Fdba6b.jpg&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=0&amp;action=ndmode,return)</setting>
+    <setting id="SubProg.2.Label" type="string"></setting>
+    <setting id="SubRadio.8.Label" type="string"></setting>
+    <setting id="AddonSetOne.2.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.israelsports\icon.png</setting>
+    <setting id="UserSelectAddon.1.Label" type="string">Sports</setting>
+    <setting id="HomeItem.5.Widget" type="string">upnp://6d176b40-49f7-3782-ba78-0e233deab7da/V/</setting>
+    <setting id="UserSelectAddon.11.Label" type="string"></setting>
+    <setting id="AddonSetSix.7.Label" type="string">VEVO TV</setting>
+    <setting id="HomeItem.2.Addon" type="string">None</setting>
+    <setting id="HomeItem.15.Widget" type="string">plugin://plugin.video.phstreams/&apos;,&apos;117&apos;,&apos;?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2f7-themes.com%2fdata_images%2fout%2f59%2f6973439-beautiful-forest-photos.jpg&amp;image=http%3a%2f%2fs6.postimg.org%2fwevezj9fl%2factress_collage_245058_2.jpg&amp;name=%5bCOLOR%20hotpink%5dMy%20Girls%5b%2fCOLOR%5d&amp;tvshow=0&amp;url=http%3a%2f%2fhonolulu.watchkodi.com%2fMy%2520Girls%2fThe%2520Girls.xml</setting>
+    <setting id="UserSubTwo.9.Label" type="string">[COLOR greenyellow][B]E[/B][/COLOR]urope[COLOR red][B] S[/B][/COLOR]ports</setting>
+    <setting id="HomeItem.14.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=One242415&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2Fmaindir%2Fmain.xml&amp;audio=0&amp;image=http%3A%2F%2Fgibraltar.watchkodi.com%2FskullPhoenicIcon.png&amp;fanart=C%3A%5CUsers%5CMarcus+Michelli%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.phstreams%5Cfanart.jpg&amp;tvshow=0&amp;content=0&amp;action=ndmode,return)</setting>
+    <setting id="SubMusic.7.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.The-Music-Source/?url=http%3A%2F%2Fpastebin.com%2Fraw.php%3Fi%3D8UrDCd1T&amp;mode=1&amp;name=%5BCOLOR+dodgerblue%5DMusic%5B%2FCOLOR%5D+Quiz+With+Bamboozle+%232+&amp;fanart=http%3A%2F%2Fimages2.alphacoders.com%2F438%2F438076.jpg,return)</setting>
+    <setting id="SubPictures.1.Path" type="string"></setting>
+    <setting id="AddonSetEight.6.Path" type="string">RunAddon(plugin.video.ukturk)</setting>
+    <setting id="SubSettings.9.Label" type="string"></setting>
+    <setting id="SubConcerts.9.Path" type="string"></setting>
+    <setting id="SubConcerts.8.Label" type="string"></setting>
+    <setting id="AddonSetTen.5.Icon" type="string"></setting>
+    <setting id="UserSubThree.5.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DStrength%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FFitness%2FStrength.xml&amp;audio=0&amp;image=http%3A%2F%2Fs6.postimg.org%2Fnxxp00wch%2FStrength.png&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=0&amp;action=ndmode,return)</setting>
+    <setting id="SubMusic.7.Label" type="string">[COLOR greenyellow][B]M[/B][/COLOR]usic[COLOR red] Q[/COLOR]uiz</setting>
+    <setting id="AddonSetSix.7.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.vevo_tv\icon.png</setting>
+    <setting id="AddonSetTwo.5.Path" type="string">RunAddon(plugin.video.kmER)</setting>
+    <setting id="AddonSetNine.2.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\script.facebook.media\icon.png</setting>
+    <setting id="UserSubFour.9.Path" type="string"></setting>
+    <setting id="SubRadio.7.Path" type="string"></setting>
+    <setting id="UserSubOne.5.Label" type="string">[COLOR greenyellow][B]M[/B][/COLOR]ature [COLOR red]T[/COLOR]hrillers</setting>
+    <setting id="SubMusic.3.Path" type="string">ActivateWindow(Videos,plugin://plugin.audio.binaural/?url=url&amp;mode=1060&amp;name=Genres+%28Just+Added%29&amp;iconimage=http%3A%2F%2Fkinkin-xbmc-repository.googlecode.com%2Fsvn%2Ftrunk%2Fzips%2Fplugin.audio.binaural%2Fart%2Fgenres_just_added.png&amp;artist=,return)</setting>
+    <setting id="SubProg.6.Path" type="string"></setting>
+    <setting id="AddonSetSeven.6.Path" type="string">RunAddon(plugin.audio.radio_de)</setting>
+    <setting id="AddonSetFour.1.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.titan\icon.png</setting>
+    <setting id="UserSubFour.1.Label" type="string">[COLOR greenyellow][B]C[/B][/COLOR][COLOR orange]artoons[/COLOR]</setting>
+    <setting id="HomeItem.2.Playlist" type="string"></setting>
+    <setting id="PingMacAddr" type="string"></setting>
+    <setting id="AddonSetSeven.2.Path" type="string">RunAddon(plugin.audio.tuneinradio)</setting>
+    <setting id="SubLiveTV.10.Path" type="string"></setting>
+    <setting id="SubLiveTV.7.Path" type="string"></setting>
+    <setting id="SubVideos.8.Label" type="string"></setting>
+    <setting id="HomeItem.3.Path" type="string">RunAddon(plugin.audio.radio_de)</setting>
+    <setting id="UserSubFour.10.Path" type="string"></setting>
+    <setting id="AddonSetFive.6.Path" type="string">RunAddon(plugin.video.phstreams)</setting>
+    <setting id="AddonSetTwelve.2.Path" type="string">RunAddon(plugin.video.anonymous)</setting>
+    <setting id="SubTVShows.3.Label" type="string">[COLOR greenyellow][B]G[/B][/COLOR]enres</setting>
+    <setting id="AddonSetTen.3.Icon" type="string"></setting>
+    <setting id="UserSubTwo.5.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.SportsDevil/?mode=1&amp;item=title%3DSports4u.tv%26url%3Dtv%252Fsports4u.tv.cfg%26definedIn%3Dtv.cfg%26director%3Dsports4u.tv%26genre%3DTV%26type%3Drss%26icon%3DC%253A%255CUsers%255CMarcus%2BMichelli%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports4u.png,return)</setting>
+    <setting id="SubPictures.9.Path" type="string"></setting>
+    <setting id="HomeItem.5.Path" type="string">ActivateWindow(Videos,Files,return)</setting>
+    <setting id="HomeItem.3.Sub" type="string">Radio</setting>
+    <setting id="AddonSetNine.6.Path" type="string">RunAddon(plugin.audio.booksshouldbefree)</setting>
+    <setting id="UsrArtistsFanArtDir" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\media\</setting>
+    <setting id="SubLiveTV.5.Label" type="string"></setting>
+    <setting id="StartUpBackgroundPath" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\media\GOT\game_of_thrones_wallpaper.jpg</setting>
+    <setting id="AddonSetOne.5.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.prosport\icon.png</setting>
+    <setting id="HomeItem.9.Type" type="string">Programs</setting>
+    <setting id="UserSubFour.8.Label" type="string">[COLOR greenyellow][B]K[/B][/COLOR][COLOR red]a[/COLOR][COLOR blue]r[/COLOR][COLOR yellow]a[/COLOR][COLOR green]o[/COLOR][COLOR pink]k[/COLOR]e</setting>
+    <setting id="AddonSetNine.4.Label" type="string">Food Network</setting>
+    <setting id="HomeItem.11.Type" type="string">PlayDisc</setting>
+    <setting id="SubRadio.3.Label" type="string"></setting>
+    <setting id="HomeItem.10.Addon" type="string">AddonSetTwo</setting>
+    <setting id="HomeItem.15.Fanart" type="string">special://skin/backgrounds/game_of_thrones_lena_headey_cersei_lannister_94601_1920x1080.jpg</setting>
+    <setting id="HomeItem.4.Widget" type="string">pvr://channels/tv/Top10/</setting>
+    <setting id="HomeItem.12.Widget" type="string">addons://user/</setting>
+    <setting id="AddonSetEleven.5.Path" type="string"></setting>
+    <setting id="AddonSetOne.1.Label" type="string">Castaway</setting>
+    <setting id="AddonSetThree.1.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.barbecueweb\icon.png</setting>
+    <setting id="AddonSetEight.3.Path" type="string">RunAddon(script.renegadestv)</setting>
+    <setting id="AddonSetFour.4.Label" type="string">Velocity</setting>
+    <setting id="SubLiveTV.2.Label" type="string"></setting>
+    <setting id="SubPictures.6.Label" type="string"></setting>
+    <setting id="UserSelectThreeSubMenu" type="string">queen</setting>
+    <setting id="AddonSetTen.1.Label" type="string"></setting>
+    <setting id="AddonSetEight.1.Label" type="string">.F.U.B.A.R.</setting>
+    <setting id="MediaPanelTrans" type="string"></setting>
+    <setting id="UserSelectTwoSubMenu" type="string">Sports</setting>
+    <setting id="HomeItem.2.Widget" type="string">None</setting>
+    <setting id="SubRadio.1.Label" type="string"></setting>
+    <setting id="SubLiveTV.7.Label" type="string"></setting>
+    <setting id="SubVideos.1.Path" type="string"></setting>
+    <setting id="AddonSetThree.5.Path" type="string">RunAddon(plugin.video.dragon.sports)</setting>
+    <setting id="AddonSetEight.7.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.SGUIDE\icon.png</setting>
+    <setting id="AddonSetNine.7.Path" type="string">RunAddon(plugin.program.super.favourites)</setting>
+    <setting id="SubLiveTV.6.Label" type="string"></setting>
+    <setting id="AddonSetTwelve.4.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.program.advanced.launcher\icon.png</setting>
+    <setting id="HomeItem.3.Fanart" type="string">special://skin/backgrounds/Game-Of-Thrones-HD-Wallpapers-1080p-19.jpg</setting>
+    <setting id="AddonSetSix.5.Path" type="string">RunAddon(plugin.audio.mp3streams)</setting>
+    <setting id="WOLPingTimer" type="string"></setting>
+    <setting id="AddonSetThree.7.Label" type="string">Navi-X</setting>
+    <setting id="AddonSetSix.2.Path" type="string">RunAddon(plugin.video.concertarchive)</setting>
+    <setting id="AddonSetOne.5.Path" type="string">RunAddon(plugin.video.prosport)</setting>
+    <setting id="UserSubOne.6.Label" type="string">[COLOR greenyellow][B]Q[/B][/COLOR]uentin[COLOR red] T[/COLOR]arantino</setting>
+    <setting id="SubSettings.3.Path" type="string"></setting>
+    <setting id="AddonSetSix.5.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.audio.mp3streams\icon.png</setting>
+    <setting id="AddonSetEight.4.Label" type="string">cCloud TV</setting>
+    <setting id="SkinHelper.CustomStudioImagesPath" type="string"></setting>
+    <setting id="AddonSetFive.1.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.md123movies\icon.png</setting>
+    <setting id="AddonSetTwelve.3.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.program.totalinstaller\icon.png</setting>
+    <setting id="SubConcerts.7.Path" type="string"></setting>
+    <setting id="UserSubTwo.6.Label" type="string">[COLOR greenyellow][B]S[/B][/COLOR]ports[COLOR red][B] ON[/B][/COLOR] Demand</setting>
+    <setting id="SubLiveTV.9.Path" type="string"></setting>
+    <setting id="UserSubOne.3.Label" type="string">[COLOR greenyellow][B]A[/B][/COLOR]fter [COLOR red]D[/COLOR]ark</setting>
+    <setting id="UserSubOne.7.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?action=directory&amp;url=http%3A%2F%2Fone242415.offshorepastebin.com%2FHunting%2FHunting_Directory.xml,return)</setting>
+    <setting id="AddonSetNine.4.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.foodnetwork\icon.png</setting>
+    <setting id="UserSubTwo.4.Label" type="string">[COLOR greenyellow][B]3PM[/B][/COLOR][COLOR red][B] K[/B][/COLOR]ick Offs</setting>
+    <setting id="HomeItem.12.Playlist" type="string"></setting>
+    <setting id="AddonSetNine.7.Label" type="string">Super Favourites</setting>
+    <setting id="UserSubTwo.8.Label" type="string">[COLOR greenyellow][B]P2P[/B][/COLOR][COLOR red][B]L[/B][/COLOR]inks</setting>
+    <setting id="HomeItem.4.Display" type="string">Default</setting>
+    <setting id="UserSubFive.6.Label" type="string"></setting>
+    <setting id="AddonSetEight.6.Label" type="string">UK Turk Playlists</setting>
+    <setting id="SubRadio.7.Label" type="string"></setting>
+    <setting id="TextureBorder" type="string">Large</setting>
+    <setting id="SubLiveTV.3.Label" type="string"></setting>
+    <setting id="SubConcerts.2.Label" type="string"></setting>
+    <setting id="SubProg.5.Label" type="string"></setting>
+    <setting id="SkinHelper.RandomFanartDelay" type="string"></setting>
+    <setting id="HomeItem.13.Widget" type="string">plugin://plugin.video.castaway/&apos;,&apos;801&apos;,&apos;?mode=open_live_sport&amp;site=batmanstream</setting>
+    <setting id="SubConcerts.2.Path" type="string"></setting>
+    <setting id="HomeItem.15.Type" type="string">VideoNode</setting>
+    <setting id="SubRadio.6.Label" type="string"></setting>
+    <setting id="AddonSetEleven.3.Icon" type="string"></setting>
+    <setting id="AddonSetEleven.5.Label" type="string"></setting>
+    <setting id="HomeItem.11.Path" type="string">PlayDVD()</setting>
+    <setting id="SkinHelper.PicturesBackgroundPath" type="string"></setting>
+    <setting id="UserSelectAddon.4.Label" type="string">Movies</setting>
+    <setting id="HomeItem.7.Playlist" type="string">plugin://plugin.video.salts/?section=TV&amp;mode=popular</setting>
+    <setting id="SubMovies.2.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.salts/?section=Movies&amp;mode=popular,return)</setting>
+    <setting id="AddonSetSeven.3.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.audio.radioreference\icon.png</setting>
+    <setting id="AddonSetSeven.2.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.audio.tuneinradio\icon.png</setting>
+    <setting id="UserSubFive.5.Label" type="string"></setting>
+    <setting id="AddonSetTen.5.Label" type="string"></setting>
+    <setting id="UserSubOne.4.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?action=directory&amp;url=http%3A%2F%2Fone242415.offshorepastebin.com%2FCollections%2Fstippers.xml,return)</setting>
+    <setting id="HomeItem.12.Path" type="string">ActivateWindow(Settings)</setting>
+    <setting id="AddonSetNine.1.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\script.screensaver.cocktail\icon.png</setting>
+    <setting id="videoinfo_traileraction" type="string"></setting>
+    <setting id="HomeItem.10.Display" type="string">Default</setting>
+    <setting id="SubMovies.6.Label" type="string">[COLOR greenyellow][B]Y[/B][/COLOR]ear[COLOR red][B] P[/B][/COLOR]roduced</setting>
+    <setting id="SubPictures.9.Label" type="string"></setting>
+    <setting id="AddonSetThree.3.Label" type="string">Ultimate Guitar</setting>
+    <setting id="HolidayThemePath" type="string">special://skin/extras/Holiday/xmastree.jpg</setting>
+    <setting id="SubProg.8.Label" type="string"></setting>
+    <setting id="HomeItem.8.Widget" type="string">plugin://plugin.audio.mp3streams/&apos;,&apos;155&apos;,&apos;?iconimage=C%3a%5cUsers%5cMarcus%20Michelli%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.audio.mp3streams%5cart%2fartists.jpg&amp;list=artists%3c%3ehttp%3a%2f%2fmusicmp3.ru%2fartists.html%3c%3eC%3a%5cUsers%5cMarcus%20Michelli%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.audio.mp3streams%5cart%2fartists.jpg&amp;mode=21&amp;name=Artists&amp;type&amp;url=http%3a%2f%2fmusicmp3.ru%2fartists.html</setting>
+    <setting id="AddonSetEight.2.Path" type="string">RunAddon(plugin.video.israelive)</setting>
+    <setting id="SubLiveTV.6.Path" type="string"></setting>
+    <setting id="HomeItem.14.Widget" type="string">plugin://plugin.video.phstreams/&apos;,&apos;132&apos;,&apos;?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg1.goodfon.su%2foriginal%2f1920x1080%2f7%2f52%2fking-queen-crown-poker.jpg&amp;image=https%3a%2f%2fi.imgsafe.org%2f699fcd6.jpg&amp;name=The%20Man%20Cave&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fManCave%2fManCave_Directory.xml</setting>
+    <setting id="HomeItem.10.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fcartoons%2FIndex.txt&amp;mode=1&amp;name=Cartoons&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fthumbs%2Fnew%2FUk%2520turk%2520thumbnails%2520cartoons.jpg&amp;description=,return)</setting>
+    <setting id="AddonSetOne.1.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.castaway\icon.png</setting>
+    <setting id="AddonSetFour.6.Label" type="string">Stream All The Sources</setting>
+    <setting id="AddonSetSeven.7.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\script.audio.pandora\icon.png</setting>
+    <setting id="UserSelectFiveSubMenu" type="string"></setting>
+    <setting id="AddonSetOne.4.Path" type="string">RunAddon(plugin.video.Operation_RobocopUltimate)</setting>
+    <setting id="CustomShutdownArg" type="string"></setting>
+    <setting id="AddonSetFour.5.Path" type="string">RunAddon(plugin.video.md9movies)</setting>
+    <setting id="AddonSetEleven.1.Icon" type="string"></setting>
+    <setting id="AddonSetFour.4.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.velocity\icon.png</setting>
+    <setting id="HomeItem.13.Sub" type="string">UserTwo</setting>
+    <setting id="HomeItem.1.Fanart" type="string">special://skin/backgrounds/</setting>
+    <setting id="SubTVShows.6.Label" type="string">[COLOR greenyellow][B]By[/B][/COLOR][COLOR red][B] N[/B][/COLOR]etworks</setting>
+    <setting id="SubPictures.3.Label" type="string"></setting>
+    <setting id="AddonSetThree.2.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.earthcam\icon.png</setting>
+    <setting id="HomeItem.8.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.The-Music-Source/?url=http%3A%2F%2Fpastebin.com%2Fraw.php%3Fi%3DEK5wiJtT&amp;mode=1&amp;name=All+Time+Classic+Song+MP3S+&amp;fanart=https%3A%2F%2Finfographworld.files.wordpress.com%2F2009%2F01%2Fwallpaper_mp31.jpg,return)</setting>
+    <setting id="AddonSetEleven.4.Label" type="string"></setting>
+    <setting id="AddonSetEleven.3.Path" type="string"></setting>
+    <setting id="HomeItem.8.Display" type="string">Default</setting>
+    <setting id="HomeItem.6.Sub" type="string">Movies</setting>
+    <setting id="HomeItem.15.Label" type="string">[COLOR greenyellow][B]Q[/B][/COLOR]uee[COLOR fuchsia]n[/COLOR]</setting>
+    <setting id="SubPictures.4.Path" type="string"></setting>
+    <setting id="AddonSetTwelve.2.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.anonymous3.5.16\icon.png</setting>
+    <setting id="AddonSetEleven.6.Icon" type="string"></setting>
+    <setting id="HomeItem.1.Playlist" type="string"></setting>
+    <setting id="AddonSetSix.4.Label" type="string">Mikey&apos;s Karaoke</setting>
+    <setting id="SubTVShows.9.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=tvshows&amp;url=trending,return)</setting>
+    <setting id="SubRadio.9.Label" type="string"></setting>
+    <setting id="AddonSetEight.5.Label" type="string">Navi-X</setting>
+    <setting id="SubLiveTV.8.Label" type="string"></setting>
+    <setting id="HomeItem.8.Type" type="string">VideoNode</setting>
+    <setting id="SubConcerts.7.Label" type="string"></setting>
+    <setting id="UserSubTwo.1.Label" type="string">[COLOR greenyellow][B]LIVE[/B][/COLOR][COLOR red][B] N[/B][/COLOR][COLOR green][B]B[/B][/COLOR][COLOR blue][B]A[/B][/COLOR]</setting>
+    <setting id="SubMusic.8.Label" type="string">[COLOR greenyellow][B]M[/B][/COLOR]P3</setting>
+    <setting id="AddonSetTwo.3.Path" type="string">RunAddon(plugin.image.comicstrips)</setting>
+    <setting id="AddonSetEight.3.Label" type="string">Renegades TV Guide</setting>
+    <setting id="AddonSetFive.7.Label" type="string">Dragon Streams</setting>
+    <setting id="AddonSetTen.6.Label" type="string"></setting>
+    <setting id="HomeItem.11.Label" type="string">DVD drive</setting>
+    <setting id="SubSettings.4.Label" type="string"></setting>
+    <setting id="UserSubOne.1.Label" type="string">[COLOR greenyellow][B]B[/B][/COLOR]oxing [COLOR red]G[/COLOR]reatest Fights</setting>
+    <setting id="HomeItem.6.Playlist" type="string">plugin://plugin.video.exodus/?action=movies&amp;url=theaters</setting>
+    <setting id="UserSubFive.10.Label" type="string"></setting>
+    <setting id="HomeItem.14.Type" type="string">VideoNode</setting>
+    <setting id="AddonSetOne.2.Path" type="string">RunAddon(plugin.video.israelsports)</setting>
+    <setting id="UserRadioSubMenu" type="string"></setting>
+    <setting id="SubPictures.3.Path" type="string"></setting>
+    <setting id="CustomHibernate" type="string"></setting>
+    <setting id="WeatherFanartDir" type="string">special://skin/extras/Weather/</setting>
+    <setting id="HomeItem.1.Path" type="string">ActivateWindow(Weather)</setting>
+    <setting id="AddonSetFive.6.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.phstreams\icon.png</setting>
+    <setting id="AddonSetOne.4.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.Operation_RobocopUltimate\icon.png</setting>
+    <setting id="HomeItem.6.Widget" type="string">plugin://plugin.video.titan/?description&amp;iconimage=C%3a%5cUsers%5cMarcus%20Michelli%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.titan%5cart%5cmm.png&amp;mode=6&amp;name=M%26Ms%20Awesome%20Tv%20Stuff&amp;url=https%3a%2f%2farchive.org%2fdownload%2fNaviXPlaylist%2fplaylist_mari.xml</setting>
+    <setting id="SubSettings.2.Path" type="string"></setting>
+    <setting id="HomeItem.9.Path" type="string">ActivateWindow(Programs,Addons,return)</setting>
+    <setting id="SubMovies.9.Label" type="string">[COLOR greenyellow][B]P[/B][/COLOR]opular</setting>
+    <setting id="UserSubFour.4.Label" type="string">[COLOR greenyellow][B]B[/B][/COLOR]rats[COLOR red] TV[/COLOR]</setting>
+    <setting id="AddonSetTen.7.Icon" type="string"></setting>
+    <setting id="UserMusicSubMenu" type="string"></setting>
+    <setting id="HomeItem.8.Playlist" type="string">plugin://plugin.video.The-Music-Source/?url=http%3A%2F%2Fpastebin.com%2Fraw.php%3Fi%3DEK5wiJtT&amp;mode=1&amp;name=All+Time+Classic+Song+MP3S+&amp;fanart=https%3A%2F%2Finfographworld.files.wordpress.com%2F2009%2F01%2Fwallpaper_mp31.jpg</setting>
+    <setting id="SubLiveTV.5.Path" type="string"></setting>
+    <setting id="AddonSetTen.3.Label" type="string"></setting>
+    <setting id="HomeItem.14.Fanart" type="string">special://skin/backgrounds/game_of_thrones_house_tyrell-1532270 - Copy.jpg</setting>
+    <setting id="AddonSetTen.4.Label" type="string"></setting>
+    <setting id="HomeItem.3.Display" type="string">Default</setting>
+    <setting id="AddonSetTwelve.5.Path" type="string">RunAddon(plugin.program.chrome.launcher)</setting>
+    <setting id="SubMovies.8.Label" type="string">[COLOR greenyellow][B]S[/B][/COLOR]earch Movie</setting>
+    <setting id="UserSelectAddon.6.Label" type="string">Music</setting>
+    <setting id="AddonSetTwelve.6.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.freshstart\icon.png</setting>
+    <setting id="HomeItem.5.Addon" type="string">None</setting>
+    <setting id="LastVideoPlayed" type="string">PlayMedia(&quot;&quot;)</setting>
+    <setting id="HomeItem.13.Addon" type="string">AddonSetOne</setting>
+    <setting id="AddonSetTwo.2.Label" type="string">Cartoon HD Extra</setting>
+    <setting id="AddonSetTwo.1.Label" type="string">Cartoon HD</setting>
+    <setting id="HomeItem.12.Display" type="string">Default</setting>
+    <setting id="UserSubThree.10.Label" type="string"></setting>
+    <setting id="UserSubFive.4.Label" type="string"></setting>
+    <setting id="UserSubTwo.1.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.prosport/?url=&amp;home=&amp;away=&amp;mode=nba,return)</setting>
+    <setting id="AddonSetThree.5.Label" type="string">Dragon Streams</setting>
+    <setting id="HomeItem.9.Fanart" type="string">special://skin/backgrounds/game-of-thrones-high-definition-1080p-desktop-android-iphone-ipad-ipod-mobile-wallpaper-backgrounds-free-download.jpg</setting>
+    <setting id="AddonSetNine.5.Path" type="string">RunAddon(plugin.audio.kodible)</setting>
+    <setting id="AddonSetSeven.4.Path" type="string">RunAddon(plugin.audio.worldradio)</setting>
+    <setting id="SubPictures.1.Label" type="string"></setting>
+    <setting id="SubPictures.2.Path" type="string"></setting>
+    <setting id="AddonSetFour.7.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.mdfubar\icon.png</setting>
+    <setting id="AddonSetEight.6.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.ukturk\icon.png</setting>
+    <setting id="AddonSetSix.7.Path" type="string">RunAddon(plugin.video.vevo_tv)</setting>
+    <setting id="AddonSetThree.2.Path" type="string">RunAddon(plugin.video.earthcam)</setting>
+    <setting id="AddonSetFive.5.Label" type="string">PubFilm</setting>
+    <setting id="SubPictures.6.Path" type="string"></setting>
+    <setting id="HomeItem.5.Type" type="string">Videos</setting>
+    <setting id="UserSubTwo.4.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.Operation_RobocopUltimate/?url=http%3A%2F%2Fx.shit.football%3A8080%2Fget.php%3Fusername%3DILOVE%26password%3DWATCHINGDIRTYPORN%26type%3Dm3u&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+limegreen%5DTODAYS+EVENTS+IN+HERE%5B%2FCOLOR%5D%5B%2FB%5D&amp;fanart=,return)</setting>
+    <setting id="AddonSetSix.6.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.vevo\icon.png</setting>
+    <setting id="AddonSetTwo.6.Path" type="string">RunAddon(plugin.video.supercartoons)</setting>
+    <setting id="AddonSetSix.6.Label" type="string">VEVO</setting>
+    <setting id="SubPictures.10.Label" type="string"></setting>
+    <setting id="HomeItem.15.Playlist" type="string">plugin://plugin.program.super.favourites/?label=01+%7C+Hers&amp;mode=400&amp;path=C%3A%5CUsers%5CMarcus+Michelli%5CAppData%5CRoaming%5CKodi%5Cmedia%5CSuper+Favourites%5CMoreTV%5CHers&amp;image=%2Fmnt%2Fsdcard%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Fmedia%2Firon.jpg&amp;fanart=C%3A%5CUsers%5CMarcus+Michelli%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.program.super.favourites%5Cfanart.jpg&amp;content_type=video</setting>
+    <setting id="SubSettings.5.Path" type="string"></setting>
+    <setting id="HomeItem.5.Playlist" type="string"></setting>
+    <setting id="HomeItem.13.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.SportsDevil/?mode=1&amp;item=title%3D%252AAll%2BCategories%252A%26url%3Dhttp%253A%252F%252Fwww.vipleague.is%26cfg%3Dvipbox.tv.cfg%2540ALL%26definedIn%3Dlivesports%252Fvipbox.tv.cfg%26director%3DVipBox.tv%26genre%3DLive%2BSports%26type%3Drss%26icon%3DC%253A%255CUsers%255CMarcus%2BMichelli%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cvipbox.png,return)</setting>
+    <setting id="HomeItem.5.Label" type="string">[COLOR greenyellow][B]V[/B][/COLOR]ideos</setting>
+    <setting id="SubLiveTV.10.Label" type="string"></setting>
+    <setting id="HomeItem.10.Sub" type="string">UserFour</setting>
+    <setting id="SubProg.10.Label" type="string"></setting>
+    <setting id="UserPicturesSubMenu" type="string">Games</setting>
+    <setting id="AddonSetSix.4.Path" type="string">RunAddon(plugin.video.MikeysKaraoke)</setting>
+    <setting id="HomeItem.3.Addon" type="string">AddonSetSeven</setting>
+    <setting id="AddonSetTwo.5.Label" type="string">Kid&apos;s Movies</setting>
+    <setting id="HomeTrans" type="string"></setting>
+    <setting id="AddonSetThree.3.Path" type="string">RunAddon(plugin.video.ultimateguitar)</setting>
+    <setting id="AddonSetThree.1.Path" type="string">RunAddon(plugin.video.barbecueweb)</setting>
+    <setting id="AddonSetEleven.7.Label" type="string"></setting>
+    <setting id="AddonSetNine.6.Label" type="string">Loyal Books</setting>
+    <setting id="SubLiveTV.9.Label" type="string"></setting>
+    <setting id="AddonSetOne.2.Label" type="string">Israel Sports</setting>
+    <setting id="AddonSetFour.2.Path" type="string">RunAddon(plugin.video.md123movies)</setting>
+    <setting id="AddonSetSix.4.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.MikeysKaraoke\icon.png</setting>
+    <setting id="SubTVShows.1.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=tvshows&amp;url=airing,return)</setting>
+    <setting id="SubVideos.10.Label" type="string"></setting>
+    <setting id="CustomTimer" type="string"></setting>
+    <setting id="AddonSetTwo.4.Label" type="string">Disney Junior</setting>
+    <setting id="AddonSetEight.1.Path" type="string">RunAddon(plugin.video.mdfubar)</setting>
+    <setting id="SubTVShows.5.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.velocity/?url=&amp;mode=trakt_search_shows&amp;name=Search&amp;movie_title=&amp;thumb=C%3A%5CUsers%5CMarcus+Michelli%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.velocity%5Cresources%5Cart%5Csearch.png&amp;trakt_id=&amp;media=,return)</setting>
+    <setting id="UserSubOne.9.Label" type="string">[COLOR greenyellow][B]C[/B][/COLOR]onspiracy [COLOR red]T[/COLOR]heory</setting>
+    <setting id="AddonSetTwelve.1.Label" type="string">Raw Maintenance</setting>
+    <setting id="AddonSetOne.4.Label" type="string">Operation Robocop Ultimate</setting>
+    <setting id="UserSubFive.8.Path" type="string"></setting>
+    <setting id="UserSubTwo.3.Label" type="string">[COLOR greenyellow][B]LIVE[/B][/COLOR][COLOR red][B] N[/B][/COLOR][COLOR green][B]H[/B][/COLOR][COLOR blue][B]L[/B][/COLOR]</setting>
+    <setting id="AddonSetTwelve.3.Path" type="string">RunAddon(plugin.program.totalinstaller)</setting>
+    <setting id="UserLiveTVSubMenu" type="string"></setting>
+    <setting id="PhysicalMusicFolder" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\media\</setting>
+    <setting id="HomeItem.14.Display" type="string">Default</setting>
+    <setting id="HomeItem.10.Widget" type="string">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=movies&amp;fanart=http%3a%2f%2f7-themes.com%2fdata_images%2fout%2f59%2f6973439-beautiful-forest-photos.jpg&amp;image=https%3a%2f%2fwalter.trakt.us%2fimages%2fmovies%2f000%2f007%2f229%2ffanarts%2foriginal%2f75b32c169e.jpg&amp;name=%5bCOLOR%20hotpink%5dKids%20Live%20Action%5b%2fCOLOR%5d&amp;tvshow=0&amp;url=http%3a%2f%2fhonolulu.watchkodi.com%2fPlaylists%2fKids%2520Live%2520Action.xml</setting>
+    <setting id="SubRadio.2.Label" type="string"></setting>
+    <setting id="AddonSetFive.5.Path" type="string">RunAddon(plugin.video.mdpubfilm)</setting>
+    <setting id="AddonSetSix.1.Label" type="string">Bin@ural</setting>
+    <setting id="AddonSetFour.4.Path" type="string">RunAddon(plugin.video.velocity)</setting>
+    <setting id="AddonSetEight.2.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.israelive\icon.png</setting>
+    <setting id="AddonSetSeven.3.Path" type="string">RunAddon(plugin.audio.radioreference)</setting>
+    <setting id="UserSubFour.7.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.disneyjunior,return)</setting>
+    <setting id="HomeItem.7.Type" type="string">VideoNode</setting>
+    <setting id="HomeItem.8.Addon" type="string">AddonSetSix</setting>
+    <setting id="UserSelectOneSubMenu" type="string">Kings</setting>
+    <setting id="UserSubFour.4.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2FNaviXPlaylist%2FChildrens.xml&amp;mode=6&amp;name=%5BCOLOR+aqua%5DChildrens%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fsirubico%2Fmovie-genre%2F256%2FChildren-icon.png&amp;description=,return)</setting>
+    <setting id="UserSubFour.1.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fcartoons%2FIndex.txt&amp;mode=1&amp;name=Cartoons&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fthumbs%2Fnew%2FUk%2520turk%2520thumbnails%2520cartoons.jpg&amp;description=,return)</setting>
+    <setting id="WeatherScript_Label" type="string"></setting>
+    <setting id="SubSettings.8.Path" type="string"></setting>
+    <setting id="HomeItem.2.Label" type="string">Games</setting>
+    <setting id="AddonSetFive.4.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.tgun\icon.png</setting>
+    <setting id="AddonSetEleven.7.Path" type="string"></setting>
+    <setting id="SubSettings.8.Label" type="string"></setting>
+    <setting id="UserSubFour.6.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DKids%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FKids.xml&amp;audio=0&amp;image=http%3A%2F%2Fcreateapk.com%2Fproject%2F2014%2F09%2Fafrizaldarwin%2Fthe-minions-despicable-me-wallpaper%2Ficon.png&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=movies&amp;action=ndmode,return)</setting>
+    <setting id="HomeItem.3.Widget" type="string">plugin://plugin.audio.tuneinradio/?c=local&amp;id&amp;name=Local%20Radio&amp;offset&amp;path=browse&amp;pivot</setting>
+    <setting id="SubPictures.4.Label" type="string"></setting>
+    <setting id="AddonSetEight.2.Label" type="string">[COLOR white]Israe[/COLOR][COLOR blue]L[/COLOR][COLOR white]IVE[/COLOR]</setting>
+    <setting id="HomeItem.7.Fanart" type="string">special://skin/backgrounds/House-Baratheon-Wallpaper-1920x1080.jpg</setting>
+    <setting id="AddonSetFive.3.Label" type="string">The Royal We</setting>
+    <setting id="AddonSetTwo.7.Path" type="string">RunAddon(plugin.video.velocitykids)</setting>
+    <setting id="SubMusic.8.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.The-Music-Source/?url=http%3A%2F%2Fpastebin.com%2Fraw.php%3Fi%3D3jM6v6ti&amp;mode=1&amp;name=%5BCOLOR+burlywood%5DMP3%5B%2FCOLOR%5D+Streams+&amp;fanart=http%3A%2F%2Fimg.hqhdwalls.com%2Fuploads%2Fwallpaper%2Fthumb728%2Fdan%2Fdancing-hair-drunkenly-dance-girl-wallpaper-53c9a5c616552.jpg,return)</setting>
+    <setting id="HomeItem.1.Display" type="string">Default</setting>
+    <setting id="HomeItem.4.Sub" type="string">LiveTV</setting>
+    <setting id="UserSubThree.8.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DMy+Mood%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FPlaylists%2FMy%2520Emotions.xml&amp;audio=0&amp;image=http%3A%2F%2Fs14.postimg.org%2F83lyc0ich%2FEmotions_Are_Energy1.jpg&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=0&amp;action=ndmode,return)</setting>
+    <setting id="UsrMovieFanArtDir" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\media\</setting>
+    <setting id="HomeItem.7.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.salts/?section=TV&amp;mode=popular,return)</setting>
+    <setting id="AddonSetSix.5.Label" type="string">MP3 Streams</setting>
+    <setting id="SubVideos.8.Path" type="string"></setting>
+    <setting id="UserSubOne.1.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?action=directory&amp;url=http%3A%2F%2Fone242415.offshorepastebin.com%2FCollections%2Fboxingfights.xml,return)</setting>
+    <setting id="AddonSetSeven.5.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.audio.shoutcast\icon.png</setting>
+    <setting id="AddonSetEight.5.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\script.navi-x\icon.png</setting>
+    <setting id="AddonSetOne.3.Label" type="string">NJM-Soccer</setting>
+    <setting id="AddonSetOne.6.Label" type="string">SportsDevil</setting>
+    <setting id="AddonSetEleven.1.Label" type="string"></setting>
+    <setting id="AddonSetTwelve.4.Label" type="string">Advanced Launcher</setting>
+    <setting id="HomeItem.9.Widget" type="string">addons://repos/</setting>
+    <setting id="HomeItem.5.Sub" type="string">Videos</setting>
+    <setting id="MediaPopupControl" type="string"></setting>
+    <setting id="UserSubThree.4.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DSculpt%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FFitness%2FSculpt.xml&amp;audio=0&amp;image=http%3A%2F%2Fs6.postimg.org%2Ffr5p8g69t%2FSculpt.png&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=0&amp;action=ndmode,return)</setting>
+    <setting id="SubConcerts.8.Path" type="string"></setting>
+    <setting id="AddonSetFour.1.Label" type="string">[COLOR blue]T[/COLOR]itan</setting>
+    <setting id="AddonSetFour.7.Label" type="string">.F.U.B.A.R.</setting>
+    <setting id="AddonSetTwelve.2.Label" type="string">[COLOR greenyellow]Anonymous[/COLOR]</setting>
+    <setting id="SubConcerts.10.Label" type="string"></setting>
+    <setting id="SkinHelper.AutoCloseVideoOSD" type="string"></setting>
+    <setting id="SubMusic.9.Label" type="string">[COLOR greenyellow][B]R[/B][/COLOR]adio[COLOR red] D[/COLOR]ocumentaries</setting>
+    <setting id="SubTVShows.6.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=tvNetworks,return)</setting>
+    <setting id="SkinHelper.WallImagesDelay" type="string"></setting>
+    <setting id="AddonSetSeven.4.Label" type="string">World Radio</setting>
+    <setting id="UserSubOne.7.Label" type="string">[COLOR greenyellow][B]H[/B][/COLOR]unting [COLOR red]C[/COLOR]hannel</setting>
+    <setting id="SubProg.9.Label" type="string"></setting>
+    <setting id="UserSubTwo.10.Label" type="string">[COLOR greenyellow][B]M[/B][/COLOR]ixed[COLOR red][B] Sports[/B][/COLOR] Channels</setting>
+    <setting id="HomeItem.11.Addon" type="string">None</setting>
+    <setting id="AddonSetFour.2.Label" type="string">123Movies</setting>
+    <setting id="SubProg.8.Path" type="string"></setting>
+    <setting id="HomeItem.1.Addon" type="string">None</setting>
+    <setting id="HomeItem.7.Sub" type="string">TVShows</setting>
+    <setting id="AddonSetSix.1.Path" type="string">RunAddon(plugin.audio.binaural)</setting>
+    <setting id="SkinHelper.ForcedViews.artists" type="string"></setting>
+    <setting id="GlobalBackGroundPath" type="string">special://skin/GOT/</setting>
+    <setting id="SkinHelper.ShowInfoAtPlaybackStart" type="string"></setting>
+    <setting id="HomeItem.1.Sub" type="string">None</setting>
+    <setting id="UserSubOne.10.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?action=directory&amp;url=http%3A%2F%2Fone242415.offshorepastebin.com%2FMisc%2Fsportdocs.xml,return)</setting>
+    <setting id="SkinHelper.ForcedViews.movies" type="string"></setting>
+    <setting id="SubProg.4.Label" type="string"></setting>
+    <setting id="AddonSetFive.2.Label" type="string">Icefilms</setting>
+    <setting id="SubMusic.6.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.The-Music-Source/?url=http%3A%2F%2Fpastebin.com%2Fraw.php%3Fi%3DQ0pk8kyg&amp;mode=1&amp;name=%5BCOLOR+burlywood%5DMusic%5B%2FCOLOR%5D+Concerts+&amp;fanart=http%3A%2F%2Fslvrrm.com%2Fwp-content%2Fuploads%2F2014%2F08%2Ftiesto-music-live-concert-club-wallpaper-1920x1200.jpg,return)</setting>
+    <setting id="UserSubFive.1.Path" type="string"></setting>
+    <setting id="AddonSetThree.4.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.phstreams\icon.png</setting>
+    <setting id="UserSubFour.5.Label" type="string">[COLOR greenyellow][B]B[/B][/COLOR]rats[COLOR red] S[/COLOR]panish</setting>
+    <setting id="AddonSetSeven.7.Label" type="string">Pandora</setting>
+    <setting id="AddonSetTwo.2.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.cartoonhdtwo\icon.png</setting>
+    <setting id="SubVideos.9.Path" type="string"></setting>
+    <setting id="SkinHelper.ForcedViews.files" type="string"></setting>
+    <setting id="HomeItem.12.Type" type="string">Settings</setting>
+    <setting id="SubPictures.8.Path" type="string"></setting>
+    <setting id="SubMusic.10.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.The-Music-Source/?url=http%3A%2F%2Fpastebin.com%2Fraw.php%3Fi%3Dm9qyNBdW&amp;mode=1&amp;name=%5BCOLOR+dodgerblue%5DOldskool%5B%2FCOLOR%5D+Bangers%21+&amp;fanart=http%3A%2F%2Fi62.tinypic.com%2F98gj6s.jpg,return)</setting>
+    <setting id="UserSubFour.2.Label" type="string">[COLOR greenyellow][B]A[/B][/COLOR][COLOR orange]nimated[/COLOR] Movies</setting>
+    <setting id="AddonSetTen.7.Path" type="string"></setting>
+    <setting id="AddonSetFive.3.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.theroyalwe\icon.png</setting>
+    <setting id="SubMusic.2.Label" type="string">[COLOR greenyellow][B]C[/B][/COLOR]harts</setting>
+    <setting id="UserSubTwo.7.Label" type="string">[COLOR greenyellow][B]R[/B][/COLOR]andom[COLOR red][B] S[/B][/COLOR]ports</setting>
+    <setting id="SkinHelper.ColorTheme.Day.time" type="string"></setting>
+    <setting id="AddonSetTwelve.7.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\script.advancedsettingsetter\icon.png</setting>
+    <setting id="HomeItem.9.Label" type="string">Programs</setting>
+    <setting id="AddonSetFive.5.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.mdpubfilm\icon.png</setting>
+    <setting id="SkinHelper.ForcedViews.addons" type="string"></setting>
+    <setting id="HomeItem.13.Type" type="string">VideoNode</setting>
+    <setting id="AddonSetTwo.6.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.supercartoons\icon.png</setting>
+    <setting id="UserSubFour.3.Label" type="string">[COLOR greenyellow][B]D[/B][/COLOR][COLOR red]i[/COLOR][COLOR blue]s[/COLOR][COLOR orange]n[/COLOR][COLOR green]e[/COLOR][COLOR fuchisa]y[/COLOR] Channel Movies</setting>
+    <setting id="UserSelectAddon.7.Label" type="string">Radio</setting>
+    <setting id="SubConcerts.9.Label" type="string"></setting>
+    <setting id="CustomSuspend" type="string"></setting>
+    <setting id="UserSubThree.3.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DInsanity%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FFitness%2FInsanity.xml&amp;audio=0&amp;image=http%3A%2F%2Fs6.postimg.org%2Fbtifj1jgh%2FInsanity.png&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=0&amp;action=ndmode,return)</setting>
+    <setting id="SubProg.1.Label" type="string">Programs</setting>
+    <setting id="AddonSetEight.1.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.mdfubar\icon.png</setting>
+    <setting id="SubMovies.2.Label" type="string">[COLOR greenyellow][B]T[/B][/COLOR]op[COLOR red][B] R[/B][/COLOR]ated</setting>
+    <setting id="AddonSetEleven.3.Label" type="string"></setting>
+    <setting id="SubConcerts.1.Label" type="string"></setting>
+    <setting id="UserSubFive.4.Path" type="string"></setting>
+    <setting id="PowerBtnAction" type="string">Menu</setting>
+    <setting id="HomeItem.15.Path" type="string">ActivateWindow(Videos,plugin://plugin.program.super.favourites/?label=01+%7C+Hers&amp;mode=400&amp;path=C%3A%5CUsers%5CMarcus+Michelli%5CAppData%5CRoaming%5CKodi%5Cmedia%5CSuper+Favourites%5CMoreTV%5CHers&amp;image=%2Fmnt%2Fsdcard%2FAndroid%2Fdata%2Forg.xbmc.kodi%2Ffiles%2F.kodi%2Fmedia%2Firon.jpg&amp;fanart=C%3A%5CUsers%5CMarcus+Michelli%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.program.super.favourites%5Cfanart.jpg&amp;content_type=video,return)</setting>
+    <setting id="SubLiveTV.4.Label" type="string"></setting>
+    <setting id="AddonSetTwelve.5.Label" type="string">Chrome Launcher</setting>
+    <setting id="HomeItem.5.Fanart" type="string">special://skin/backgrounds/1361330448_1.png</setting>
+    <setting id="HomeItem.10.Playlist" type="string">plugin://plugin.video.ukturk/?url=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fcartoons%2FIndex.txt&amp;mode=1&amp;name=Cartoons&amp;iconimage=http%3A%2F%2Fmetalkettle.co%2FUKTurk18022016%2Fthumbs%2Fnew%2FUk%2520turk%2520thumbnails%2520cartoons.jpg&amp;description=</setting>
+    <setting id="UserSubFour.7.Label" type="string">[COLOR greenyellow][B]D[/B][/COLOR][COLOR red]i[/COLOR][COLOR blue]s[/COLOR][COLOR yellow]n[/COLOR][COLOR green]e[/COLOR][COLOR pink]y[/COLOR][COLOR red] JR[/COLOR][COLOR green] TV[/COLOR] Shows</setting>
+    <setting id="HomeItem.12.Label" type="string">System</setting>
+    <setting id="AddonSetTwo.7.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.velocitykids\icon.png</setting>
+    <setting id="UserSubThree.2.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DWorkout%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FFitness%2FFitness%2520Main.xml&amp;audio=0&amp;image=http%3A%2F%2Fs6.postimg.org%2Fre40an269%2Ffitness_woman_perspiration_2_1.jpg&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=0&amp;action=ndmode,return)</setting>
+    <setting id="UserSubTwo.8.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.castaway/?mode=p2p_corner,return)</setting>
+    <setting id="UserTVShowsSubMenu" type="string"></setting>
+    <setting id="UserSubFour.2.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%3Ftitle_type%3Dfeature%2Ctv_movie%26languages%3Den%26num_votes%3D100%2C%26release_date%3Ddate%5B730%5D%2Cdate%5B30%5D%26genres%3Danimation%26sort%3Dmoviemeter%2Casc%26count%3D40%26start%3D1,return)</setting>
+    <setting id="SubRadio.3.Path" type="string"></setting>
+    <setting id="SubTVShows.10.Label" type="string">[COLOR greenyellow][B]S[/B][/COLOR]earch[COLOR red][B] S[/B][/COLOR]hows</setting>
+    <setting id="SubProg.4.Path" type="string"></setting>
+    <setting id="UserSubThree.4.Label" type="string">[COLOR greenyellow][B]S[/B][/COLOR][COLOR fuchsia]culpt[/COLOR]</setting>
+    <setting id="SubVideos.4.Path" type="string"></setting>
+    <setting id="SubConcerts.10.Path" type="string"></setting>
+    <setting id="UserSubFive.8.Label" type="string"></setting>
+    <setting id="HomeItem.10.Type" type="string">VideoNode</setting>
+    <setting id="HomeItem.13.Fanart" type="string">special://skin/backgrounds/maxresdefault.jpg</setting>
+    <setting id="AddonSetThree.3.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.ultimateguitar\icon.png</setting>
+    <setting id="HomeItem.11.Widget" type="string">None</setting>
+    <setting id="AddonSetSeven.2.Label" type="string">TuneIn Radio</setting>
+    <setting id="HomeItem.12.Sub" type="string">Settings</setting>
+    <setting id="AddonSetEight.4.Path" type="string">RunAddon(plugin.video.ccloudtv)</setting>
+    <setting id="SubConcerts.3.Path" type="string"></setting>
+    <setting id="CustomShutdown" type="string"></setting>
+    <setting id="AddonSetTen.7.Label" type="string"></setting>
+    <setting id="UserSubFive.7.Label" type="string"></setting>
+    <setting id="UserSubFive.3.Label" type="string"></setting>
+    <setting id="UserSubFive.1.Label" type="string"></setting>
+    <setting id="AddonSetFour.3.Path" type="string">RunAddon(plugin.video.exodus)</setting>
+    <setting id="AddonSetSeven.5.Path" type="string">RunAddon(plugin.audio.shoutcast)</setting>
+    <setting id="AddonSetTwo.6.Label" type="string">Super Cartoons</setting>
+    <setting id="AddonSetNine.5.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.audio.kodible\icon.png</setting>
+    <setting id="UserSubThree.8.Label" type="string">[COLOR greenyellow][B]M[/B][/COLOR][COLOR fuchsia]ood[/COLOR] Movies</setting>
+    <setting id="SubTVShows.4.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=calendars,return)</setting>
+    <setting id="SubSettings.5.Label" type="string"></setting>
+    <setting id="SubMovies.5.Label" type="string">[COLOR greenyellow][B]G[/B][/COLOR]enres</setting>
+    <setting id="UserSubTwo.2.Label" type="string">[COLOR greenyellow][B]LIVE[/B][/COLOR][COLOR red][B] N[/B][/COLOR][COLOR green][B]F[/B][/COLOR][COLOR blue][B]L[/B][/COLOR]</setting>
+    <setting id="SubLiveTV.4.Path" type="string"></setting>
+    <setting id="AddonSetTwo.1.Path" type="string">RunAddon(plugin.video.cartoonhd)</setting>
+    <setting id="UserSubThree.6.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DYoga%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FFitness%2FYoga.xml&amp;audio=0&amp;image=http%3A%2F%2Fs6.postimg.org%2Ferfecqr41%2FYoga.png&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=0&amp;action=ndmode,return)</setting>
+    <setting id="AddonSetTwo.3.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.image.comicstrips\icon.png</setting>
+    <setting id="UserProgsSubMenu" type="string"></setting>
+    <setting id="HomeItem.13.Display" type="string">Default</setting>
+    <setting id="AddonSetOne.7.Label" type="string">ZemTV.com</setting>
+    <setting id="AddonSetFive.4.Path" type="string">RunAddon(plugin.video.tgun)</setting>
+    <setting id="HomeItem.10.Fanart" type="string">special://skin/backgrounds/green_figure_aggression_style_homestuck_7355_1920x1080 - Copy.jpg</setting>
+    <setting id="SubTVShows.7.Label" type="string">[COLOR greenyellow][B]N[/B][/COLOR]ew[COLOR red][B] S[/B][/COLOR]hows</setting>
+    <setting id="CustomSuspendArg" type="string"></setting>
+    <setting id="UsrOSDBtn.Label" type="string"></setting>
+    <setting id="UserSubOne.2.Label" type="string">[COLOR greenyellow][B]G[/B][/COLOR]angster [COLOR red]M[/COLOR]ovies</setting>
+    <setting id="SubPictures.2.Label" type="string"></setting>
+    <setting id="AddonSetEight.7.Path" type="string">RunAddon(plugin.video.SGUIDE)</setting>
+    <setting id="HomeItem.6.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=movies&amp;url=theaters,return)</setting>
+    <setting id="HomeItem.6.Type" type="string">VideoNode</setting>
+    <setting id="MPAACertificate" type="string">USA</setting>
+    <setting id="InitialMenuItem" type="string">1</setting>
+    <setting id="HomeItem.9.Addon" type="string">AddonSetTwelve</setting>
+    <setting id="AddonSetSeven.4.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.audio.worldradio\icon.png</setting>
+    <setting id="HomeItem.11.Playlist" type="string"></setting>
+    <setting id="SubProg.2.Path" type="string"></setting>
+    <setting id="UserSubOne.8.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?action=directory&amp;url=http%3A%2F%2Fone242415.offshorepastebin.com%2FMisc%2FWrestling.xml,return)</setting>
+    <setting id="UserSubOne.9.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?action=directory&amp;url=http%3A%2F%2Fone242415.offshorepastebin.com%2FMisc%2Fconspiracy.xml,return)</setting>
+    <setting id="HomeItem.15.Sub" type="string">UserThree</setting>
+    <setting id="AddonSetTen.5.Path" type="string"></setting>
+    <setting id="HomeItem.6.Label" type="string">[COLOR greenyellow][B]M[/B][/COLOR]ovies</setting>
+    <setting id="AddonSetTen.1.Path" type="string"></setting>
+    <setting id="AddonSetTen.2.Icon" type="string"></setting>
+    <setting id="SubMovies.5.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=movieGenres,return)</setting>
+    <setting id="UserSubFive.7.Path" type="string"></setting>
+    <setting id="AddonSetEleven.5.Icon" type="string"></setting>
+    <setting id="UserSubThree.2.Label" type="string">[COLOR greenyellow][B]D[/B][/COLOR][COLOR fuchsia]ance[/COLOR]</setting>
+    <setting id="AddonSetEleven.4.Icon" type="string"></setting>
+    <setting id="AddonSetNine.2.Label" type="string">Facebook Media</setting>
+    <setting id="AddonSetOne.3.Path" type="string">RunAddon(plugin.video.NJMSoccer)</setting>
+    <setting id="UserSubTwo.3.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.prosport/?url=&amp;home=&amp;away=&amp;mode=nhl,return)</setting>
+    <setting id="UserSubFive.9.Label" type="string"></setting>
+    <setting id="HomeItem.4.Type" type="string">LiveTV</setting>
+    <setting id="HomeItem.6.Fanart" type="string">special://skin/backgrounds/Game-of-Thrones.jpg</setting>
+    <setting id="AddonSetTwo.1.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.cartoonhd\icon.png</setting>
+    <setting id="AddonSetEleven.4.Path" type="string"></setting>
+    <setting id="UsrTVShowFanArtDir" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\media\</setting>
+    <setting id="AddonSetSeven.6.Label" type="string">Radio</setting>
+    <setting id="UserSubThree.10.Path" type="string"></setting>
+    <setting id="AddonSetFour.3.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.exodus\icon.png</setting>
+    <setting id="AddonSetThree.6.Label" type="string">Ultimate TV Guide</setting>
+    <setting id="AddonSetOne.3.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.NJMSoccer\icon.png</setting>
+    <setting id="AddonSetFour.6.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.salts\icon.png</setting>
+    <setting id="AddonSetNine.1.Path" type="string">RunAddon(script.screensaver.cocktail)</setting>
+    <setting id="UserSubThree.9.Label" type="string">[COLOR greenyellow][B]C[/B][/COLOR][COLOR fuchsia]oncerts[/COLOR]</setting>
+    <setting id="SubLiveTV.8.Path" type="string"></setting>
+    <setting id="SubVideos.2.Path" type="string"></setting>
+    <setting id="SubMusic.9.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.The-Music-Source/?url=http%3A%2F%2Fpastebin.com%2Fraw.php%3Fi%3DwGhNJXxv&amp;mode=1&amp;name=%5BCOLOR+burlywood%5DRadio%5B%2FCOLOR%5D+Documentaries&amp;fanart=http%3A%2F%2Frack.1.mshcdn.com%2Fmedia%2FZgkyMDEzLzAxLzIzLzk2L0ZpbG1SZWVsLjBlODkzLmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn%2Ffeeeed58%2F70e%2FFilm-Reel.jpg,return)</setting>
+    <setting id="AddonSetThree.2.Label" type="string">EarthCam</setting>
+    <setting id="AddonSetEleven.2.Icon" type="string"></setting>
+    <setting id="HomeItem.3.Label" type="string">[COLOR greenyellow][B]R[/B][/COLOR]adio</setting>
+    <setting id="AddonSetTen.2.Path" type="string"></setting>
+    <setting id="AddonSetThree.6.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.SGUIDE\icon.png</setting>
+    <setting id="HomeItem.9.Playlist" type="string"></setting>
+    <setting id="AddonSetNine.3.Path" type="string">RunAddon(plugin.video.concertarchive)</setting>
+    <setting id="SubMovies.8.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=movieSearch,return)</setting>
+    <setting id="AddonSetNine.1.Label" type="string">Cocktail</setting>
+    <setting id="SubSettings.4.Path" type="string"></setting>
+    <setting id="SubMovies.6.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=movieYears,return)</setting>
+    <setting id="SubLiveTV.2.Path" type="string"></setting>
+    <setting id="SubProg.5.Path" type="string"></setting>
+    <setting id="HomeItem.4.Path" type="string">ActivateWindow(TVChannels)</setting>
+    <setting id="AddonSetNine.3.Label" type="string">Concert Archive</setting>
+    <setting id="SubRadio.4.Path" type="string"></setting>
+    <setting id="UserSettingsSubMenu" type="string"></setting>
+    <setting id="AddonSetNine.7.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.program.super.favourites\icon.png</setting>
+    <setting id="UserSubOne.5.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?action=directory&amp;url=http%3A%2F%2Fone242415.offshorepastebin.com%2FCollections%2Ferotic.xml,return)</setting>
+    <setting id="AddonSetTen.3.Path" type="string"></setting>
+    <setting id="SubTVShows.2.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=tvshows&amp;url=rating,return)</setting>
+    <setting id="UserSubOne.4.Label" type="string">[COLOR greenyellow][B]B[/B][/COLOR]urlespue</setting>
+    <setting id="UsrConcertsFanArtDir" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\media\</setting>
+    <setting id="SubSettings.1.Label" type="string"></setting>
+    <setting id="SubProg.3.Path" type="string"></setting>
+    <setting id="AddonSetThree.6.Path" type="string">RunAddon(plugin.video.SGUIDE)</setting>
+    <setting id="AddonSetOne.1.Path" type="string">RunAddon(plugin.video.castaway)</setting>
+    <setting id="AddonSetTwelve.4.Path" type="string">RunAddon(plugin.program.advanced.launcher)</setting>
+    <setting id="SubRadio.4.Label" type="string"></setting>
+    <setting id="SubConcerts.1.Path" type="string"></setting>
+    <setting id="HomeItem.7.Widget" type="string">plugin://plugin.video.exodus/&apos;,&apos;395&apos;,&apos;?action=tvGenres</setting>
+    <setting id="UserSubFour.10.Label" type="string"></setting>
+    <setting id="SubPictures.7.Label" type="string"></setting>
+    <setting id="AddonSetThree.7.Path" type="string">RunAddon(script.navi-x)</setting>
+    <setting id="AddonSetSeven.5.Label" type="string">SHOUTcast 2</setting>
+    <setting id="UserSubThree.6.Label" type="string">[COLOR greenyellow][B]Y[/B][/COLOR][COLOR fuchsia]oga[/COLOR]</setting>
+    <setting id="SubSettings.10.Path" type="string"></setting>
+    <setting id="SubVideos.1.Label" type="string"></setting>
+    <setting id="SubSettings.7.Path" type="string"></setting>
+    <setting id="HomeItem.3.Type" type="string">AddOns</setting>
+    <setting id="SubVideos.2.Label" type="string"></setting>
+    <setting id="UserSelectAddon.3.Label" type="string">King</setting>
+    <setting id="UserSubFour.6.Label" type="string">[COLOR greenyellow][B]B[/B][/COLOR]rats[COLOR red] M[/COLOR]ovies</setting>
+    <setting id="SubVideos.3.Path" type="string"></setting>
+    <setting id="AddonSetTwelve.5.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.program.chrome.launcher\icon.png</setting>
+    <setting id="UserVideosSubMenu" type="string"></setting>
+    <setting id="CustomTimerArg" type="string"></setting>
+    <setting id="AddonSetEleven.7.Icon" type="string"></setting>
+    <setting id="SubMusic.2.Path" type="string">ActivateWindow(Videos,plugin://plugin.audio.binaural/?url=url&amp;mode=101&amp;name=Charts&amp;iconimage=http%3A%2F%2Fkinkin-xbmc-repository.googlecode.com%2Fsvn%2Ftrunk%2Fzips%2Fplugin.audio.binaural%2Fart%2Fbillboardcharts.jpg&amp;artist=,return)</setting>
+    <setting id="SubProg.1.Path" type="string">ActivateWindow(Programs,Addons,return)</setting>
+    <setting id="AddonSetTen.4.Path" type="string"></setting>
+    <setting id="SubPictures.5.Path" type="string"></setting>
+    <setting id="HomeItem.9.Display" type="string">Default</setting>
+    <setting id="SubSettings.1.Path" type="string"></setting>
+    <setting id="HomeItem.15.Addon" type="string">AddonSetNine</setting>
+    <setting id="SubSettings.6.Path" type="string"></setting>
+    <setting id="SubRadio.10.Label" type="string"></setting>
+    <setting id="AddonSetFive.3.Path" type="string">RunAddon(plugin.video.theroyalwe)</setting>
+    <setting id="UserSubOne.6.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?action=directory&amp;url=http%3A%2F%2Fone242415.offshorepastebin.com%2FCollections%2Fquentin.xml,return)</setting>
+    <setting id="HomeItem.13.Playlist" type="string">plugin://plugin.video.SportsDevil/?mode=1&amp;item=title%3D%252AAll%2BCategories%252A%26url%3Dhttp%253A%252F%252Fwww.vipleague.is%26cfg%3Dvipbox.tv.cfg%2540ALL%26definedIn%3Dlivesports%252Fvipbox.tv.cfg%26director%3DVipBox.tv%26genre%3DLive%2BSports%26type%3Drss%26icon%3DC%253A%255CUsers%255CMarcus%2BMichelli%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cvipbox.png</setting>
+    <setting id="SubConcerts.6.Label" type="string"></setting>
+    <setting id="UserSelectFourSubMenu" type="string">brats</setting>
+    <setting id="StartUpPlaylistPath" type="string"></setting>
+    <setting id="UserSubFive.2.Path" type="string"></setting>
+    <setting id="SubTVShows.2.Label" type="string">[COLOR greenyellow][B]H[/B][/COLOR]ighly[COLOR red][B] R[/B][/COLOR]ated</setting>
+    <setting id="UsrSelectAddon" type="string"></setting>
+    <setting id="HomeItem.4.Label" type="string">[COLOR greenyellow][B]TV[/B][/COLOR][COLOR red][B] C[/B][/COLOR]hannels</setting>
+    <setting id="AddonSetSeven.3.Label" type="string">Broadcastify</setting>
+    <setting id="SubVideos.7.Path" type="string"></setting>
+    <setting id="HomeItem.8.Sub" type="string">Music</setting>
+    <setting id="UsrColorTwo" type="string">greenyellow</setting>
+    <setting id="HomeItem.6.Addon" type="string">AddonSetFour</setting>
+    <setting id="UserSubFour.5.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.titan/?url=https%3A%2F%2Farchive.org%2Fdownload%2FNaviXPlaylist%2FKidsSpanish.xml&amp;mode=6&amp;name=%5BCOLOR+aqua%5D+Kids+Spanish+%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fimages.doba.com%2Fproducts%2F4093%2F22001048_images_fun2learn_spanish.jpg&amp;description=,return)</setting>
+    <setting id="AddonSetFour.6.Path" type="string">RunAddon(plugin.video.salts)</setting>
+    <setting id="AddonSetSix.3.Path" type="string">RunAddon(plugin.audio.jango)</setting>
+    <setting id="AddonSetFour.3.Label" type="string">Exodus</setting>
+    <setting id="SubPictures.7.Path" type="string"></setting>
+    <setting id="HomeItem.4.Fanart" type="string">special://skin/backgrounds/game-of-thrones-high-definition-1080p-desktop-android-iphone-ipad-ipod-mobile-wallpaper-backgrounds-free-download.jpg</setting>
+    <setting id="UserSubOne.8.Label" type="string">[COLOR greenyellow][B]W[/B][/COLOR]restling</setting>
+    <setting id="SubTVShows.8.Label" type="string">[COLOR greenyellow][B]R[/B][/COLOR]eturning[COLOR red][B] TV[/B][/COLOR] shows</setting>
+    <setting id="SubTVShows.4.Label" type="string">[COLOR greenyellow][B]C[/B][/COLOR]alendar[COLOR red][B] W[/B][/COLOR]eek</setting>
+    <setting id="SubMusic.3.Label" type="string">[COLOR greenyellow][B]G[/B][/COLOR]enres</setting>
+    <setting id="AddonSetSix.3.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.audio.jango\icon.png</setting>
+    <setting id="SubRadio.5.Label" type="string"></setting>
+    <setting id="AddonSetSeven.1.Path" type="string">RunAddon(plugin.audio.radiotunes.com)</setting>
+    <setting id="HomeItem.14.Playlist" type="string">plugin://plugin.video.phstreams/?name=One242415&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2Fmaindir%2Fmain.xml&amp;audio=0&amp;image=http%3A%2F%2Fgibraltar.watchkodi.com%2FskullPhoenicIcon.png&amp;fanart=C%3A%5CUsers%5CMarcus+Michelli%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.phstreams%5Cfanart.jpg&amp;tvshow=0&amp;content=0&amp;action=ndmode</setting>
+    <setting id="UserSubFour.9.Label" type="string"></setting>
+    <setting id="SubMovies.1.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.salts/?username=movistapp&amp;section=Movies&amp;mode=show_list&amp;slug=top-rated,return)</setting>
+    <setting id="UserSubFour.8.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.themusicsource/?url=http%3A%2F%2Fpastebin.com%2Fraw.php%3Fi%3D6SnNn0BP&amp;mode=1&amp;name=%5BCOLOR+burlywood%5DKaraoke+%5B%2FCOLOR%5DNights+&amp;fanart=http%3A%2F%2Fi.ytimg.com%2Fvi%2Fi87RGQGKmko%2Fmaxresdefault.jpg,return)</setting>
+    <setting id="UserSubTwo.6.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.castaway/?mode=on_demand_sport_categories,return)</setting>
+    <setting id="SubVideos.9.Label" type="string"></setting>
+    <setting id="AddonSetThree.5.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.dragon.sports\icon.png</setting>
+    <setting id="HomeItem.3.Playlist" type="string"></setting>
+    <setting id="AddonSetFive.2.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.icefilms\icon.png</setting>
+    <setting id="UserSelectAddon.2.Label" type="string">Kids</setting>
+    <setting id="HomeItem.2.Type" type="string">AddOns</setting>
+    <setting id="AddonSetOne.6.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.SportsDevil\icon.png</setting>
+    <setting id="HomeItem.12.Addon" type="string">None</setting>
+    <setting id="SubConcerts.5.Path" type="string"></setting>
+    <setting id="AddonSetTwelve.3.Label" type="string">[COLOR=orange]C[/COLOR]ommunity [COLOR=orange]P[/COLOR]ortal</setting>
+    <setting id="AddonSetNine.3.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.concertarchive\icon.png</setting>
+    <setting id="AddonSetFour.7.Path" type="string">RunAddon(plugin.video.mdfubar)</setting>
+    <setting id="AddonSetTwelve.1.Path" type="string">RunAddon(script.rawmaintenance)</setting>
+    <setting id="AddonSetNine.2.Path" type="string">RunAddon(script.facebook.media)</setting>
+    <setting id="AddonSetSeven.1.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.audio.radiotunes.com\icon.png</setting>
+    <setting id="AddonSetTen.2.Label" type="string"></setting>
+    <setting id="AddonSetFive.1.Path" type="string">RunAddon(plugin.video.md123movies)</setting>
+    <setting id="AddonSetFour.1.Path" type="string">RunAddon(plugin.video.titan)</setting>
+    <setting id="HomeItem.6.Display" type="string">Default</setting>
+    <setting id="HomeItem.8.Fanart" type="string">special://skin/backgrounds/Fire.jpg</setting>
+    <setting id="SubMusic.5.Label" type="string">[COLOR greenyellow][B]K[/B][/COLOR]araoke</setting>
+    <setting id="SubRadio.10.Path" type="string"></setting>
+    <setting id="SubMovies.9.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.velocity/?url=popular&amp;mode=call_trakt_movies&amp;name=Popular&amp;movie_title=&amp;thumb=C%3A%5CUsers%5CMarcus+Michelli%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.velocity%5Cresources%5Cart%5Cpopular.png&amp;trakt_id=&amp;media=,return)</setting>
+    <setting id="HomeItem.1.Label" type="string">[COLOR greenyellow][B]W[/B][/COLOR]eather</setting>
+    <setting id="AddonSetTwelve.7.Label" type="string">Advanced Setting Setter</setting>
+    <setting id="SubVideos.4.Label" type="string"></setting>
+    <setting id="UPnPServer" type="string">Kodi</setting>
+    <setting id="UsrAlbumThumbsDir" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\media\</setting>
+    <setting id="CustomHibernateArg" type="string"></setting>
+    <setting id="AddonSetSeven.7.Path" type="string">RunAddon(script.audio.pandora)</setting>
+    <setting id="AddonSetNine.4.Path" type="string">RunAddon(plugin.video.foodnetwork)</setting>
+    <setting id="AddonSetTwelve.6.Label" type="string">Fresh Start</setting>
+    <setting id="SubRadio.6.Path" type="string"></setting>
+    <setting id="SubVideos.10.Path" type="string"></setting>
+    <setting id="SubTVShows.5.Label" type="string">[COLOR greenyellow][B]P[/B][/COLOR]opular</setting>
+    <setting id="UserSelectAddon.5.Label" type="string">Tvshows</setting>
+    <setting id="AddonSetNine.6.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.audio.booksshouldbefree\icon.png</setting>
+    <setting id="SubVideos.3.Label" type="string"></setting>
+    <setting id="UsrColorOne" type="string">greenyellow</setting>
+    <setting id="UserSubTwo.5.Label" type="string">[COLOR greenyellow][B]S[/B][/COLOR]ports[COLOR red][B] TV[/B][/COLOR]</setting>
+    <setting id="AddonSetTwo.2.Path" type="string">RunAddon(plugin.video.cartoonhdtwo)</setting>
+    <setting id="SubProg.10.Path" type="string"></setting>
+    <setting id="SubMovies.10.Label" type="string">[COLOR greenyellow][B]A-Z[/B][/COLOR]</setting>
+    <setting id="SubMovies.3.Label" type="string">[COLOR greenyellow][B]T[/B][/COLOR]op[COLOR red][B] IMDB[/B][/COLOR]</setting>
+    <setting id="SubTVShows.10.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=tvSearch,return)</setting>
+    <setting id="UserSubThree.5.Label" type="string">[COLOR greenyellow][B]S[/B][/COLOR][COLOR fuchsia]trength[/COLOR]</setting>
+    <setting id="AddonSetTwo.5.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.kmER\icon.png</setting>
+    <setting id="HomeItem.14.Addon" type="string">AddonSetThree</setting>
+    <setting id="UserMoviesSubMenu" type="string"></setting>
+    <setting id="AddonSetFour.5.Label" type="string">9Movies</setting>
+    <setting id="SubProg.3.Label" type="string"></setting>
+    <setting id="HomeItem.13.Label" type="string">[COLOR greenyellow][B]L[/B][/COLOR]ive[COLOR red][B] S[/B][/COLOR]ports</setting>
+    <setting id="UserSubFive.3.Path" type="string"></setting>
+    <setting id="SubPictures.5.Label" type="string"></setting>
+    <setting id="AddonSetTwelve.6.Path" type="string">RunAddon(plugin.video.freshstart)</setting>
+    <setting id="UserSubFive.6.Path" type="string"></setting>
+    <setting id="AddonSetSix.1.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.audio.binaural\icon.png</setting>
+    <setting id="UserSubTwo.2.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.prosport/?url=&amp;home=&amp;away=&amp;mode=nfl,return)</setting>
+    <setting id="SubRadio.8.Path" type="string"></setting>
+    <setting id="AddonSetFive.7.Path" type="string">RunAddon(plugin.video.dragon.sports)</setting>
+    <setting id="AddonSetFour.2.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.md123movies\icon.png</setting>
+    <setting id="AddonSetEleven.2.Path" type="string"></setting>
+    <setting id="UserSelectAddon.8.Label" type="string">tv</setting>
+    <setting id="HomeItem.8.Label" type="string">[COLOR greenyellow][B]M[/B][/COLOR]usic</setting>
+    <setting id="TopLeftHomeInfo" type="string">Weather</setting>
+    <setting id="SubLiveTV.1.Label" type="string"></setting>
+    <setting id="AddonSetThree.4.Label" type="string">Phoenix</setting>
+    <setting id="AddonSetSix.2.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.concertarchive\icon.png</setting>
+    <setting id="AddonSetOne.5.Label" type="string">Pro Sport</setting>
+    <setting id="HomeItem.7.Label" type="string">[COLOR greenyellow][B]TV[/B][/COLOR][COLOR red] S[/COLOR]hows</setting>
+    <setting id="AddonSetEleven.1.Path" type="string"></setting>
+    <setting id="HomeItem.2.Path" type="string">RunAddon(script.games.rom.collection.browser)</setting>
+    <setting id="HomeItem.11.Fanart" type="string">special://skin/backgrounds/</setting>
+    <setting id="AddonSetEleven.2.Label" type="string"></setting>
+    <setting id="SubRadio.2.Path" type="string"></setting>
+    <setting id="SubSettings.2.Label" type="string"></setting>
+    <setting id="AddonSetThree.7.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\script.navi-x\icon.png</setting>
+    <setting id="LyricScript_Path" type="string">script.cu.lrclyrics</setting>
+    <setting id="SubRadio.1.Path" type="string"></setting>
+    <setting id="AddonSetOne.7.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.ZemTV-shani\icon.png</setting>
+    <setting id="SubVideos.6.Label" type="string"></setting>
+    <setting id="HomeItem.14.Label" type="string">[COLOR greenyellow][B]K[/B][/COLOR]ing</setting>
+    <setting id="AddonSetTwo.4.Path" type="string">RunAddon(plugin.video.disneyjunior)</setting>
+    <setting id="AddonSetSeven.6.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.audio.radio_de\icon.png</setting>
+    <setting id="InitialMenuPosi" type="string">3</setting>
+    <setting id="AddonSetSix.3.Label" type="string">Jango</setting>
+    <setting id="SubMusic.5.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.themusicsource/?url=http%3A%2F%2Fpastebin.com%2Fraw.php%3Fi%3D6SnNn0BP&amp;mode=1&amp;name=%5BCOLOR+burlywood%5DKaraoke+%5B%2FCOLOR%5DNights+&amp;fanart=http%3A%2F%2Fi.ytimg.com%2Fvi%2Fi87RGQGKmko%2Fmaxresdefault.jpg,return)</setting>
+    <setting id="UserSubFive.5.Path" type="string"></setting>
+    <setting id="HomeItem.5.Display" type="string">Default</setting>
+    <setting id="SubPictures.8.Label" type="string"></setting>
+    <setting id="AddonSetTen.1.Icon" type="string"></setting>
+    <setting id="AddonSetThree.4.Path" type="string">RunAddon(plugin.video.phstreams)</setting>
+    <setting id="AddonSetNine.5.Label" type="string">Kodible</setting>
+    <setting id="SubLiveTV.1.Path" type="string"></setting>
+    <setting id="SubConcerts.4.Label" type="string"></setting>
+    <setting id="AddonSetThree.1.Label" type="string">BBQ Pit Boys</setting>
+    <setting id="SubLiveTV.3.Path" type="string"></setting>
+    <setting id="SkinHelper.ForcedViews.programs" type="string"></setting>
+    <setting id="AddonSetSeven.1.Label" type="string">RadioTunes</setting>
+    <setting id="SubMovies.7.Label" type="string">[COLOR greenyellow][B]By[/B][/COLOR][COLOR red][B] R[/B][/COLOR]ated</setting>
+    <setting id="SkinHelper.ColorTheme.Night.time" type="string"></setting>
+    <setting id="UPnP_Path" type="string">upnp://6d176b40-49f7-3782-ba78-0e233deab7da/</setting>
+    <setting id="SubTVShows.7.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.exodus/?action=tvshows&amp;url=premiere,return)</setting>
+    <setting id="HomeItem.10.Label" type="string">[COLOR greenyellow][B]B[/B][/COLOR][COLOR red]r[/COLOR][COLOR yellow]a[/COLOR][COLOR blue]t[/COLOR]s</setting>
+    <setting id="AddonSetTwo.7.Label" type="string">Velocity Kids</setting>
+    <setting id="UserSelectAddon.9.Label" type="string">queen</setting>
+    <setting id="UserSelectAddon.10.Label" type="string">Games</setting>
+    <setting id="UserSubFive.2.Label" type="string"></setting>
+    <setting id="AddonSetSix.6.Path" type="string">RunAddon(plugin.video.vevo)</setting>
+    <setting id="SubSettings.9.Path" type="string"></setting>
+    <setting id="SubMusic.1.Path" type="string">ActivateWindow(Videos,plugin://plugin.audio.binaural/?url=url&amp;mode=1300&amp;name=Audio&amp;iconimage=http%3A%2F%2Fkinkin-xbmc-repository.googlecode.com%2Fsvn%2Ftrunk%2Fzips%2Fplugin.audio.binaural%2Fart%2Faudio.png&amp;artist=,return)</setting>
+    <setting id="AddonSetFive.6.Label" type="string">Phoenix</setting>
+    <setting id="SubSettings.3.Label" type="string"></setting>
+    <setting id="HomeItem.11.Sub" type="string">PlayDisc</setting>
+    <setting id="AddonSetFive.4.Label" type="string">The GiddyUp Network</setting>
+    <setting id="HomeItem.2.Sub" type="string">AddOns</setting>
+    <setting id="AddonSetSix.2.Label" type="string">Concert Archive</setting>
+    <setting id="SubProg.9.Path" type="string"></setting>
+    <setting id="AddonSetTen.6.Icon" type="string"></setting>
+    <setting id="UserSubFive.10.Path" type="string"></setting>
+    <setting id="UserSubThree.3.Label" type="string">[COLOR greenyellow][B]I[/B][/COLOR][COLOR fuchsia]nsanity[/COLOR]</setting>
+    <setting id="UserSubOne.10.Label" type="string">[COLOR greenyellow][B]S[/B][/COLOR]ports [COLOR red]D[/COLOR]ocumentaries</setting>
+    <setting id="UsrFavBtnCmd.Label" type="string"></setting>
+    <setting id="UserSubThree.1.Label" type="string">[COLOR greenyellow][B]C[/B][/COLOR][COLOR fuchsia]ardio[/COLOR]</setting>
+    <setting id="HomeItem.12.Fanart" type="string">special://skin/backgrounds/</setting>
+    <setting id="SubVideos.5.Label" type="string"></setting>
+    <setting id="HomeItem.2.Fanart" type="string">special://skin/backgrounds/galti-nav-sidhu-modern-warfare-art-1920x1080-wallpaper193434 - Copy.jpg</setting>
+    <setting id="SubSettings.7.Label" type="string"></setting>
+    <setting id="AddonSetTwo.4.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\plugin.video.disneyjunior\icon.png</setting>
+    <setting id="SubVideos.5.Path" type="string"></setting>
+    <setting id="HomeItem.1.Type" type="string">Weather</setting>
+    <setting id="UserSubFive.9.Path" type="string"></setting>
+    <setting id="SubMovies.3.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.md123movies/?url=http%3A%2F%2F123movies.to%2Fmovie%2Ffilter%2Fmovie%2Fimdb_mark%2Fall%2Fall%2Fall%2Fall%2Fall&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DTop+IMDB%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=C%3A%5CUsers%5CMarcus+Michelli%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.md123movies%5Cicon.png&amp;description=,return)</setting>
+    <setting id="SubMusic.1.Label" type="string">[COLOR greenyellow][B]B[/B][/COLOR]est[COLOR red] S[/COLOR]elling[COLOR blue] A[/COLOR]lbums</setting>
+    <setting id="UserSubTwo.7.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.Operation_RobocopUltimate/?url=http%3A%2F%2Frobocop-kodi.ddns.net%2Flists%2Flhd.php&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+limegreen%5DRANDOM+SPORTS%5B%2FCOLOR%5D%5B%2FB%5D+&amp;fanart=,return)</setting>
+    <setting id="SubProg.7.Path" type="string"></setting>
+    <setting id="SubSettings.6.Label" type="string"></setting>
+    <setting id="AddonSetTen.6.Path" type="string"></setting>
+    <setting id="AddonSetEleven.6.Label" type="string"></setting>
+    <setting id="HomeItem.4.Addon" type="string">AddonSetEight</setting>
+    <setting id="SubMusic.4.Label" type="string">[COLOR greenyellow][B]M[/B][/COLOR]ood[COLOR red] M[/COLOR]usic</setting>
+    <setting id="UserSubThree.1.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=%5BCOLOR+hotpink%5DCardio%5B%2FCOLOR%5D&amp;url=http%3A%2F%2Fhonolulu.watchkodi.com%2FFitness%2FCardio.xml&amp;audio=0&amp;image=http%3A%2F%2Fs6.postimg.org%2Fi4nmzgkox%2FCardio.png&amp;fanart=http%3A%2F%2F7-themes.com%2Fdata_images%2Fout%2F59%2F6973439-beautiful-forest-photos.jpg&amp;tvshow=0&amp;content=0&amp;action=ndmode,return)</setting>
+    <setting id="SubProg.7.Label" type="string"></setting>
+    <setting id="UserSelectAddon.12.Label" type="string">Programs</setting>
+    <setting id="UserSubOne.3.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.phstreams/?action=directory&amp;url=http%3A%2F%2Fone242415.offshorepastebin.com%2FAfterDark%2FAfterDark_Directory.xml,return)</setting>
+    <setting id="UserSubThree.7.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.bobross,return)</setting>
+    <setting id="HomeItem.14.Sub" type="string">UserOne</setting>
+    <setting id="SubMovies.4.Label" type="string">[COLOR greenyellow][B]In[/B][/COLOR][COLOR red][B] T[/B][/COLOR]heaters</setting>
+    <setting id="HomeItem.11.Display" type="string">Default</setting>
+    <setting id="Container(9000).ListItem.Property(WidgetSet)" type="string"></setting>
+    <setting id="UserConcertsSubMenu" type="string"></setting>
+    <setting id="AddonSetTwelve.1.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\script.rawmaintenance\icon.png</setting>
+    <setting id="UserSubTwo.10.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.ccloudtv/?url=sports&amp;mode=52&amp;name=%5BCOLOR+royalblue%5D%5BB%5DSports%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=C%3A%5CUsers%5CMarcus+Michelli%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.ccloudtv%5Cresources%2Ficons%2F%2Fsports.png,return)</setting>
+    <setting id="SubVideos.6.Path" type="string"></setting>
+    <setting id="AddonSetOne.6.Path" type="string">RunAddon(plugin.video.SportsDevil)</setting>
+    <setting id="HomeItem.15.Display" type="string">Default</setting>
+    <setting id="SubMusic.4.Path" type="string">ActivateWindow(Videos,plugin://plugin.audio.binaural/?url=url&amp;mode=1203&amp;name=Moods+-+play+what+you+feel&amp;iconimage=http%3A%2F%2Fkinkin-xbmc-repository.googlecode.com%2Fsvn%2Ftrunk%2Fzips%2Fplugin.audio.binaural%2Fart%2Fmoods.png&amp;artist=,return)</setting>
+    <setting id="AddonSetEight.7.Label" type="string">Ultimate TV Guide</setting>
+    <setting id="HomeItem.4.Playlist" type="string"></setting>
+    <setting id="SubConcerts.6.Path" type="string"></setting>
+    <setting id="HomeItem.7.Addon" type="string">AddonSetFive</setting>
+    <setting id="MusicOSDInfo" type="string"></setting>
+    <setting id="HomeItem.7.Display" type="string">Default</setting>
+    <setting id="SubMovies.10.Path" type="string">ActivateWindow(Videos,plugin://plugin.video.md9movies/?url=http%3A%2F%2F9movies.to%2F%2Ffilter%3Fsort%3Dtitle%26type%255B%255D%3Dmovie&amp;mode=1&amp;name=%5BB%5D%5BCOLOR+white%5DA%2FZ%5B%2FCOLOR%5D%5B%2FB%5D&amp;iconimage=C%3A%5CUsers%5CMarcus+Michelli%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.md9movies%5Cicon.png&amp;description=,return)</setting>
+    <setting id="AddonSetEight.3.Icon" type="string">C:\Users\Marcus Michelli\AppData\Roaming\Kodi\addons\script.renegadestv\icon.png</setting>
+    <setting id="SubTVShows.1.Label" type="string">[COLOR greenyellow][B]A[/B][/COLOR]iring[COLOR red][B] T[/B][/COLOR]oday</setting>
+    <setting id="SubMovies.1.Label" type="string">[COLOR greenyellow][B]B[/B][/COLOR]est[COLOR red][B] M[/B][/COLOR]ovies</setting>
+    <setting id="HomeFloor" type="string">Transparent</setting>
+    <setting id="HomeItem.9.Sub" type="string">Programs</setting>
+    <setting id="UsrFavBtnCmd.Path" type="string"></setting>
+    <setting id="SubPictures.10.Path" type="string"></setting>
+</settings>

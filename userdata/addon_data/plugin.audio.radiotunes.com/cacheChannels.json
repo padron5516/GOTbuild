@@ -1,0 +1,1448 @@
+(lp0
+(dp1
+S'streamUrl'
+p2
+S'http://pub5.radiotunes.com:80/radiotunes_tophits_aacplus'
+p3
+sS'name'
+p4
+VTop Hits
+p5
+sS'isNew'
+p6
+I0
+sS'description'
+p7
+g5
+sS'bitrate'
+p8
+I40
+sS'asset'
+p9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c21.png
+p10
+sa(dp11
+g2
+S'http://pub5.radiotunes.com:80/radiotunes_sleeprelaxation_aacplus'
+p12
+sg4
+VSleep Relaxation
+p13
+sg6
+I0
+sg7
+g13
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c406.png
+p14
+sa(dp15
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_smoothbeats_aacplus'
+p16
+sg4
+VSmooth Beats
+p17
+sg6
+I0
+sg7
+g17
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c407.png
+p18
+sa(dp19
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_smoothjazz_aacplus'
+p20
+sg4
+VSmooth Jazz
+p21
+sg6
+I0
+sg7
+g21
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c20.png
+p22
+sa(dp23
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_the80s_aacplus'
+p24
+sg4
+VBest of the 80s
+p25
+sg6
+I0
+sg7
+g25
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c22.png
+p26
+sa(dp27
+g2
+S'http://pub6.radiotunes.com:80/radiotunes_solopiano_aacplus'
+p28
+sg4
+VSolo Piano
+p29
+sg6
+I0
+sg7
+g29
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c52.png
+p30
+sa(dp31
+g2
+S'http://pub6.radiotunes.com:80/radiotunes_lovemusic_aacplus'
+p32
+sg4
+VLove Music
+p33
+sg6
+I0
+sg7
+g33
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c61.png
+p34
+sa(dp35
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_relaxation_aacplus'
+p36
+sg4
+VRelaxation
+p37
+sg6
+I0
+sg7
+g37
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c120.png
+p38
+sa(dp39
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_newage_aacplus'
+p40
+sg4
+VNew Age
+p41
+sg6
+I0
+sg7
+g41
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c18.png
+p42
+sa(dp43
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_oldies_aacplus'
+p44
+sg4
+VOldies
+p45
+sg6
+I0
+sg7
+g45
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c39.png
+p46
+sa(dp47
+g2
+S'http://pub6.radiotunes.com:80/radiotunes_smoothjazz247_aacplus'
+p48
+sg4
+VSmooth Jazz 24'7
+p49
+sg6
+I0
+sg7
+g49
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c118.png
+p50
+sa(dp51
+g2
+S'http://pub6.radiotunes.com:80/radiotunes_classical_aacplus'
+p52
+sg4
+VMostly Classical
+p53
+sg6
+I0
+sg7
+g53
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c17.png
+p54
+sa(dp55
+g2
+S'http://pub5.radiotunes.com:80/radiotunes_vocalsmoothjazz_aacplus'
+p56
+sg4
+VVocal Smooth Jazz
+p57
+sg6
+I0
+sg7
+g57
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c111.png
+p58
+sa(dp59
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_hit70s_aacplus'
+p60
+sg4
+VHit 70s
+p61
+sg6
+I0
+sg7
+g61
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c24.png
+p62
+sa(dp63
+g2
+S'http://pub5.radiotunes.com:80/radiotunes_vocalnewage_aacplus'
+p64
+sg4
+VVocal New Age
+p65
+sg6
+I0
+sg7
+g65
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c121.png
+p66
+sa(dp67
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_mellowsmoothjazz_aacplus'
+p68
+sg4
+VMellow Smooth Jazz
+p69
+sg6
+I0
+sg7
+g69
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c297.png
+p70
+sa(dp71
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_classicrock_aacplus'
+p72
+sg4
+VClassic Rock
+p73
+sg6
+I0
+sg7
+g73
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c46.png
+p74
+sa(dp75
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_latinpophits_aacplus'
+p76
+sg4
+VLatin Pop Hits
+p77
+sg6
+I0
+sg7
+g77
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c417.png
+p78
+sa(dp79
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_smoothlounge_aacplus'
+p80
+sg4
+VSmooth Lounge
+p81
+sg6
+I0
+sg7
+g81
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c173.png
+p82
+sa(dp83
+g2
+S'http://pub8.radiotunes.com:80/radiotunes_dreamscapes_aacplus'
+p84
+sg4
+VDreamscapes
+p85
+sg6
+I0
+sg7
+g85
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c109.png
+p86
+sa(dp87
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_nature_aacplus'
+p88
+sg4
+VNature
+p89
+sg6
+I0
+sg7
+g89
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c119.png
+p90
+sa(dp91
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_uptemposmoothjazz_aacplus'
+p92
+sg4
+VUptempo Smooth Jazz
+p93
+sg6
+I0
+sg7
+g93
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c41.png
+p94
+sa(dp95
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_rootsreggae_aacplus'
+p96
+sg4
+VRoots Reggae
+p97
+sg6
+I0
+sg7
+g97
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c23.png
+p98
+sa(dp99
+g2
+S'http://pub6.radiotunes.com:80/radiotunes_80sdance_aacplus'
+p100
+sg4
+V80s Dance
+p101
+sg6
+I0
+sg7
+g101
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c228.png
+p102
+sa(dp103
+g2
+S'http://pub5.radiotunes.com:80/radiotunes_cafedeparis_aacplus'
+p104
+sg4
+VCafé de Paris
+p105
+sg6
+I0
+sg7
+g105
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c197.png
+p106
+sa(dp107
+g2
+S'http://pub5.radiotunes.com:80/radiotunes_bossanova_aacplus'
+p108
+sg4
+VBossa Nova
+p109
+sg6
+I0
+sg7
+g109
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c54.png
+p110
+sa(dp111
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_softrock_aacplus'
+p112
+sg4
+VSoft Rock
+p113
+sg6
+I0
+sg7
+g113
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c132.png
+p114
+sa(dp115
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_datempolounge_aacplus'
+p116
+sg4
+VDaTempo Lounge
+p117
+sg6
+I0
+sg7
+g117
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c48.png
+p118
+sa(dp119
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_dancehits_aacplus'
+p120
+sg4
+VDance Hits
+p121
+sg6
+I0
+sg7
+g121
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c71.png
+p122
+sa(dp123
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_00srnb_aacplus'
+p124
+sg4
+V00s R&B
+p125
+sg6
+I0
+sg7
+g125
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c299.png
+p126
+sa(dp127
+g2
+S'http://pub8.radiotunes.com:80/radiotunes_romanticalatina_aacplus'
+p128
+sg4
+VRomántica Latina
+p129
+sg6
+I0
+sg7
+g129
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c420.png
+p130
+sa(dp131
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_bolero_aacplus'
+p132
+sg4
+VBolero
+p133
+sg6
+I0
+sg7
+g133
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c414.png
+p134
+sa(dp135
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_mellowjazz_aacplus'
+p136
+sg4
+VMellow Jazz
+p137
+sg6
+I0
+sg7
+g137
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c188.png
+p138
+sa(dp139
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_hit60s_aacplus'
+p140
+sg4
+VBest of the 60s
+p141
+sg6
+I0
+sg7
+g141
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c214.png
+p142
+sa(dp143
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_hit90s_aacplus'
+p144
+sg4
+V90s Hits
+p145
+sg6
+I0
+sg7
+g145
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c186.png
+p146
+sa(dp147
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_90srnb_aacplus'
+p148
+sg4
+V90s R&B
+p149
+sg6
+I0
+sg7
+g149
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c229.png
+p150
+sa(dp151
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_hit00s_aacplus'
+p152
+sg4
+V00s Hits
+p153
+sg6
+I0
+sg7
+g153
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c358.png
+p154
+sa(dp155
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_guitar_aacplus'
+p156
+sg4
+VClassical Guitar
+p157
+sg6
+I0
+sg7
+g157
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c19.png
+p158
+sa(dp159
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_modernblues_aacplus'
+p160
+sg4
+VModern Blues
+p161
+sg6
+I0
+sg7
+g161
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c128.png
+p162
+sa(dp163
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_country_aacplus'
+p164
+sg4
+VCountry
+p165
+sg6
+I0
+sg7
+g165
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c25.png
+p166
+sa(dp167
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_smoothbossanova_aacplus'
+p168
+sg4
+VSmooth Bossa Nova
+p169
+sg6
+I0
+sg7
+g169
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c187.png
+p170
+sa(dp171
+g2
+S'http://pub6.radiotunes.com:80/radiotunes_80srock_aacplus'
+p172
+sg4
+V80s Rock Hits
+p173
+sg6
+I0
+sg7
+g173
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c141.png
+p174
+sa(dp175
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_salsa_aacplus'
+p176
+sg4
+VSalsa
+p177
+sg6
+I0
+sg7
+g177
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c27.png
+p178
+sa(dp179
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_oldschoolfunknsoul_aacplus'
+p180
+sg4
+VOld School Funk & Soul
+p181
+sg6
+I0
+sg7
+g181
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c273.png
+p182
+sa(dp183
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_davekoz_aacplus'
+p184
+sg4
+VDave Koz & Friends
+p185
+sg6
+I0
+sg7
+g185
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c298.png
+p186
+sa(dp187
+g2
+S'http://pub8.radiotunes.com:80/radiotunes_60srock_aacplus'
+p188
+sg4
+V60s Rock
+p189
+sg6
+I0
+sg7
+g189
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c227.png
+p190
+sa(dp191
+g2
+S'http://pub6.radiotunes.com:80/radiotunes_soundtracks_aacplus'
+p192
+sg4
+VMovie Soundtracks
+p193
+sg6
+I0
+sg7
+g193
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c50.png
+p194
+sa(dp195
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_pianojazz_aacplus'
+p196
+sg4
+VPiano Jazz
+p197
+sg6
+I0
+sg7
+g197
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c55.png
+p198
+sa(dp199
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_nortena_aacplus'
+p200
+sg4
+VNorteña
+p201
+sg6
+I0
+sg7
+g201
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c419.png
+p202
+sa(dp203
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_cubanlounge_aacplus'
+p204
+sg4
+VCuban Lounge
+p205
+sg6
+I0
+sg7
+g205
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c415.png
+p206
+sa(dp207
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_meditation_aacplus'
+p208
+sg4
+VMeditation
+p209
+sg6
+I0
+sg7
+g209
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c303.png
+p210
+sa(dp211
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_classicrap_aacplus'
+p212
+sg4
+VClassic Hip-Hop
+p213
+sg6
+I0
+sg7
+g213
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c38.png
+p214
+sa(dp215
+g2
+S'http://pub8.radiotunes.com:80/radiotunes_rtvocalchillout_aacplus'
+p216
+sg4
+VVocal Chillout
+p217
+sg6
+I0
+sg7
+g217
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c335.png
+p218
+sa(dp219
+g2
+S'http://pub6.radiotunes.com:80/radiotunes_rtlounge_aacplus'
+p220
+sg4
+VLounge
+p221
+sg6
+I0
+sg7
+g221
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c334.png
+p222
+sa(dp223
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_80saltnnewwave_aacplus'
+p224
+sg4
+V80s Alt & New Wave
+p225
+sg6
+I1
+sg7
+g225
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c354.png
+p226
+sa(dp227
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_rtvocallounge_aacplus'
+p228
+sg4
+VVocal Lounge
+p229
+sg6
+I0
+sg7
+g229
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c336.png
+p230
+sa(dp231
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_americansongbook_aacplus'
+p232
+sg4
+VAmerican Songbook
+p233
+sg6
+I0
+sg7
+g233
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c93.png
+p234
+sa(dp235
+g2
+S'http://pub8.radiotunes.com:80/radiotunes_christian_aacplus'
+p236
+sg4
+VContemporary Christian
+p237
+sg6
+I1
+sg7
+g237
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c51.png
+p238
+sa(dp239
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_relaxingambientpiano_aacplus'
+p240
+sg4
+VRelaxing Ambient Piano
+p241
+sg6
+I1
+sg7
+g241
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c306.png
+p242
+sa(dp243
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_altrock_aacplus'
+p244
+sg4
+VAlternative Rock
+p245
+sg6
+I1
+sg7
+g245
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c49.png
+p246
+sa(dp247
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_flamenco_aacplus'
+p248
+sg4
+VFlamenco
+p249
+sg6
+I0
+sg7
+g249
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c416.png
+p250
+sa(dp251
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_latinrock_aacplus'
+p252
+sg4
+VLatin Rock
+p253
+sg6
+I1
+sg7
+g253
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c418.png
+p254
+sa(dp255
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_romantica_aacplus'
+p256
+sg4
+VRomantica
+p257
+sg6
+I1
+sg7
+g257
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c108.png
+p258
+sa(dp259
+g2
+S'http://pub5.radiotunes.com:80/radiotunes_slowjams_aacplus'
+p260
+sg4
+VSlow R&B
+p261
+sg6
+I0
+sg7
+g261
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c322.png
+p262
+sa(dp263
+g2
+S'http://pub8.radiotunes.com:80/radiotunes_poprock_aacplus'
+p264
+sg4
+VPop Rock
+p265
+sg6
+I1
+sg7
+g265
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c139.png
+p266
+sa(dp267
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_urbanpophits_aacplus'
+p268
+sg4
+VUrban Pop Hits
+p269
+sg6
+I1
+sg7
+g269
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c305.png
+p270
+sa(dp271
+g2
+S'http://pub6.radiotunes.com:80/radiotunes_world_aacplus'
+p272
+sg4
+VWorld
+p273
+sg6
+I1
+sg7
+g273
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c43.png
+p274
+sa(dp275
+g2
+S'http://pub8.radiotunes.com:80/radiotunes_bluesrock_aacplus'
+p276
+sg4
+VBlues Rock
+p277
+sg6
+I1
+sg7
+g277
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c356.png
+p278
+sa(dp279
+g2
+S'http://pub5.radiotunes.com:80/radiotunes_discoparty_aacplus'
+p280
+sg4
+VDisco Party
+p281
+sg6
+I1
+sg7
+g281
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c307.png
+p282
+sa(dp283
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_hardrock_aacplus'
+p284
+sg4
+VHard Rock
+p285
+sg6
+I1
+sg7
+g285
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c130.png
+p286
+sa(dp287
+g2
+S'http://pub8.radiotunes.com:80/radiotunes_clubbollywood_aacplus'
+p288
+sg4
+VClub Bollywood
+p289
+sg6
+I0
+sg7
+g289
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c140.png
+p290
+sa(dp291
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_classicalpianotrios_aacplus'
+p292
+sg4
+VClassical Piano Trios
+p293
+sg6
+I0
+sg7
+g293
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c94.png
+p294
+sa(dp295
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_rtambient_aacplus'
+p296
+sg4
+VAmbient
+p297
+sg6
+I1
+sg7
+g297
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c329.png
+p298
+sa(dp299
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_bebop_aacplus'
+p300
+sg4
+VBebop Jazz
+p301
+sg6
+I1
+sg7
+g301
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c72.png
+p302
+sa(dp303
+g2
+S'http://pub5.radiotunes.com:80/radiotunes_baroque_aacplus'
+p304
+sg4
+VBaroque Period
+p305
+sg6
+I1
+sg7
+g305
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c342.png
+p306
+sa(dp307
+g2
+S'http://pub6.radiotunes.com:80/radiotunes_mozart_aacplus'
+p308
+sg4
+VMozart
+p309
+sg6
+I1
+sg7
+g309
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c344.png
+p310
+sa(dp311
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_tango_aacplus'
+p312
+sg4
+VTango
+p313
+sg6
+I1
+sg7
+g313
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c421.png
+p314
+sa(dp315
+g2
+S'http://pub1.radiotunes.com:80/radiotunes_urbanjamz_aacplus'
+p316
+sg4
+VUrban Hits
+p317
+sg6
+I1
+sg7
+g317
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c42.png
+p318
+sa(dp319
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_rtdowntempolounge_aacplus'
+p320
+sg4
+VDowntempo Lounge
+p321
+sg6
+I0
+sg7
+g321
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c331.png
+p322
+sa(dp323
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_jazzclassics_aacplus'
+p324
+sg4
+VJazz Classics
+p325
+sg6
+I1
+sg7
+g325
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c26.png
+p326
+sa(dp327
+g2
+S'http://pub6.radiotunes.com:80/radiotunes_rtchillout_aacplus'
+p328
+sg4
+VChillout
+p329
+sg6
+I1
+sg7
+g329
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c330.png
+p330
+sa(dp331
+g2
+S'http://pub5.radiotunes.com:80/radiotunes_classicalperiod_aacplus'
+p332
+sg4
+VClassical Period
+p333
+sg6
+I1
+sg7
+g333
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c343.png
+p334
+sa(dp335
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_jpop_aacplus'
+p336
+sg4
+VJpop
+p337
+sg6
+I1
+sg7
+g337
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c110.png
+p338
+sa(dp339
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_indierock_aacplus'
+p340
+sg4
+VIndie Rock
+p341
+sg6
+I1
+sg7
+g341
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c37.png
+p342
+sa(dp343
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_rteurodance_aacplus'
+p344
+sg4
+VEuroDance
+p345
+sg6
+I1
+sg7
+g345
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c333.png
+p346
+sa(dp347
+g2
+S'http://pub7.radiotunes.com:80/radiotunes_modernrock_aacplus'
+p348
+sg4
+VModern Rock
+p349
+sg6
+I1
+sg7
+g349
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c131.png
+p350
+sa(dp351
+g2
+S'http://pub8.radiotunes.com:80/radiotunes_reggaeton_aacplus'
+p352
+sg4
+VReggaeton
+p353
+sg6
+I1
+sg7
+g353
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c304.png
+4
+sa(dp355
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_reggaeton_aacplus'
+p356
+sg4
+VReggaeton
+p357
+sg6
+I1
+sg7
+g357
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c304.png
+p358
+sa(dp359
+g2
+S'http://pub2.radiotunes.com:80/radiotunes_metal_aacplus'
+p360
+sg4
+VMetal
+p361
+sg6
+I1
+sg7
+g361
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c129.png
+p362
+sa(dp363
+g2
+S'http://pub4.radiotunes.com:80/radiotunes_romantic_aacplus'
+p364
+sg4
+VRomantic Period
+p365
+sg6
+I1
+sg7
+g365
+sg8
+I40
+sg9
+VC:\u005cUsers\u005cMarcus Michelli\u005cAppData\u005cRoaming\u005cKodi\u005cuserdata\u005caddon_data\u005cplugin.audio.radiotunes.com\u005c345.png
+p366
+sa.

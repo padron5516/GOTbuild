@@ -1,0 +1,1 @@
+["[COLOR greenyellow][B]W[/B]res", ["[COLOR restaurant", "[COLOR resort"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

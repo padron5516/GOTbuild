@@ -1,0 +1,24 @@
+{ "version" : "1", "time" : "999999999999999999999999999999999999999999999999999999999999999999999999999999", "genres" : {  
+"*" : {"alias":"All", "title":"All Channels"}, 
+
+"2" : {"alias":"entertainments", "title":"Family Entertainment Channels"}, 
+"43" : {"alias":"entertainments", "title":"Documentary & Science Channels"},
+
+"3" : {"alias":"children's", "title":"Kids Channels"}, 
+"4" : {"alias":"cinema", "title":"Movie Channels"},  
+"6" : {"alias":"sports", "title":"Sports Channels"}, 
+"68" : {"alias":"for adults", "title":"Adult Entertainment (Password Protected)"}, 
+"64" : {"alias":"amx", "title":"## TEST Channels ##"}, 
+"66" : {"alias":"amx", "title":"Bangla Channels"}, 
+"67" : {"alias":"amx", "title":"Marvel's Daredevil Season 1 4K"}, 
+"15" : {"alias":"amx", "title":"### On Demand 4K ###"}, 
+"70" : {"alias":"amx", "title":"Live Dj Mixes By KrAz"}, 
+
+"100" : {"alias":"country", "title":"Indian & Pakistani Channels"},
+
+"48" : {"alias":"PPV", "title":"Movies On Demand"},
+"45" : {"alias":"PPV", "title":"Kids Movies On Demand"},
+"16" : {"alias":"PPV", "title":"UK Channels"},
+"105" : {"alias":"PPV", "title":"Spanish Channels"},
+"55" : {"alias":"USA", "title":"USA Channels"}
+}}

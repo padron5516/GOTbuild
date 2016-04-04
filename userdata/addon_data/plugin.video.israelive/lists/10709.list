@@ -1,0 +1,74 @@
+[
+  {
+    "group": "10709", 
+    "name": "Duna World", 
+    "url": "http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10711"
+  }, 
+  {
+    "group": "10709", 
+    "name": "Duna", 
+    "url": "http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10712"
+  }, 
+  {
+    "group": "10709", 
+    "name": "M1", 
+    "url": "http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10713"
+  }, 
+  {
+    "group": "10709", 
+    "name": "M2", 
+    "url": "http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10714"
+  }, 
+  {
+    "group": "10709", 
+    "name": "M4 Sport", 
+    "url": "http://212.40.98.162/intstreams/mtva/mtv4live.smil/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12506"
+  }, 
+  {
+    "group": "10709", 
+    "name": "ATV", 
+    "url": "rtmp://195.228.75.100/atvliveedge/_definst_/atvstream_2_aac", 
+    "image": "", 
+    "type": "video", 
+    "id": "12507"
+  }, 
+  {
+    "group": "10709", 
+    "name": "hir TV", 
+    "url": "http://streamserver.mno.netrix.hu/hls_delayed/live_ep_512k.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12508"
+  }, 
+  {
+    "group": "10709", 
+    "name": "BPTV", 
+    "url": "http://cloudfront44.lexanetwork.com:1935/relay20/bptv.sdp/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12509"
+  }, 
+  {
+    "group": "10709", 
+    "name": "Fehervar TV", 
+    "url": "rtmp://91.82.85.71:1935/liverelay/fehervartv.sdp", 
+    "image": "", 
+    "type": "video", 
+    "id": "12510"
+  }
+]

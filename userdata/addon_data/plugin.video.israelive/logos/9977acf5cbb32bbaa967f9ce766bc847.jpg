@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width" />
+	<title>&nbsp;</title>
+	<link href="http://i.cdnpark.com/themes/assets/style.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="http://i.cdnpark.com/themes/registrar/style_one2.css" rel="stylesheet" type="text/css" media="screen" />
+	<script src="http://parkingcrew.net/jspark.php?regcn=880926" type="text/javascript"></script>
+</head>
+<body>
+
+	<div id="wrapper">
+
+		<!-- ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– -->
+		<div id="twoclick" style="display: none;">
+		<div id="holder">
+				<div id="header">
+					<div class="logo">
+						<h1 id="domaintitle"><a href="#">&nbsp;</a></h1>
+						<span>This web space is expired.</span>
+					</div>
+					<div id="registrar">
+						<a href="http://www.one.com"><img src="http://i.cdnpark.com/themes/registrar/images/logo_one2.png" width="260" alt="one.com" /></a>
+					</div>
+				</div><!--header-->
+				<div id="form">
+					<form method="get" name="searchfrm" accept-charset="UTF-8">
+						<div style="float: left;"><input name="search" type="text" maxlength="50" id="q" value=""/></div>
+						<div style="float: left;">
+							<input type="hidden" name="ts" value="" />
+							<input type="hidden" name="token" value="" id="searchToken" />
+							<input type="submit" name="submit" value="Search" id="button"/>
+						</div>
+						<div style="clear: both;"></div>
+					</form>
+				</div><!--form-->
+				<div id="main">
+					<div class="content twoclick_margin" style="float:left;">
+						<div class="content-block">
+							<div class='rtWrapper rtMid' name='rt' data-length='15' data-nr='0' data-type='list'></div>
+						</div>
+					</div>
+				</div><!--main-->
+			</div>
+		</div><!--twoclick-->
+
+		<!-- ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+
+		<!-- ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– -->
+		<div id="oneclick" style="display: none">
+			<div id="header">
+				<div class="logo">
+					<h1 id="domaintitle"><a href="#">&nbsp;</a></h1>
+					<span>This web space is expired.</span>
+				</div>
+				<div id="registrar">
+					<a href="http://www.one.com"><img src="http://i.cdnpark.com/themes/registrar/images/logo_one2.png" width="260" alt="one.com" /></a>
+				</div>
+			</div><!--header-->
+
+			<div id="main">
+				<div class="content">
+					<div id="sponsored"></div>
+					<div class="content-block">
+						<div id='ads' class='links'></div>
+						<div id='webresults' class='weblinks'></div>
+						<div id='ads_repeated' class='links'></div>
+					</div>
+				</div><!--content-->
+				<div id="sidebar">	
+					<div class='rtWrapper' name='rt' data-length='10' data-nr='0' data-type='list'></div>
+					<div id="form">
+						<form method="get" name="searchfrm" accept-charset="UTF-8">
+							<div style="float: left;"><input name="search" type="text" maxlength="50" id="q" value=""/></div>
+							<div style="float: left;">
+								<input type="hidden" name="ts" value="" />
+								<input type="hidden" name="token" value="" id="searchToken" />
+								<input type="submit" name="submit" value="Search" id="button"/>
+							</div>
+						</form>
+					</div><!--form-->
+				</div>
+				<div id="block2">
+					<div class='rtWrapper' name='rt' data-length='10' data-nr='0' data-type='list'></div>
+					<div style="clear:both"></div>
+				</div><!--block2-->
+
+			</div><!--main-->
+		</div><!--onelick-->
+		<!-- ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+	</div><!--wrapper-->
+
+	<div id="footer">
+		2012 Copyright.  All Rights Reserved. <br/><br/>
+		The Sponsored Listings displayed above are served automatically by a third party. Neither Parkingcrew nor the domain owner maintain any relationship with the advertisers. In case of trademark issues please contact the domain owner directly (contact information can be found in whois).<br/><br/><a onclick="showPolicy();" href="javascript:void(0);">Privacy Policy</a>
+	</div>
+<script>
+	function showPolicy(){policywnd = window.open('http://www.parkingcrew.net/privacy_german.html','pcrew_policy','width=890,height=330,left=200,top=200,menubar=no,status=yes,toolbar=no');policywnd.focus();}
+</script>
+</body>
+</html>

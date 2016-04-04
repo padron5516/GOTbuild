@@ -1,0 +1,1 @@
+["[COLOR greenyellow][B]Q[/B][CO", ["color greenyellow b q /b command"], [], {"google:suggesttype": ["TAIL"]}]

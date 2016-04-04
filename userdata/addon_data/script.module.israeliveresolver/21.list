@@ -1,0 +1,302 @@
+{
+  "rossija": {
+    "url": "http://hls.peers.tv/streaming/rossija/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Россия 1"
+  }, 
+  "uspex": {
+    "url": "http://hls.peers.tv/streaming/uspex/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Успех"
+  }, 
+  "euronews": {
+    "url": "http://hls.peers.tv/streaming/euronews/126/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "EuroNews"
+  }, 
+  "krik_tv": {
+    "url": "http://hls.peers.tv/streaming/krik_tv/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "КРИК-ТВ"
+  }, 
+  "kultura": {
+    "url": "http://hls.peers.tv/streaming/kultura/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Россия К"
+  }, 
+  "ldpr_tv": {
+    "url": "http://hls.peers.tv/streaming/ldpr_tv/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "ЛДПР.ТВ"
+  }, 
+  "novoe_televidenie": {
+    "url": "http://hls.peers.tv/streaming/novoe_televidenie/318/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Новое телевидение"
+  }, 
+  "5kanal": {
+    "url": "http://hls.peers.tv/streaming/5kanal/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Пятый"
+  }, 
+  "zagorod_zh": {
+    "url": "http://hls.peers.tv/streaming/zagorod_zh/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Загородная жизнь"
+  }, 
+  "gornaya_strana": {
+    "url": "http://hls.peers.tv/streaming/gornaya_strana/16/copy/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Горная страна"
+  }, 
+  "sport": {
+    "url": "http://peers.tv/data/files/media/matchtv.mp4?peerstv_abuse=mailto%3Ainfo%40matchtv.ru%3Fsubject%3D%25D0%259F%25D1%2580%25D0%25BE%25D1%2581%25D1%258C%25D0%25B1%25D0%25B0%2520%25D0%25B2%25D0%25B5%25D1%2580%25D0%25BD%25D1%2583%25D1%2582%25D1%258C%2520%25D0%25B2%25D0%25B5%25D1%2589%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5%2520%25D0%25B2%25D0%25B0%25D1%2588%25D0%25B5%25D0%25B3%25D0%25BE%2520%25D1%2582%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BA%25D0%25B0%25D0%25BD%25D0%25B0%25D0%25BB%25D0%25B0%2520%25D0%25B2%2520%25D1%2581%25D0%25B5%25D1%2580%25D0%25B2%25D0%25B8%25D1%2581%25D0%25B5%2520Peers.TV%26body%3D%25D0%2597%25D0%25B4%25D1%2580%25D0%25B0%25D0%25B2%25D1%2581%25D1%2582%25D0%25B2%25D1%2583%25D0%25B9%25D1%2582%25D0%25B5.%2520%25D0%25AF%2520%25D0%25BF%25D0%25BE%25D0%25BB%25D1%258C%25D0%25B7%25D1%2583%25D1%258E%25D1%2581%25D1%258C%2520%25D1%2581%25D0%25B5%25D1%2580%25D0%25B2%25D0%25B8%25D1%2581%25D0%25BE%25D0%25BC%2520Peers.TV%2520%25D0%25B8%2520%25D1%2585%25D0%25BE%25D1%2587%25D1%2583%2520%25D0%25B2%25D0%25B5%25D1%2580%25D0%25BD%25D1%2583%25D1%2582%25D1%258C%2520%25D1%2581%25D0%25B5%25D0%25B1%25D0%25B5%2520%25D0%25B4%25D0%25BE%25D1%2581%25D1%2582%25D1%2583%25D0%25BF%2520%25D0%25BA%2520%25D0%25B2%25D0%25B5%25D1%2589%25D0%25B0%25D0%25BD%25D0%25B8%25D1%258E%2520%25D0%25B2%25D0%25B0%25D1%2588%25D0%25B5%25D0%25B3%25D0%25BE%2520%25D1%2582%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BA%25D0%25B0%25D0%25BD%25D0%25B0%25D0%25BB%25D0%25B0.%2520%25D0%2591%25D0%25BB%25D0%25B0%25D0%25B3%25D0%25BE%25D0%25B4%25D0%25B0%25D1%2580%25D1%258E%2520%25D0%25B7%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B5%25D0%25B5.%2520&token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Матч ТВ"
+  }, 
+  "zvezda": {
+    "url": "http://hls.peers.tv/streaming/zvezda/126/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Звезда"
+  }, 
+  "amediapremium_hd": {
+    "url": "http://195.189.238.40/amediapremium_hd/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Amedia Premium HD"
+  }, 
+  "zoopark": {
+    "url": "http://hls.peers.tv/streaming/zoopark/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Zоопарк"
+  }, 
+  "tvtrailer": {
+    "url": "http://hls.peers.tv/streaming/tvtrailer/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "ТВ-ТРЕЙЛЕР"
+  }, 
+  "2x2tv": {
+    "url": "http://hls.peers.tv/streaming/2x2tv/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "2х2"
+  }, 
+  "43_kanal": {
+    "url": "http://hls.peers.tv/streaming/43_kanal/126/copy/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}\t\t]", 
+    "name": "43 Канал"
+  }, 
+  "mtvam": {
+    "url": "http://94.125.187.18/hlsam/med/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "MTV.AM"
+  }, 
+  "kuban24": {
+    "url": "http://hls.peers.tv/streaming/kuban24/126/copy/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Кубань 24 ОРБИТА"
+  }, 
+  "boks_tv": {
+    "url": "http://hls.peers.tv/streaming/boks_tv/16/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Бокс ТВ"
+  }, 
+  "tvc": {
+    "url": "http://hls.peers.tv/streaming/tvc/126/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "ТВЦ"
+  }, 
+  "lifenews": {
+    "url": "http://hls.peers.tv/streaming/lifenews/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "LifeNews"
+  }, 
+  "smile": {
+    "url": "http://hls.peers.tv/streaming/smile/126/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Улыбка Ребенка"
+  }, 
+  "jv": {
+    "url": "http://hls.peers.tv/streaming/jv/16/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Живи"
+  }, 
+  "aone": {
+    "url": "http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "A-One"
+  }, 
+  "musboxtv": {
+    "url": "http://hls.peers.tv/streaming/musboxtv/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Music Box TV"
+  }, 
+  "russian_illusion": {
+    "url": "http://hls.peers.tv/streaming/russian_illusion/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Русский иллюзион"
+  }, 
+  "firstmuz": {
+    "url": "http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Первый музыкальный HD"
+  }, 
+  "tvmchannel": {
+    "url": "http://hls.peers.tv/streaming/tvmchannel/126/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "TVMChannel"
+  }, 
+  "vmeste_rf": {
+    "url": "http://hls.peers.tv/streaming/vmeste_rf/126/copy/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "ВМЕСТЕ-РФ"
+  }, 
+  "karusel": {
+    "url": "http://hls.peers.tv/streaming/karusel/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Карусель"
+  }, 
+  "musboxru": {
+    "url": "http://hls.peers.tv/streaming/musboxru/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Music Box RU"
+  }, 
+  "shopping_live": {
+    "url": "http://hls.peers.tv/streaming/shopping_live/16/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Shopping Live"
+  }, 
+  "avto_24": {
+    "url": "http://hls.peers.tv/streaming/avto_24/16/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Авто 24"
+  }, 
+  "wap": {
+    "url": "http://hls.peers.tv/streaming/wap/126/copy/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Война и Мир"
+  }, 
+  "1_obraz": {
+    "url": "http://hls.peers.tv/streaming/1_obraz/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Первый образовательный"
+  }, 
+  "tv21": {
+    "url": "http://hls.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "TVXXI"
+  }, 
+  "strk": {
+    "url": "http://hls.peers.tv/streaming/strk/126/copy/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "СТРК"
+  }, 
+  "amedia1": {
+    "url": "http://hls.peers.tv/streaming/amedia1/16/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Amedia 1"
+  }, 
+  "forkids": {
+    "url": "http://hls.peers.tv/streaming/forkids/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Детский"
+  }, 
+  "eurokino": {
+    "url": "http://hls.peers.tv/streaming/eurokino/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Еврокино"
+  }, 
+  "tbn": {
+    "url": "http://hls.peers.tv/streaming/tbn/126/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "ТБН-Россия"
+  }, 
+  "ots": {
+    "url": "http://hls.peers.tv/streaming/ots/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "ОТС"
+  }, 
+  "red_line": {
+    "url": "http://hls.peers.tv/streaming/red_line/126/copy/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Красная линия"
+  }, 
+  "ya1pm": {
+    "url": "http://hls.peers.tv/streaming/ya1pm/90/copy/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "8 канал Красноярский край"
+  }, 
+  "balance": {
+    "url": "http://hls.peers.tv/streaming/balance/126/copy/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Баланс-ТВ"
+  }, 
+  "49kanal": {
+    "url": "http://hls.peers.tv/streaming/49kanal/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "49 КАНАЛ"
+  }, 
+  "yumor_tv": {
+    "url": "http://hls.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Юмор TV"
+  }, 
+  "multimania": {
+    "url": "http://hls.peers.tv/streaming/multimania/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Мультимания"
+  }, 
+  "illyuzion": {
+    "url": "http://hls.peers.tv/streaming/illyuzion/16/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Иллюзион+"
+  }, 
+  "juce": {
+    "url": "http://hls.peers.tv/streaming/juce/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "JuCeTV"
+  }, 
+  "muzhskoj": {
+    "url": "http://hls.peers.tv/streaming/muzhskoj/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Мужской"
+  }, 
+  "futbol": {
+    "url": "http://hls.peers.tv/streaming/futbol/126/tvrec/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Футбол"
+  }, 
+  "pik_hd": {
+    "url": "http://hls.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Первый Интернет канал HD"
+  }, 
+  "nickelodeon": {
+    "url": "http://hls.peers.tv/streaming/nickelodeon/126/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "true}", 
+    "name": "Nickelodeon"
+  }, 
+  "rbk": {
+    "url": "http://hls.peers.tv/streaming/rbk/126/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "РБК"
+  }, 
+  "hopetv": {
+    "url": "http://hls.peers.tv/streaming/hopetv/126/copy/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Надежда"
+  }, 
+  "otvrus": {
+    "url": "http://hls.peers.tv/streaming/otvrus/16/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "ОТР"
+  }, 
+  "vesti": {
+    "url": "http://hls.peers.tv/streaming/vesti/126/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Россия 24"
+  }, 
+  "mir24": {
+    "url": "http://hls.peers.tv/streaming/mir24/16/tvrecw/playlist.m3u8?token=d1eddbbd023967876ee2c1ff43ca51e5|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "is_locked": "false}", 
+    "name": "Мир 24"
+  }
+}

@@ -1,0 +1,1 @@
+["[COLO", ["colors halsey", "colors of the wind", "colourpop", "colourpop ultra matte", "colors tv", "color", "colourpop ultra matte liquid lipsticks", "color song", "colonel loud california", "colossus"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

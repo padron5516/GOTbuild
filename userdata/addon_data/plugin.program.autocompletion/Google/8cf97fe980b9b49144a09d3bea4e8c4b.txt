@@ -1,0 +1,1 @@
+["[COL", ["coldplay", "collegehumor", "coldplay adventure of a lifetime", "colbert", "coldplay viva la vida", "coldplay hymn for the weekend", "coldplay sky full of stars", "colleen ballinger", "coldplay paradise", "colt 45"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

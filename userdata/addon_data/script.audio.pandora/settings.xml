@@ -1,0 +1,14 @@
+<settings>
+    <setting id="auto_start" value="false" />
+    <setting id="firstrun" value="true" />
+    <setting id="format" value="2" />
+    <setting id="last_station_id" value="" />
+    <setting id="logo" value="true" />
+    <setting id="pandoraone" value="false" />
+    <setting id="proxy_enable" value="false" />
+    <setting id="scrobble_hack" value="false" />
+    <setting id="scrobble_hack_time" value="1" />
+    <setting id="skin" value="Default" />
+    <setting id="sort_stations" value="false" />
+    <setting id="thumbnailArtwork" value="0" />
+</settings>

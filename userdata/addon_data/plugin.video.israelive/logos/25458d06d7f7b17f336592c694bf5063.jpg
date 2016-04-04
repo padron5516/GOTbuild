@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>4fun Media</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-ui">
+		<meta charset="UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c>u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(p,function(e,n){t[e]||(t[e]=n)});var n="https"===s.split(":")[0]||t.sslForHttp;l.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),c=t(1),u=window,f=u.document;t(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var v=0},{1:12,2:3,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],12:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},["G9z0Bl"]);</script>
+
+		<meta name="keywords" content="4fun.tv, 4fun hits, 4fun fit&dance, telewizja, spólka gieldowa">
+		<meta name="description" content="4fun Media S.A. to grupa kapita?owa notowana na Warszawskiej Gie?dzie Papierów Warto?ciowych">
+
+		<meta property="og:type" content="website">
+  		<meta property="og:image" content="http://4funmedia.pl/assets/media/4funmedia-01.jpg">
+  		<meta property="og:title" content="4fun Media">
+  		<meta property="og:url" content="http://4funmedia.pl/">
+  		<meta property="og:description" content="4fun Media S.A. to grupa kapita?owa notowana na Warszawskiej Gie?dzie Papierów Warto?ciowych">
+
+		<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+		<link href='/assets/css/4funmedia.css' rel='stylesheet' type='text/css'>
+		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css" rel="stylesheet">
+		<link href="/assets/css/csss-custom.css" rel="stylesheet" type="text/css">
+
+		<link rel="shortcut icon" href="/assets/favicons/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="/assets/favicons/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/favicons/apple-touch-icon-152x152.png" />
+
+		<link href="/assets/css/colorbox.css" rel="stylesheet" type="text/css">
+<link href="/assets/css/4fun.css" rel="stylesheet" type="text/css">
+	<style>
+		
+	</style>
+	</head>
+	<body>
+    <div class="preloader">
+    <i class="fa fa-spinner fa-spin"></i>
+  </div>
+  <div class="container invisible">
+    	    <header class="row">
+
+      <!-- Navigation Bar -->
+      <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#" 
+                    style="padding: 15px;"
+><img src="assets/foto/logo-4fun-media-small.png" alt="4fun Media" title="4fun Media"></a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul  class="nav navbar-nav">
+<!-- class="nav navbar-nav" -->
+<li >
+<a class="scroll" href="#slider" title="Slider" >Home</a>
+
+</li>
+<li >
+<a class="scroll" href="#services" title="Zobacz czym się zajmujemy" >Usługi</a>
+
+</li>
+<li >
+<a class="scroll" href="#team" title="Poznaj nasz Zespół" >Zespół</a>
+
+</li>
+<li >
+<a class="scroll" href="#contact" title="Kontakt" >Kontakt</a>
+
+</li>
+
+
+<li >
+<a class="scroll" href="relacje-inwestorskie/grupa-kapitalowa-4fun-media-sa.html" title="Relacje Inwestorskie" target="_blank">Relacje Inwestorskie</a>
+</li>
+</ul>
+        </div><!-- /.navbar-collapse -->
+      </nav><!-- End of Navigation Bar -->
+
+    </header>
+	    <!-- Slider -->
+    <a class="scroll scroll-down-arrow" href="#services"><i class="fa fa-arrow-down"></i></a>
+    <section id="slider" class="row">
+      <div id="wanchai-carousel" class="carousel slide">
+       
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+    <div class="carousel-caption">
+        <h1 class="hide">4fun Media</h1>
+        
+    </div>
+    <div id="customElement"></div>
+
+<div id="videoDriver" class="player" data-property="{videoURL:'https://youtu.be/PdjKCrs7-UE',containment:'#customElement', showControls:false, autoPlay:true, loop:true, mute:true, startAt:0, opacity:1, addRaster:true, quality:'default', realfullscreen:true}"></div>
+
+</div>
+        </div>
+
+        
+      </div><!-- End of #wanchai-carousel -->
+    </section><!-- End of Slider -->
+    <section class="row separator parallax" data-background-image="assets/images/placehold-orange.jpg" data-parallax-factor="0.8">
+        <div class="col-md-10 col-md-offset-1">
+        <p>4FUN MEDIA - jedyna grupa mediowa i reklamowa łącząca <br />świat nowoczesnej rozrywki i niestandardowej reklamy.</p>
+      </div>
+    </section>
+    <!-- Services -->
+    <section id="services" class="row color" data-scroll-factor="0.7">
+        <div class="col-md-10 col-md-offset-1">
+          <div class="icon"><i class="fa fa-music"></i></div>
+          <h1>Zobacz czym się zajmujemy</h1>
+          <div class="section-content">
+            <p>4fun Media to nie tylko 3 stacje telewizyjne, skuteczne i konwertujące media społecznościowe.<br />Potrafimy znacznie więcej. Sam zobacz.</p>
+            <div class="row">
+                            <div class="col-md-4 service">
+                <div class="icon service-icon animate-zoom"><i class="fa fa-dot-circle-o"></i></div>
+                <h3>Strategie komunikacji</h3>
+                <p><p>Strategie komunikacji pomiędzy grupą docelową <br>a marką poprzez świat rozrywki </p></p>
+              </div>
+              <div class="col-md-4 service">
+                <div class="icon service-icon animate-zoom"><i class="fa fa-cube"></i></div>
+                <h3>Branded content</h3>
+                <p><p>Umiejętne podejście do skutecznego branded content <br>tak aby jego efektywność była na jak najwyższym poziomie.</p></p>
+              </div>
+              <div class="col-md-4 service">
+                <div class="icon service-icon animate-zoom"><i class="fa fa-futbol-o"></i></div>
+                <h3>Lokowanie produktów</h3>
+                <p><p>Przemyślane strategie i skuteczne wdrożenia <br>tym wyróżnia się nasze lokowanie produktów.</p></p>
+              </div>
+              <div class="col-md-4 service">
+                <div class="icon service-icon animate-zoom"><i class="fa fa-film"></i></div>
+                <h3>Produkcja wideo</h3>
+                <p>Produkcja programów telewizyjnych,<br>krótkich jak i długich form do TV oraz Internetu.<br></p>
+              </div>
+              <div class="col-md-4 service">
+                <div class="icon service-icon animate-zoom"><i class="fa fa-signal"></i></div>
+                <h3>Dystrybucja i PR kanałów TV</h3>
+                <p>Od lat realizujemy skuteczne strategie wprowadzenia oraz PR<br>dla kanałów TV na Polskim rynku.<br>Obsługujemy kilkanascie kanałów TV.<br></p>
+              </div>
+              <div class="col-md-4 service">
+                <div class="icon service-icon animate-zoom"><i class="fa fa-globe"></i></div>
+                <h3>Produkcja eventów</h3>
+                <p>Kto zrobił największą imprezę w wakacje 2015 w Warszawie?<br>No my :-) 10te urodziny 4FUN.TV w La Playa jeszcze przez wiele miesięcy<br>były tematem wspomnień i rozmów.<br>Tobie też możemy zorganizować niezapomniany event.</p>
+              </div>
+              <div class="col-md-4 service">
+                <div class="icon service-icon animate-zoom"><i class="fa fa-facebook-square"></i></div>
+                <h3>Zarządzanie mediami społecznosciowymi</h3>
+                <p>Lubi nas ponad 1,5 mln osób na samym FB,<br>mamy najwyższe poziomy interakcji,<br>wiemy jak to robić<br>i możemy to zrobić także dla Ciebie.<br></p>
+              </div>
+            </div>
+          </div>
+        </div><!-- End of .col-md-10 -->
+    </section><!-- End of Services -->
+    <section class="row separator parallax" data-background-image="assets/images/placehold-green.jpg" data-parallax-factor="0.8">
+        <div class="col-md-10 col-md-offset-1">
+        <p>Rozrywka i reklama brandów. Znamy się na tym.</p>
+      </div>
+    </section>
+    <!-- Team -->
+    <section id="team" class="row " data-scroll-factor="0.6">
+        <div class="col-md-10 col-md-offset-1">
+          <div class="icon"><i class="fa fa-user"></i></div>
+          <h1>Poznaj nasz Zespół</h1>
+          <div class="section-content">
+            <p>Takiej ekipy ze świeczką szukać.<br />
+Uśmiechnięci, profesjonalni, zmotywowani, kreatywni, jednym słowem - zawodowcy.<br />
+Codzienną pracą udowadniamy, że z nami pracuje się lepiej, szybciej i efektywniej. Spróbuj, a i Ty uzależnisz się od nas.</p>
+            <div class="row">
+                            <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/BARAN2m.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Rafał Baran</h4>
+                     <p class="title">CEO</p>
+                     <p>Techno generał, ajatollah reklamy, papież PR.
+</p>
+                     <ul class="social list-inline">
+	<li><a href="https://www.facebook.com/rafal.baran2"><i class="fa fa-facebook"></i></a></li>
+	<li><a href="https://www.linkedin.com/pub/rafal-baran/19/735/8b2"><i class="fa fa-linkedin"></i></a></li>
+</ul>
+                   </div>
+                 </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/ANETAm.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Aneta Parafiniuk</h4>
+                     <p class="title">Finanse</p>
+                     <p>
+Mistrzyni świata finansów</p>
+                     
+                   </div>
+                 </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/NAWOJKAm.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Nawojka Chałupińska</h4>
+                     <p class="title">PR i Komunikacja</p>
+                     <p>Skromna "hedonistka, konsekwentna żyleta, chodząca siatka kontaktów, party animal.</p>
+                     <ul class="social list-inline">
+	
+	<li><a href="https://www.linkedin.com/pub/nawojka-karolina-chalupinska/54/a0a/996/en"><i class="fa fa-linkedin"></i></a></li>
+	
+</ul>
+                   </div>
+                 </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/MATIm.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Mateusz Górecki</h4>
+                     <p class="title">Innowacje</p>
+                     <p>Wiecznie uśmiechnięty maniak technologii i Internetu. Zakochany w innowacyjnym podejściu do każdej dziedziny życia.
+</p>
+                     <ul class="social list-inline">
+	<li><a href="https://www.facebook.com/mattteoalessandro"><i class="fa fa-facebook"></i></a></li>
+	<li><a href="https://twitter.com/mateuszgorecki"><i class="fa fa-twitter"></i></a></li>
+	<li><a href="https://pl.linkedin.com/in/mateuszgorecki"><i class="fa fa-linkedin"></i></a></li>
+</ul>
+                   </div>
+                 </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/EWAm.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Ewa Ługowska</h4>
+                     <p class="title">Koordynacja Projektów</p>
+                     <p><p>Getting stuff done</p></p>
+                     <ul class="social list-inline">
+	
+	<li><a href="https://pl.linkedin.com/pub/ewa-ługowska/bb/755/657"><i class="fa fa-linkedin"></i></a></li>
+</ul>
+                   </div>
+                 </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/WOJTASIKm.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Marcin Wojtasik</h4>
+                     <p class="title">Marketing</p>
+                     <p>Niewierny Tomasz marketingu, poszukiwacz insightów i efektywnych form reklamowych.
+</p>
+                     <ul class="social list-inline">
+	<li><a href="https://www.facebook.com/marcin.wojtasik.31"><i class="fa fa-facebook"></i></a></li>
+	
+</ul>
+                   </div>
+                 </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/JANASm.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Jarek Janas</h4>
+                     <p class="title">Kreacja</p>
+                     <p>Król longboardu i wielbiciel dobrego designu. Posiadacz pięknego umysłu. Wizjoner.
+</p>
+                     <ul class="social list-inline">
+	<li><a href="https://www.facebook.com/jarek.janas.5"><i class="fa fa-facebook"></i></a></li>
+	
+</ul>
+                   </div>
+                 </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/RUCELm.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Slawek Rucel</h4>
+                     <p class="title">Program</p>
+                     <p>Telewizję wyssał z mlekiem matki, na śniadanie zjada AMR z GRP i popija koktajlem ATS z SHR%.</p>
+                     <ul class="social list-inline">
+	<li><a href="https://www.facebook.com/slawek.rucel"><i class="fa fa-facebook"></i></a></li>
+	
+</ul>
+                   </div>
+                 </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/LEOm.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Łukasz Modzelewski</h4>
+                     <p class="title">Interakcja</p>
+                     <p><p>Zmienia poważne technologie w beztroską rozrywkę. Jego najnowsza zabawka dla widzów to 4FUN APP</p></p>
+                     <ul class="social list-inline">
+	<li><a href="https://pl.linkedin.com/in/modzelewski"><i class="fa fa-linkedin"></i></a></li>
+	
+</ul>
+                   </div>
+                 </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/HUBERTm.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Hubert Augustyniak</h4>
+                     <p class="title">Muzyka</p>
+                     <p>Muzykofil. Pożeracz sushi. Fetyszysta winylowych płyt. Kociarz.</p>
+                     <ul class="social list-inline">
+	<li><a href="https://www.facebook.com/hubert.augustyniak"><i class="fa fa-facebook"></i></a></li>
+	<li><a href="https://twitter.com/AugustyniakH "><i class="fa fa-twitter"></i></a></li>
+	
+</ul>
+                   </div>
+                 </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/GAŁACHm.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Robert Gałach</h4>
+                     <p class="title">IT</p>
+                     <p>Mistrz kodu, serwera i internetu.</p>
+                     <ul class="social list-inline">
+	<li><a href="https://pl.linkedin.com/in/rgalach"><i class="fa fa-linkedin"></i></a></li>
+</ul>
+                   </div>
+                 </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="member">
+                  <div class="photo animate-zoom" data-member-photo="assets/media/team_photos/BERGERm.jpg"></div>
+                   <div class="desc">
+                     <h4 class="name">Robert Berger</h4>
+                     <p class="title">Produkcja</p>
+                     <p>Magik kamery i obrazu. Zorganizuje i poprowadzi nawet najbardziej skomplikowany plan zdjęciowy.</p>
+                     
+                   </div>
+                 </div>
+              </div>
+            </div>
+          </div>
+        </div><!-- End of .col-md-10 -->
+    </section><!-- End of Team -->
+    <section id="twitter-feed" class="row separator parallax" data-background-image="assets/images/placehold-green.jpg" data-parallax-factor="0.8">
+        <div class="col-md-10 col-md-offset-1 text-center">
+        <div class="icon"><i class="fa fa-twitter"></i></div>
+        <div class="tweets">Loading...</div>
+        </div><!-- End of .col-md-10 -->
+    </section><!-- End of Twitter Feed-->
+    <!-- Contact -->
+    <section id="contact" class="row " data-scroll-factor="0.7">
+      <div id="map-canvas"></div>
+      <div class="col-md-10 col-md-offset-1">
+        <div class="icon"><i class="fa fa-info"></i></div>
+        <h1>Kontakt</h1>
+        <div class="section-content">
+          
+
+<ul class="contact-info row">
+	<li class="col-sm-4"><i class="fa fa-map-marker animate-zoom"></i><br>ul. Bobrowiecka 1a, 00-728, Warszawa, Polska</li>
+	<li class="col-sm-4"><i class="fa fa-phone animate-zoom"></i><br>+48(22) 4884300</li>
+	<li class="col-sm-4"><i class="fa fa-envelope animate-zoom"></i><br><a href="mailto:pr@4funmedia.pl">pr@4funmedia.pl</a></li>
+</ul>
+          <form class="form-horizontal" role="form" method="post" action="index/contact/contact-form-processor.html" name="contact-form" id="contact-form">
+            <div class="form-group">
+                  <input type="text" class="form-control" id="contact-form-name" name="contact-form-name" placeholder="Imię">
+            </div>
+            <div class="form-group">
+                  <input type="email" class="form-control" id="contact-form-email" name="contact-form-email" placeholder="E-mail">
+            </div>
+
+            <div class="form-group">
+                  <textarea class="form-control" id="contact-form-message" name="contact-form-message" rows="3" placeholder="Wiadomość"></textarea>
+            </div>
+
+            <div class="form-group">
+                  <button type="submit" class="btn btn-default" id="contact-form-submit-btn">Wyślij</button>
+            </div>
+          </form>
+          <div id="message"></div>
+        </div>
+      </div><!-- End of .col-md-10 -->
+    </section><!-- End of Contact-->
+    <!-- Footer -->
+    <footer class="row color">
+      <div class="col-md-10 col-md-offset-1">
+        <div class="row text-center">
+          <ul class="social-icons list-inline">
+	<li><a href="https://www.facebook.com/4funmediasa"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://www.facebook.com/4fun.tv"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://twitter.com/4funmediasa"><i class="fa fa-twitter"></i></a></li>	
+        <li><a href="https://twitter.com/4_fun_tv"><i class="fa fa-twitter"></i></a></li>
+	<li><a href="https://instagram.com/4funtv/"><i class="fa fa-instagram"></i></a></li>
+	<li><a href="https://www.youtube.com/c/4funtv"><i class="fa fa-youtube"></i></a></li>
+	
+</ul>
+<p>Copyright &copy; 4fun Media S.A. 2015. Wszelkie prawa zastrzeżone.</p>
+        </div>
+      </div><!-- End of .col-md-10 -->
+    </footer><!-- End of Footer -->
+  </div>
+	  <script>
+		  var WanChaiJSSettings = {
+		  	parallax: {
+		  		mode: 1,
+		  	},
+			twitter_feed: {
+				user: '4funmediasa',
+				numOfTweets: 5,
+				duration: 5000,
+			},
+			slider: {
+				sliderImgHeightToWidthRatio: 2/3,
+				sliderInterval: 5000
+			},
+			portfolio: {
+				thumbsPerRow: 3,
+				heightToWidthRatio: 3/4,
+				openNewWindow: true,
+				moreInfoLabel: 'More Info',
+				autoScroll: true,
+				animationDuration: 300
+			},
+			testimonials: {
+				duration: 5000
+			},
+			blog: {
+				openInIframe: false,
+				blogIndexPage: 'index/aktualnosci/blog-posts.html',
+				linkMenuItemToBlogIndexPage: false,
+			},
+			google_maps:{
+				styled: true,
+				disableDefaultUI: false,
+				scrollwheel: false,
+				latitude: 52.195823,
+				longitude: 21.045706,
+				zoom: 16,
+				gamma: 1.75,
+				saturation: -80,
+				lightness: -10,
+				hue: '#FF339A',
+				invertLightness: false
+			},
+			mailchimp:{
+				action: '#',
+				openNewWin: true
+			}
+		  };
+	  </script>
+	  <script data-main="/assets/js/config" src="/assets/js/require.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.js"></script>
+<script src="/assets/js/jquery.mb.YTPlayer.min.js"></script>
+<script>
+   var myPlayer;
+   jQuery(function () {
+       var isIframe=function(){
+           var a=!1;
+	            	try { 
+		            		self.location.href!=top.location.href&&(a=!0)
+		            } catch(b) { a=!0 }
+		            return a
+		    };
+            myPlayer = jQuery("#videoDriver").YTPlayer();
+        });
+</script>
+
+
+
+
+	  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20725614-8', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c5e3cfc26d","applicationID":"9078321","transactionName":"ZVxWNksDX0AAU01bDFwWYRBQTVhdBVVBHBNaSQ==","queueTime":0,"applicationTime":65,"atts":"SRtVQAMZTE4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

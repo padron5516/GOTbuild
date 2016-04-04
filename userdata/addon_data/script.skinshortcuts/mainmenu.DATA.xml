@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>videos</defaultID>
+		<label>3</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/film.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,VideoLibrary)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>movies</defaultID>
+		<label>20342</label>
+		<label2>Custom item</label2>
+		<icon>special://skin/extras/icons/film.png</icon>
+		<thumb />
+		<action>ActivateWindow(VideoLibrary,"plugin://plugin.video.exodus/?action=movies&amp;url=http%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%3Ftitle_type%3Dfeature%2Ctv_movie%26languages%3Den%26num_votes%3D100%2C%26production_status%3Dreleased%26year%3D2016%2C2016%26sort%3Dmoviemeter%2Casc%26count%3D40%26start%3D1",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>tvshows</defaultID>
+		<label>20343</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,TVShowTitles,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>music</defaultID>
+		<label>2</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/songs.png</icon>
+		<thumb />
+		<action>ActivateWindow(Music)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>livetv</defaultID>
+		<label>$SKIN[31103|skin.arctic.zephyr|Live TV]</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/livetv.png</icon>
+		<thumb />
+		<action>ActivateWindow(MyPVR)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>pictures</defaultID>
+		<label>1</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/pictures.png</icon>
+		<thumb />
+		<action>ActivateWindow(Pictures)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>programs</defaultID>
+		<label>0</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/addons.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>10004</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/settings.png</icon>
+		<thumb />
+		<action>ActivateWindow(Settings)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>power</defaultID>
+		<label>33060</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/power.png</icon>
+		<thumb />
+		<action>ActivateWindow(shutdownmenu)</action>
+	</shortcut>
+</shortcuts>

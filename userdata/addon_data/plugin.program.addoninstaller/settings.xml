@@ -1,0 +1,17 @@
+<settings>
+    <setting id="addon-view" value="500" />
+    <setting id="adult" value="true" />
+    <setting id="audio" value="true" />
+    <setting id="auto-view" value="true" />
+    <setting id="default-view" value="500" />
+    <setting id="featured" value="true" />
+    <setting id="list-view" value="50" />
+    <setting id="newest" value="true" />
+    <setting id="program" value="true" />
+    <setting id="repositories" value="true" />
+    <setting id="services" value="true" />
+    <setting id="toprepositories" value="true" />
+    <setting id="updated" value="true" />
+    <setting id="video" value="true" />
+    <setting id="world" value="true" />
+</settings>

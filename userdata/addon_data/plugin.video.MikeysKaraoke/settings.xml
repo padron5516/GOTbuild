@@ -1,0 +1,19 @@
+<settings>
+    <setting id="A-Z" value="50" />
+    <setting id="DEFAULT" value="50" />
+    <setting id="GENRE" value="50" />
+    <setting id="MAIN" value="50" />
+    <setting id="VIDEO" value="500" />
+    <setting id="auto-view" value="false" />
+    <setting id="downloads" value="false" />
+    <setting id="font" value="blue" />
+    <setting id="ga_time" value="2000-01-01 00:00:00" />
+    <setting id="id" value="14" />
+    <setting id="karaokantalive" value="false" />
+    <setting id="karaokantalivepass" value="" />
+    <setting id="karaokantaliveuser" value="" />
+    <setting id="pop_time" value="2000-01-01 00:00:00" />
+    <setting id="previous_folder_path" value="" />
+    <setting id="sfenable" value="false" />
+    <setting id="visitor_ga" value="1427907184" />
+</settings>

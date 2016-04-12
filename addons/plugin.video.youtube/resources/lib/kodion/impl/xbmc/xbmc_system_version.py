@@ -37,8 +37,5 @@ class XbmcSystemVersion(AbstractSystemVersion):
         if self._version >= (16, 0):
             self._name = 'Jarvis'
             pass
-        if self._version >= (17, 0):
-            self._name = 'Krypton'
-            pass
 
     pass

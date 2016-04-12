@@ -4,11 +4,6 @@
     </programs>
     <video>
         <default pathversion="1"></default>
-        <source>
-            <name>Serviio (MovieZPC)</name>
-            <path pathversion="1">upnp://6d176b40-49f7-3782-ba78-0e233deab7da/V/</path>
-            <allowsharing>true</allowsharing>
-        </source>
     </video>
     <music>
         <default pathversion="1"></default>
@@ -19,68 +14,13 @@
     <files>
         <default pathversion="1"></default>
         <source>
-            <name>*superrepo</name>
+            <name>Repository</name>
+            <path pathversion="1">http://anonymous.dcbnetworking.com/Repository/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>spr</name>
             <path pathversion="1">http://srp.nu/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>magic</name>
-            <path pathversion="1">http://repo.ares-project.com/magic/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Robocop</name>
-            <path pathversion="1">http://repo.shit.football/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>muckys</name>
-            <path pathversion="1">http://muckys.kodimediaportal.ml/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Ivue</name>
-            <path pathversion="1">http://tecbox.tv/repo/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>repo</name>
-            <path pathversion="1">http://theuforepo.us/repo/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>RenegadesTV</name>
-            <path pathversion="1">http://repo.sharktech.co.uk/RenegadesTV/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Renegades</name>
-            <path pathversion="1">http://repo.sharktech.co.uk/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Renegades2</name>
-            <path pathversion="1">http://repo.sharktech.co.uk/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>repo (2)</name>
-            <path pathversion="1">http://tecbox.tv/repo/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>RObocop (2)</name>
-            <path pathversion="1">http://repo.shit.football/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>AnonymousWizard</name>
-            <path pathversion="1">http://dcbnetworking.com/Wizard/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>UFO</name>
-            <path pathversion="1">http://theuforepo.us/repo</path>
             <allowsharing>true</allowsharing>
         </source>
     </files>

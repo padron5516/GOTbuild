@@ -7,7 +7,7 @@
     <audiocds>
         <autoaction default="true">0</autoaction>
         <ejectonrip default="true">true</ejectonrip>
-        <encoder>audioencoder.lame</encoder>
+        <encoder default="true">audioencoder.xbmc.builtin.wav</encoder>
         <recordingpath default="true"></recordingpath>
         <trackpathformat default="true">%A/%A - %B/[%N. ][%A - ]%T</trackpathformat>
         <usecddb default="true">true</usecddb>
@@ -60,14 +60,14 @@
         <extralogging default="true">true</extralogging>
         <screenshotpath default="true"></screenshotpath>
         <setextraloglevel default="true">32768</setextraloglevel>
-        <showloginfo>true</showloginfo>
+        <showloginfo default="true">false</showloginfo>
     </debug>
     <disc>
         <playback default="true">0</playback>
     </disc>
     <dvds>
-        <automenu>true</automenu>
-        <autorun>true</autorun>
+        <automenu default="true">false</automenu>
+        <autorun default="true">false</autorun>
         <playerregion default="true">0</playerregion>
     </dvds>
     <epg>
@@ -83,20 +83,20 @@
         <enablednotifications default="true">false</enablednotifications>
     </eventlog>
     <filelists>
-        <allowfiledeletion>true</allowfiledeletion>
+        <allowfiledeletion default="true">false</allowfiledeletion>
         <ignorethewhensorting default="true">true</ignorethewhensorting>
         <showaddsourcebuttons default="true">true</showaddsourcebuttons>
         <showextensions default="true">true</showextensions>
-        <showhidden>true</showhidden>
+        <showhidden default="true">false</showhidden>
         <showparentdiritems default="true">true</showparentdiritems>
     </filelists>
     <general>
         <addonbrokenfilter default="true">true</addonbrokenfilter>
         <addonforeignfilter default="true">false</addonforeignfilter>
         <addonnotifications default="true">true</addonnotifications>
-        <addonupdates>1</addonupdates>
-        <systemtotaluptime>17328</systemtotaluptime>
-        <settinglevel>3</settinglevel>
+        <addonupdates default="true">0</addonupdates>
+        <systemtotaluptime>118</systemtotaluptime>
+        <settinglevel>1</settinglevel>
         <eventlog>
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
@@ -108,10 +108,10 @@
     </input>
     <locale>
         <audiolanguage default="true">original</audiolanguage>
-        <charset>CP1252</charset>
+        <charset default="true">DEFAULT</charset>
         <country default="true">USA (12h)</country>
         <keyboardlayouts default="true">English QWERTY</keyboardlayouts>
-        <language>resource.language.en_us</language>
+        <language default="true">resource.language.en_gb</language>
         <longdateformat default="true">regional</longdateformat>
         <shortdateformat default="true">regional</shortdateformat>
         <speedunit default="true">regional</speedunit>
@@ -126,11 +126,11 @@
         <enablerssfeeds default="true">true</enablerssfeeds>
         <font default="true">Default</font>
         <rssedit default="true"></rssedit>
-        <skin>skin.xonfluence</skin>
+        <skin default="true">skin.confluence</skin>
         <skincolors default="true">SKINDEFAULT</skincolors>
         <skintheme default="true">SKINDEFAULT</skintheme>
         <skinzoom default="true">0</skinzoom>
-        <soundskin>resource.uisounds.amber</soundskin>
+        <soundskin default="true">resource.uisounds.confluence</soundskin>
         <startupwindow default="true">10000</startupwindow>
         <stereostrength default="true">5</stereostrength>
     </lookandfeel>
@@ -149,17 +149,17 @@
         <albumsscraper default="true">metadata.album.universal</albumsscraper>
         <artistsscraper default="true">metadata.artists.universal</artistsscraper>
         <backgroundupdate default="true">false</backgroundupdate>
-        <downloadinfo>true</downloadinfo>
-        <overridetags>true</overridetags>
+        <downloadinfo default="true">false</downloadinfo>
+        <overridetags default="true">false</overridetags>
         <showallitems default="true">true</showallitems>
         <showcompilationartists default="true">true</showcompilationartists>
-        <updateonstartup>true</updateonstartup>
+        <updateonstartup default="true">false</updateonstartup>
     </musiclibrary>
     <musicplayer>
         <autoplaynextitem default="true">true</autoplaynextitem>
-        <crossfade>5</crossfade>
+        <crossfade default="true">0</crossfade>
         <crossfadealbumtracks default="true">true</crossfadealbumtracks>
-        <queuebydefault>true</queuebydefault>
+        <queuebydefault default="true">false</queuebydefault>
         <replaygainavoidclipping default="true">false</replaygainavoidclipping>
         <replaygainnogainpreamp default="true">89</replaygainnogainpreamp>
         <replaygainpreamp default="true">89</replaygainpreamp>
@@ -171,7 +171,7 @@
     <mymusic>
         <defaultlibview default="true"></defaultlibview>
         <songthumbinvis default="true">false</songthumbinvis>
-        <startwindow>10502</startwindow>
+        <startwindow default="true">10501</startwindow>
         <playlist>
             <repeat>false</repeat>
             <shuffle>false</shuffle>
@@ -217,7 +217,7 @@
     </powermanagement>
     <pvrmanager>
         <backendchannelorder default="true">true</backendchannelorder>
-        <enabled>true</enabled>
+        <enabled default="true">false</enabled>
         <hideconnectionlostwarning default="true">false</hideconnectionlostwarning>
         <syncchannelgroups default="true">true</syncchannelgroups>
         <usebackendchannelnumbers default="true">false</usebackendchannelnumbers>
@@ -271,18 +271,18 @@
         <tvshowsdefault default="true">metadata.tvdb.com</tvshowsdefault>
     </scrapers>
     <screensaver>
-        <mode>script.screensaver.feedreader</mode>
+        <mode default="true">screensaver.xbmc.builtin.dim</mode>
         <time default="true">3</time>
         <usedimonpause default="true">true</usedimonpause>
         <usemusicvisinstead default="true">true</usemusicvisinstead>
     </screensaver>
     <services>
-        <airplay>true</airplay>
+        <airplay default="true">false</airplay>
         <airplaypassword default="true"></airplaypassword>
         <airplayvideosupport default="true">true</airplayvideosupport>
         <airplayvolumecontrol default="true">true</airplayvolumecontrol>
         <devicename default="true">Kodi</devicename>
-        <esallinterfaces>true</esallinterfaces>
+        <esallinterfaces default="true">false</esallinterfaces>
         <escontinuousdelay default="true">25</escontinuousdelay>
         <esenabled default="true">true</esenabled>
         <esinitialdelay default="true">750</esinitialdelay>
@@ -290,17 +290,17 @@
         <esport default="true">9777</esport>
         <esportrange default="true">10</esportrange>
         <upnpannounce default="true">true</upnpannounce>
-        <upnpcontroller>true</upnpcontroller>
+        <upnpcontroller default="true">false</upnpcontroller>
         <upnplookforexternalsubtitles default="true">false</upnplookforexternalsubtitles>
-        <upnprenderer>true</upnprenderer>
-        <upnpserver>true</upnpserver>
+        <upnprenderer default="true">false</upnprenderer>
+        <upnpserver default="true">false</upnpserver>
         <useairplaypassword default="true">false</useairplaypassword>
-        <webserver>true</webserver>
+        <webserver default="true">false</webserver>
         <webserverpassword default="true"></webserverpassword>
         <webserverport default="true">8080</webserverport>
         <webserverusername default="true">kodi</webserverusername>
         <webskin default="true">webinterface.default</webskin>
-        <zeroconf>true</zeroconf>
+        <zeroconf default="true">false</zeroconf>
     </services>
     <slideshow>
         <displayeffects default="true">true</displayeffects>
@@ -320,14 +320,14 @@
         <font default="true">arial.ttf</font>
         <height default="true">28</height>
         <languages default="true">English</languages>
-        <movie>service.subtitles.bsplayer</movie>
+        <movie default="true"></movie>
         <overrideassfonts default="true">false</overrideassfonts>
-        <parsecaptions>true</parsecaptions>
+        <parsecaptions default="true">false</parsecaptions>
         <pauseonsearch default="true">true</pauseonsearch>
         <stereoscopicdepth default="true">0</stereoscopicdepth>
         <storagemode default="true">0</storagemode>
         <style default="true">1</style>
-        <tv>service.subtitles.opensubtitles</tv>
+        <tv default="true"></tv>
     </subtitles>
     <system>
         <playlistspath>special://profile/playlists/</playlistspath>
@@ -336,14 +336,14 @@
         <actorthumbs default="true">true</actorthumbs>
         <backgroundupdate default="true">false</backgroundupdate>
         <flattentvshows default="true">1</flattentvshows>
-        <groupmoviesets>true</groupmoviesets>
-        <groupsingleitemsets>true</groupsingleitemsets>
+        <groupmoviesets default="true">false</groupmoviesets>
+        <groupsingleitemsets default="true">false</groupsingleitemsets>
         <showallitems default="true">true</showallitems>
         <showemptytvshows default="true">false</showemptytvshows>
         <showunwatchedplots default="true">true</showunwatchedplots>
         <tvshowsincludeallseasonsandspecials default="true">0</tvshowsincludeallseasonsandspecials>
-        <tvshowsselectfirstunwatcheditem>2</tvshowsselectfirstunwatcheditem>
-        <updateonstartup>true</updateonstartup>
+        <tvshowsselectfirstunwatcheditem default="true">0</tvshowsselectfirstunwatcheditem>
+        <updateonstartup default="true">false</updateonstartup>
     </videolibrary>
     <videoplayer>
         <adjustrefreshrate default="true">0</adjustrefreshrate>
@@ -391,17 +391,13 @@
         <vsync default="true">2</vsync>
     </videoscreen>
     <weather>
-        <addon>weather.yahoo</addon>
+        <addon default="true"></addon>
         <currentlocation default="true">1</currentlocation>
     </weather>
     <window>
-        <height>1045</height>
-        <width>1914</width>
+        <height>1051</height>
+        <width>1920</width>
     </window>
-    <audio>
-        <mute>false</mute>
-        <fvolumelevel>1.000000</fvolumelevel>
-    </audio>
     <resolutions />
     <defaultvideosettings>
         <deinterlacemode>1</deinterlacemode>
@@ -562,9 +558,9 @@
             <sortattributes>0</sortattributes>
         </programs>
         <videofiles>
-            <viewmode>66036</viewmode>
-            <sortmethod>0</sortmethod>
-            <sortorder>0</sortorder>
+            <viewmode>720896</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
             <sortattributes>0</sortattributes>
         </videofiles>
         <videonavactors>
@@ -616,4 +612,8 @@
             <sortattributes>0</sortattributes>
         </videonavyears>
     </viewstates>
+    <audio>
+        <mute>false</mute>
+        <fvolumelevel>1.000000</fvolumelevel>
+    </audio>
 </settings>
